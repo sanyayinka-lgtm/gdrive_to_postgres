@@ -1,0 +1,153 @@
+Customer ID,Full Name,Email Address,Phone Number,City,Join Date,Customer Segment
+CUST0001,Ayanda Naidoo,ayanda.naidoo1@example.co.za,+2715614226,Cape Town,2021-09-30,Student
+CUST0002,Lerato Nkosi,,+2714668136,Polokwane,2021-08-10,Premium
+CUST0003,David Petersen,david.petersen3@example.co.za,+2731109031,Bloemfontein,2020-10-15,Retail
+CUST0004,Sipho Mahlangu,sipho.mahlangu4@example.co.za,+2717022674,Polokwane,2022-11-09,Retail
+CUST0005,Chantelle Molefe,chantelle.molefe5@example.co.za,+2787067228,Cape Town,2025-06-22,Premium
+CUST0006,Naledi Mahlangu,naledi.mahlangu6@example.co.za,+2738606962,Cape Town,2026-02-16,Premium
+CUST0007,Chantelle Pillay,chantelle.pillay7@example.co.za,+2728755439,Bloemfontein,2023-04-04,Retail
+CUST0008,Zanele Dlamini,zanele.dlamini8@example.co.za,+2786292423,Bloemfontein,2023-07-02,Premium
+CUST0009,Ayanda Venter,ayanda.venter9@example.co.za,+2748698256,Polokwane,2020-08-08,Student
+CUST0010,  FATIMA PILLAY ,,+2729548432,Durban,2024-07-14,Student
+CUST0011,Riaan van der Merwe,riaan.vandermerwe11@example.co.za,+2747402509,Johannesburg,2025-09-06,Retail
+CUST0012,Busisiwe Moyo,busisiwe.moyo12@example.co.za,+2785476583,Gqeberha,not available,Premium
+CUST0013,Themba Naidoo,themba.naidoo13@example.co.za,+2786007072,Johannesburg,2026-03-02,Business
+CUST0014,Palesa Nkosi,palesa.nkosi14@example.co.za,+2717089806,East London,2022-06-13,Retail
+CUST0015,Sibusiso Moyo,sibusiso.moyo15@example.co.za,+2783109911,Polokwane,2020-06-09,Premium
+CUST0016,Chantelle Mokoena,chantelle.mokoena16@example.co.za,+2776229731,Cape Town,2023-06-23,Premium
+CUST0017,Zanele van der Merwe,ZANELE.VANDERMERWE17@EXAMPLE.CO.ZA,+2731352896,Johannesburg,2025-08-06,Premium
+CUST0018,Sipho Dlamini,sipho.dlamini18@example.co.za,+2786543670,East London,2019-10-18,Premium
+CUST0019,Palesa Govender,palesa.govender19@example.co.za,+2722582524,Johannesburg,2020-02-02,Retail
+CUST0020,Lerato Mahlangu,lerato.mahlangu20@example.co.za,+2776692553,Gqeberha,2020-03-23,Student
+CUST0021,Zanele van der Merwe,ZANELE.VANDERMERWE21@EXAMPLE.CO.ZA,+2742642635,Pretoria,2019-07-27,Premium
+CUST0022,Sarah Venter,SARAH.VENTER22@EXAMPLE.CO.ZA,+2744586084,East London,2023-07-01,Business
+CUST0023,Sarah Moyo,sarah.moyo23@example.co.za,+2779164991,Johannesburg,2020-09-26,Business
+CUST0024,Lerato Dlamini,lerato.dlamini24@example.co.za,+2768999183,Durban,2024-08-21,Retail
+CUST0025,riaan van der merwe,riaan.vandermerwe25@example.co.za,+2774946066,Cape Town,2023-07-12,Student
+CUST0026,Busisiwe Petersen,busisiwe.petersen26@example.co.za,+2769770838,Polokwane,2022-07-19,Premium
+CUST0027,  BUSISIWE MOLEFE ,busisiwe.molefe27@example.co.za,+2746304573,Pretoria,2019-10-25,Business
+CUST0028,Pieter Jacobs,pieter.jacobs28@example.co.za,+2715098412,Johannesburg,2023-02-22,Business
+CUST0029,Busisiwe Naidoo,busisiwe.naidoo29@example.co.za,+2725437001,Pretoria,2020-04-17,Business
+CUST0030,Johan Smith,johan.smith30@example.co.za,+2769196204,Gqeberha,2021-10-25,Retail
+CUST0031,Thabo Sithole,thabo.sithole31@example.co.za,+2783194789,Johannesburg,2026-02-22,Retail
+CUST0032,Sipho Khumalo,sipho.khumalo32@example.co.za,+2761604451,Johannesburg,2023-02-21,Business
+CUST0033,Johan Pillay,johan.pillay33@example.co.za,+2772724590,Durban,2022-12-19,Premium
+CUST0034,Aisha Botha,aisha.botha34@example.co.za,+2741415846,Pretoria,2021-01-04,Business
+CUST0035,Aisha Naidoo,aisha.naidoo35@example.co.za,+2741649691,Pretoria,2024-04-11,Premium
+CUST0036,Thabo Mokoena,thabo.mokoena36@example.co.za,+2746507321,Polokwane,2022-02-15,Business
+CUST0037,Thabo Naidoo,thabo.naidoo37@example.co.za,+2733995870,Bloemfontein,2025-07-06,Student
+CUST0038,Riaan Zulu,,+2717462506,Pretoria,2025-06-19,Business
+CUST0039,Sarah van der Merwe,sarah.vandermerwe39@example.co.za,+2776539837,Gqeberha,2025-12-27,Student
+CUST0040,kagiso mahlangu,kagiso.mahlangu40@example.co.za,+2775960271,Durban,2025-03-20,Business
+CUST0041,Andile Moyo,andile.moyo41@example.co.za,+2781006810,East London,2022-05-29,Student
+CUST0042,David Mokoena,david.mokoena42@example.co.za,+2768938746,Cape Town,2020-11-26,Premium
+CUST0043,  BUSISIWE MOLEFE ,busisiwe.molefe43@example.co.za,+2724340845,Cape Town,2020-08-26,Student
+CUST0044,Sarah Petersen,sarah.petersen44@example.co.za,+2727442089,Cape Town,2024-07-17,Student
+CUST0045,  ZANELE BOTHA ,zanele.botha45@example.co.za,+2789689889,East London,2024-03-17,Business
+CUST0046,Sibusiso Ndlovu,sibusiso.ndlovu46@example.co.za,+2769468772,East London,2023-10-14,Student
+CUST0047,Michael Pillay,michael.pillay47@example.co.za,+2785652512,Pretoria,2024-11-05,Business
+CUST0048,kagiso sithole,kagiso.sithole48@example.co.za,+2762351868,Polokwane,2020-07-20,Student
+CUST0049,Kagiso Moyo,kagiso.moyo49@example.co.za,+2747975534,Johannesburg,2019-09-13,Student
+CUST0050,Palesa Nkosi,palesa.nkosi50@example.co.za,+2736009888,Pretoria,2023-05-17,Student
+CUST0051,Zanele Smith,zanele.smith51@example.co.za,+2749147720,East London,2019-04-29,Premium
+CUST0052,Riaan Moyo,,+2717610562,Durban,2025-08-21,Student
+CUST0053,Aisha Dlamini,aisha.dlamini53@example.co.za,+2737360307,Polokwane,2022-09-02,Business
+CUST0054,Sipho Venter,sipho.venter54@example.co.za,+2711873851,Johannesburg,not available,Premium
+CUST0055,johan nkosi,johan.nkosi55@example.co.za,+2763556551,Gqeberha,2021-09-04,Business
+CUST0056,Aisha Radebe,AISHA.RADEBE56@EXAMPLE.CO.ZA,+2762921542,Polokwane,2020-11-01,Student
+CUST0057,Kabelo Mokoena,kabelo.mokoena57@example.co.za,+2715074336,Johannesburg,2020-02-22,Business
+CUST0058,Chantelle Govender,chantelle.govender58@example.co.za,+2777217147,Cape Town,2019-10-10,Student
+CUST0059,fatima ndlovu,fatima.ndlovu59@example.co.za,+2773566765,East London,2023-11-19,Student
+CUST0060,Sarah Petersen,sarah.petersen60@example.co.za,+2736407373,East London,2021-10-02,Student
+CUST0061,Kagiso Nkosi,kagiso.nkosi61@example.co.za,+2746452832,Gqeberha,2021-01-14,Retail
+CUST0062,Themba Mokoena,themba.mokoena62@example.co.za,+2715049282,East London,2023-07-23,Student
+CUST0063,Thabo van der Merwe,thabo.vandermerwe63@example.co.za,+2734717770,Bloemfontein,2023-07-15,Student
+CUST0064,Megan Moyo,megan.moyo64@example.co.za,+2736902401,Cape Town,2024-02-02,Premium
+CUST0065,Johan Mokoena,johan.mokoena65@example.co.za,+2779123504,Cape Town,2022-02-06,Premium
+CUST0066,  NOMVULA PILLAY ,nomvula.pillay66@example.co.za,+2734010529,Gqeberha,2022-05-23,Premium
+CUST0067,Ayanda Venter,ayanda.venter67@example.co.za,+2711205779,Gqeberha,2025-06-09,Student
+CUST0068,Naledi van der Merwe,naledi.vandermerwe68@example.co.za,+2749250138,Gqeberha,2019-10-31,Retail
+CUST0069,Zanele Naidoo,zanele.naidoo69@example.co.za,+2767982241,East London,2025-10-19,Business
+CUST0070,Mpho Govender,mpho.govender70@example.co.za,+2732010496,Gqeberha,2025-11-02,Retail
+CUST0071,  AISHA PILLAY ,aisha.pillay71@example.co.za,+2722259379,Pretoria,2020-10-03,Business
+CUST0072,Kabelo Molefe,kabelo.molefe72@example.co.za,+2778617381,Pretoria,2019-10-19,Student
+CUST0073,Naledi Moyo,naledi.moyo73@example.co.za,+2723499627,Gqeberha,2021-12-24,Student
+CUST0074,Naledi Ndlovu,naledi.ndlovu74@example.co.za,+2776101803,Johannesburg,2023-07-07,Student
+CUST0075,  MEGAN SITHOLE ,megan.sithole75@example.co.za,+2765200476,Johannesburg,2019-04-16,Business
+CUST0076,Mpho Dlamini,mpho.dlamini76@example.co.za,+2783939212,Polokwane,2024-04-11,Student
+CUST0077,Sipho Venter,sipho.venter77@example.co.za,+2737850944,East London,2022-09-27,Business
+CUST0078,  BUSISIWE MAHLANGU ,busisiwe.mahlangu78@example.co.za,+2781615675,Johannesburg,2024-02-06,Student
+CUST0079,Sarah Dlamini,sarah.dlamini79@example.co.za,+2729697969,Gqeberha,2023-01-21,Premium
+CUST0080,  NOMVULA NDLOVU ,nomvula.ndlovu80@example.co.za,+2779132114,Gqeberha,2020-05-12,Retail
+CUST0081,Chantelle Govender,chantelle.govender81@example.co.za,+2714769851,Gqeberha,2020-04-09,Business
+CUST0082,Sarah Venter,sarah.venter82@example.co.za,+2745089126,Durban,2024-02-14,Retail
+CUST0083,Michael Govender,michael.govender83@example.co.za,+2739518424,East London,2021-12-30,Premium
+CUST0084,David Moyo,david.moyo84@example.co.za,+2746790218,Pretoria,2022-09-23,Premium
+CUST0085,Mpho Mahlangu,mpho.mahlangu85@example.co.za,+2727891662,Durban,2019-06-28,Student
+CUST0086,Lerato Khumalo,lerato.khumalo86@example.co.za,+2766569946,Durban,2020-02-16,Student
+CUST0087,Ayanda Khumalo,ayanda.khumalo87@example.co.za,+2718876745,Polokwane,2021-12-21,Business
+CUST0088,  AYANDA VENTER ,ayanda.venter88@example.co.za,+2781602286,Cape Town,2025-12-04,Student
+CUST0089,Naledi Naidoo,,+2743791137,Gqeberha,2022-05-11,Business
+CUST0090,Fatima Govender,fatima.govender90@example.co.za,+2725096953,Polokwane,2024-12-15,Premium
+CUST0091,Palesa Petersen,palesa.petersen91@example.co.za,+2724895475,East London,2024-03-03,Business
+CUST0092,Busisiwe Moyo,busisiwe.moyo92@example.co.za,+2722239197,Gqeberha,2023-12-15,Student
+CUST0093,Nomvula Mokoena,nomvula.mokoena93@example.co.za,+2749106886,Gqeberha,2020-03-12,Retail
+CUST0094,Busisiwe Mahlangu,busisiwe.mahlangu94@example.co.za,+2731135861,East London,2025-05-07,Business
+CUST0095,Sibusiso Pillay,sibusiso.pillay95@example.co.za,+2766910964,Durban,2021-06-16,Retail
+CUST0096,Ayanda Dlamini,ayanda.dlamini96@example.co.za,+2738395785,Polokwane,2019-05-17,Premium
+CUST0097,Johan Khumalo,johan.khumalo97@example.co.za,+2787138070,East London,2024-12-14,Business
+CUST0098,Megan Sithole,megan.sithole98@example.co.za,+2782932227,Polokwane,2024-04-02,Business
+CUST0099,sipho mahlangu,sipho.mahlangu99@example.co.za,+2715436878,Polokwane,2025-01-06,Business
+CUST0100,Naledi Pillay,naledi.pillay100@example.co.za,+2741419843,Cape Town,2025-12-12,Student
+CUST0101,kabelo molefe,kabelo.molefe101@example.co.za,+2777850067,Cape Town,2020-04-22,Premium
+CUST0102,Chantelle Khumalo,chantelle.khumalo102@example.co.za,+2748610879,Durban,2023-02-28,Student
+CUST0103,Ayanda Naidoo,AYANDA.NAIDOO103@EXAMPLE.CO.ZA,+2789209880,East London,2025-11-26,Student
+CUST0104,Zanele Jacobs,zanele.jacobs104@example.co.za,+2717162857,Cape Town,2025-02-08,Student
+CUST0105,Sipho Mokoena,sipho.mokoena105@example.co.za,+2771358318,Cape Town,2019-07-27,Premium
+CUST0106,Mpho Mokoena,mpho.mokoena106@example.co.za,+2784909069,Durban,2022-09-07,Premium
+CUST0107,Chantelle Smith,,+2783927575,Pretoria,not available,Business
+CUST0108,Thabo Botha,thabo.botha108@example.co.za,+2731879109,Bloemfontein,2020-06-03,Retail
+CUST0109,David Zulu,david.zulu109@example.co.za,+2721727544,East London,2026-05-22,Student
+CUST0110,Sarah Naidoo,sarah.naidoo110@example.co.za,+2748441741,Bloemfontein,2019-10-29,Student
+CUST0111,Riaan Zulu,riaan.zulu111@example.co.za,+2738612081,Pretoria,2024-09-01,Student
+CUST0112,David Pillay,david.pillay112@example.co.za,+2746686328,Gqeberha,2024-02-01,Business
+CUST0113,  PIETER VENTER ,pieter.venter113@example.co.za,+2712530497,Johannesburg,2019-12-16,Business
+CUST0114,Busisiwe Naidoo,busisiwe.naidoo114@example.co.za,+2746932391,Gqeberha,2026-06-18,Business
+CUST0115,fatima naidoo,fatima.naidoo115@example.co.za,+2769512969,Bloemfontein,2021-05-21,Retail
+CUST0116,Sibusiso Smith,sibusiso.smith116@example.co.za,+2764794319,Johannesburg,2023-10-24,Business
+CUST0117,Thabo Botha,thabo.botha117@example.co.za,+2736183902,Cape Town,2022-10-23,Premium
+CUST0118,Megan Nkosi,megan.nkosi118@example.co.za,+2719900022,Bloemfontein,2021-05-31,Retail
+CUST0119,Lerato Khumalo,lerato.khumalo119@example.co.za,+2721834876,Gqeberha,2019-12-01,Premium
+CUST0120,sibusiso zulu,sibusiso.zulu120@example.co.za,+2716791039,Gqeberha,2023-10-27,Retail
+CUST0121,Zanele Mahlangu,zanele.mahlangu121@example.co.za,+2761919088,Gqeberha,2019-02-01,Business
+CUST0122,naledi nkosi,naledi.nkosi122@example.co.za,+2748225192,Bloemfontein,2020-12-20,Retail
+CUST0123,Andile Dlamini,andile.dlamini123@example.co.za,+2741314430,Polokwane,2024-02-27,Business
+CUST0124,Naledi Mahlangu,naledi.mahlangu124@example.co.za,+2716448705,Cape Town,2020-12-04,Student
+CUST0125,  NALEDI PILLAY ,naledi.pillay125@example.co.za,+2747718433,Durban,2024-11-16,Retail
+CUST0126,Themba Naidoo,themba.naidoo126@example.co.za,+2769555575,Durban,2021-03-05,Premium
+CUST0127,Naledi Khumalo,naledi.khumalo127@example.co.za,+2734309671,East London,2020-12-11,Student
+CUST0128,Sibusiso Petersen,sibusiso.petersen128@example.co.za,+2788531380,Bloemfontein,2025-05-01,Premium
+CUST0129,David van der Merwe,david.vandermerwe129@example.co.za,+2748419020,Gqeberha,2026-01-30,Student
+CUST0130,  DAVID DLAMINI ,david.dlamini130@example.co.za,+2717186390,Polokwane,2022-03-21,Student
+CUST0131,Mpho Moyo,mpho.moyo131@example.co.za,+2781688246,Durban,2024-01-17,Retail
+CUST0132,David Naidoo,david.naidoo132@example.co.za,+2786761929,East London,2019-12-12,Premium
+CUST0133,Fatima Jacobs,fatima.jacobs133@example.co.za,+2737499771,Bloemfontein,2023-08-02,Retail
+CUST0134,Kagiso Naidoo,kagiso.naidoo134@example.co.za,+2767485471,Durban,2022-03-09,Business
+CUST0135,Sipho Petersen,sipho.petersen135@example.co.za,+2773372774,Cape Town,2022-12-03,Business
+CUST0136,Chantelle Mahlangu,chantelle.mahlangu136@example.co.za,+2776510922,Cape Town,2020-06-07,Student
+CUST0137,Themba Jacobs,themba.jacobs137@example.co.za,+2717083379,Pretoria,2022-06-19,Premium
+CUST0138,Pieter van der Merwe,pieter.vandermerwe138@example.co.za,+2732696860,Bloemfontein,not available,Premium
+CUST0139,Riaan Mahlangu,riaan.mahlangu139@example.co.za,+2723722056,East London,2021-01-10,Retail
+CUST0140,Sarah Jacobs,sarah.jacobs140@example.co.za,+2774985095,Pretoria,2023-12-25,Business
+CUST0141,Palesa Mokoena,palesa.mokoena141@example.co.za,+2738391997,Durban,2024-03-06,Premium
+CUST0142,Riaan Khumalo,riaan.khumalo142@example.co.za,+2785194357,Cape Town,2019-08-02,Business
+CUST0143,sipho botha,sipho.botha143@example.co.za,+2738538325,East London,2024-10-03,Business
+CUST0144,Thabo Govender,thabo.govender144@example.co.za,+2717651393,Bloemfontein,2024-08-18,Retail
+CUST0145,  KABELO SITHOLE ,kabelo.sithole145@example.co.za,+2783450300,East London,2020-07-17,Student
+CUST0146,Riaan Nkosi,riaan.nkosi146@example.co.za,+2711318832,Polokwane,2021-11-14,Retail
+CUST0147,  SIBUSISO MOLEFE ,sibusiso.molefe147@example.co.za,+2726052478,Cape Town,2020-05-14,Student
+CUST0148,Riaan Moyo,riaan.moyo148@example.co.za,+2719646569,Pretoria,2025-06-13,Student
+CUST0149,Aisha van der Merwe,aisha.vandermerwe149@example.co.za,+2767049927,Johannesburg,2019-10-05,Student
+CUST0150,Palesa Dlamini,,+2777490791,Bloemfontein,2023-03-10,Premium
+CUST0011,Riaan van der Merwe,riaan.vandermerwe11@example.co.za,+2747402509,Johannesburg,2025-09-06,Retail
+CUST0041,Andile Moyo,andile.moyo41@example.co.za,+2781006810,East London,2022-05-29,Student

@@ -1,0 +1,2026 @@
+Transaction ID,Account ID,Transaction Date,Transaction Type,Description,Category,Amount,Currency,Channel,Status
+TXN0001142,ACC00134,2026-02-23,Purchase,Superbalist,Online Shopping,628.84,ZAR,POS,Completed
+TXN0000143,ACC00191,2026-08-01,Transfer,Transfer to Rent,Transfer,968.67,ZAR,EFT,Completed
+TXN0000016,ACC00205,2026-10-20,Withdrawal,ATM Withdrawal,Cash,2000.0,ZAR,Online,Completed
+TXN0000560,ACC00082,2026-06-21,Purchase,Ster-Kinekor,Entertainment,857.78,ZAR,Mobile App,Completed
+TXN0001955,ACC00201,2026-09-11,Refund,Superbalist Refund,Online Shopping,927.65,ZAR,ATM,Completed
+TXN0001978,ACC00165,2026-07-02,Purchase,Takealot,Online Shopping,3333.66,ZAR,ATM,Completed
+TXN0001214,ACC00008,2026-09-18,Transfer,Transfer to Rent,Transfer,10104.95,ZAR,EFT,Pending
+TXN0001663,ACC00220,2026-08-16,Purchase,Eskom Prepaid,Utilities,191.67,ZAR,EFT,Completed
+TXN0001758,ACC00182,2026-08-27,Deposit,EFT Credit,Income,23666.54,ZAR,ATM,Completed
+TXN0000324,ACC00033,2026-09-13,Transfer,Transfer to Family,Transfer,11242.57,ZAR,Mobile App,Completed
+TXN0001807,ACC00166,2026-03-21,Withdrawal,ATM Withdrawal,Cash,2000.0,ZAR,ATM,Completed
+TXN0000269,ACC00207,2026-08-06,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,Online,Completed
+TXN0000322,ACC00086,2026-05-01,Purchase,Nando's,Dining,33.68,ZAR,EFT,Completed
+TXN0001340,ACC00057,2026-04-12,Purchase,Vodacom,Utilities,251.01,ZAR,pos,Completed
+TXN0001737,ACC00164,2026-05-02,Deposit,Salary,Income,18979.98,ZAR,ATM,Completed
+TXN0000434,ACC00086,31/02/2026,Deposit,Interest,Income,17515.53,ZAR,Online,Completed
+TXN0000648,ACC00058,2026-10-17,Purchase,Ster-Kinekor,Entertainment,1893.3,ZAR,POS,Completed
+TXN0001198,ACC00179,2026-10-29,Withdrawal,ATM Withdrawal,Cash,2000.0,ZAR,POS,Completed
+TXN0001831,ACC00211,2026-05-25,Fee,ATM Fee,Bank Fees,60.08,ZAR,ATM,Completed
+TXN0001086,ACC00076,2026-06-07,Purchase,Pick n Pay,Groceries,3027.98,ZAR,ATM,Completed
+TXN0001490,ACC00087,2026-09-29,Purchase,Checkers,Groceries,1661.83,ZAR,online,Completed
+TXN0000631,ACC00075,2026-03-08,Deposit,Interest,Income,29762.44,ZAR,POS,Completed
+TXN0001929,ACC00087,2026-08-02,Refund,Spar Refund,Groceries,1208.01,ZAR,ATM,Completed
+TXN0001146,ACC00196,2026-03-08,Purchase,Woolworths Food,Groceries,3296.17,ZAR,Online,Completed
+TXN0000620,ACC00172,2026-02-19,Purchase,Takealot,Online Shopping,3128.12,ZAR,ATM,Completed
+TXN0000139,ACC00094,2026-08-21,Purchase,Gautrain,Transport,1335.97,ZAR,Online,Pending
+TXN0001976,ACC00045,2026-06-09,Fee,Monthly Account Fee,Bank Fees,104.92,ZAR,ATM,Completed
+TXN0000645,ACC00096,2026-08-01,Purchase,Telkom,Utilities,513.63,ZAR,ATM,Completed
+TXN0000623,ACC00075,2026-05-09,Purchase,Nando's,Dining,3055.46,ZAR,Online,Failed
+TXN0001136,ACC00214,2026-03-25,Refund,Amazon Refund,Online Shopping,864.36,ZAR,POS,Completed
+TXN0001294,ACC00175,2026-09-13,Purchase,City of Joburg,Utilities,2255.21,ZAR,Online,Completed
+TXN0000906,ACC00164,2026-06-27,Purchase,Ster-Kinekor,Entertainment,1311.8,ZAR,ATM,Completed
+TXN0000083,ACC00199,2026-06-06,Purchase,Pick n Pay,Groceries,2264.75,ZAR,POS,Completed
+TXN0000047,ACC00092,2026-08-13,Refund,Nando's Refund,Dining,571.48,ZAR,ATM,Completed
+TXN0001729,ACC00014,2026-10-26,Refund,Sasol Refund,Fuel,1130.52,ZAR,Mobile App,Completed
+TXN0000628,ACC00005,2026-10-10,Purchase,Vodacom,Utilities,2438.61,ZAR,Mobile App,Completed
+TXN0000781,ACC00042,2026-01-16,Purchase,  WIMPY  ,Dining,2194.21,ZAR,ATM,Completed
+TXN0001017,ACC00006,2026-06-17,Withdrawal,ATM Withdrawal,Cash,,ZAR,Mobile App,Completed
+TXN0001694,ACC00095,2026-09-18,Purchase,Checkers,Groceries,1100.1,ZAR,ATM,Pending
+TXN0001057,ACC00032,2026-09-27,Deposit,EFT Credit,Income,5344.1,ZAR,ATM,Completed
+TXN0001892,ACC00025,2026-01-23,Purchase,Shell,Fuel,1570.73,ZAR,POS,Completed
+TXN0001801,ACC00148,2026-05-28,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,POS,Completed
+TXN0000145,ACC00107,2026-02-24,Withdrawal,ATM Withdrawal,Cash,2000.0,ZAR,ATM,Completed
+TXN0001870,ACC00091,2026-01-20,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,ATM,Reversed
+TXN0001112,ACC00217,2026-03-18,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,ATM,Failed
+TXN0000149,ACC00131,2026-10-12,Deposit,Cash Deposit,Income,4695.78,ZAR,Mobile App,Completed
+TXN0000453,ACC00011,2026-02-19,Purchase,Takealot,Online Shopping,1324.2,ZAR,EFT,Reversed
+TXN0001665,ACC00193,31/02/2026,Transfer,Transfer to Family,Transfer,1588.15,ZAR,Online,Completed
+TXN0001899,ACC00102,2026-06-26,Purchase,Takealot,Online Shopping,2106.14,ZAR,Mobile App,Completed
+TXN0000685,ACC00054,2026-06-19,Fee,ATM Fee,Bank Fees,149.45,ZAR,Online,Completed
+TXN0000199,ACC00086,2026-04-12,Withdrawal,ATM Withdrawal,Cash,2000.0,ZAR,POS,Reversed
+TXN0000642,ACC00067,2026-05-22,Purchase,City of Joburg,Utilities,807.55,ZAR,Online,Completed
+TXN0000787,ACC00205,2026-07-17,Deposit,Cash Deposit,Income,44089.11,ZAR,POS,Completed
+TXN0000606,ACC00101,2026-03-06,Purchase,Shoprite,Groceries,2829.07,ZAR,EFT,Completed
+TXN0001316,ACC00205,2026-04-05,Purchase,Bolt,Transport,2367.2,ZAR,POS,Completed
+TXN0001531,ACC00054,2026-04-10,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,Online,Completed
+TXN0000243,ACC00012,2026-01-28,Deposit,EFT Credit,Income,9826.74,ZAR,ATM,Completed
+TXN0000788,ACC00124,2026-06-26,Purchase,Amazon,Online Shopping,1428.71,ZAR,Online,Completed
+TXN0001257,ACC00066,2026-04-05,Deposit,Cash Deposit,Income,29936.37,ZAR,EFT,Completed
+TXN0000180,ACC00141,2026-05-23,Deposit,  CASH DEPOSIT  ,Income,2676.89,ZAR,Online,Completed
+TXN0001919,ACC00214,2026-04-05,Purchase,Woolworths Food,Groceries,2914.77,ZAR,Mobile App,Pending
+TXN0000499,ACC00072,2026-02-28,Transfer,Transfer to Rent,Transfer,3785.58,ZAR,Mobile App,Completed
+TXN0001608,ACC00077,2026-04-05,Transfer,Transfer to Family,Transfer,4198.42,ZAR,mobile app,Completed
+TXN0001031,ACC00167,2026-10-25,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,POS,Completed
+TXN0001617,ACC00154,2026-04-16,Transfer,Transfer to Rent,Transfer,3627.28,ZAR,Mobile App,Completed
+TXN0001846,ACC00090,2026-10-08,Fee,ATM Fee,Bank Fees,118.06,ZAR,Online,Completed
+TXN0000291,ACC00078,2026-02-19,Withdrawal,ATM Withdrawal,Cash,2000.0,ZAR,Mobile App,Completed
+TXN0001064,ACC00204,2026-09-28,Refund,Takealot Refund,Online Shopping,527.06,ZAR,Online,Completed
+TXN0001551,ACC00006,2026-09-28,Purchase,Eskom Prepaid,Utilities,1131.49,ZAR,ATM,Completed
+TXN0001272,ACC00199,2026-03-08,Purchase,Telkom,Utilities,3103.88,ZAR,Mobile App,Completed
+TXN0000920,ACC00040,2026-02-09,Purchase,City of Joburg,Utilities,34.84,ZAR,Online,Completed
+TXN0001940,ACC00151,2026-06-24,Purchase,Ster-Kinekor,Entertainment,754.75,ZAR,ATM,Reversed
+TXN0001271,ACC00183,2026-03-18,Purchase,Shell,Fuel,2513.53,ZAR,Mobile App,Completed
+TXN0000210,ACC00033,2026-03-10,Purchase,Uber,Transport,516.83,ZAR,Mobile App,Completed
+TXN0000938,ACC00110,2026-09-08,Deposit,Interest,Income,19954.16,ZAR,ATM,Completed
+TXN0001426,ACC00153,2026-08-04,Refund,Bolt Refund,Transport,626.59,ZAR,ATM,Pending
+TXN0001538,ACC00091,2026-04-28,Transfer,Transfer to Family,Transfer,248.0,ZAR,POS,Completed
+TXN0001522,ACC00114,2026-08-10,Refund,Showmax Refund,Entertainment,819.1,ZAR,EFT,Completed
+TXN0000850,ACC00186,2026-09-29,Purchase,Shell,Fuel,1995.83,ZAR,EFT,Completed
+TXN0000552,ACC00082,2026-01-08,Purchase,City of Joburg,Utilities,1755.57,ZAR,atm,Completed
+TXN0000824,ACC00135,2026-13-45,Purchase,  SHOWMAX  ,Entertainment,3437.31,ZAR,POS,Completed
+TXN0001935,ACC00173,2026-09-22,Purchase,Shell,Fuel,911.88,ZAR,Mobile App,Completed
+TXN0001235,ACC00180,2026-02-14,Transfer,Transfer to Rent,Transfer,11799.59,ZAR,EFT,Completed
+TXN0000383,ACC00119,2026-07-09,Fee,Card Fee,Bank Fees,6.36,ZAR,POS,Completed
+TXN0001845,ACC00195,2026-10-20,Purchase,Telkom,Utilities,2695.33,ZAR,POS,Completed
+TXN0000976,ACC00208,2026-08-20,Purchase,DStv,Entertainment,1038.38,ZAR,Mobile App,Completed
+TXN0001541,ACC00002,2026-06-04,Transfer,Transfer to Family,Transfer,7440.31,ZAR,Mobile App,Completed
+TXN0000267,ACC00023,2026-09-20,Purchase,Telkom,Utilities,2117.05,ZAR,EFT,Failed
+TXN0000951,ACC00018,2026-02-21,Purchase,Takealot,Online Shopping,1875.83,ZAR,Mobile App,Completed
+TXN0001575,ACC00002,2026-10-01,Purchase,Superbalist,Online Shopping,2143.45,ZAR,Online,Completed
+TXN0001944,ACC00099,2026-09-09,Deposit,EFT Credit,Income,25552.39,ZAR,Online,Completed
+TXN0001606,ACC00025,2026-01-07,Purchase,Vodacom,Utilities,699.63,ZAR,Online,Completed
+TXN0001540,ACC00034,2026-03-20,Refund,Netflix Refund,Entertainment,1068.13,ZAR,ATM,Completed
+TXN0001183,ACC00027,2026-04-26,Transfer,Transfer to Rent,Transfer,2852.15,ZAR,Mobile App,Completed
+TXN0001717,ACC00179,2026-10-29,Purchase,Ster-Kinekor,Entertainment,2069.91,ZAR,ATM,Completed
+TXN0000396,ACC00080,2026-10-26,Transfer,Transfer to Savings,Transfer,2296.4,ZAR,ATM,Completed
+TXN0000002,ACC00015,2026-04-30,Deposit,Salary,Income,23926.96,ZAR,POS,Completed
+TXN0000836,ACC00100,2026-04-27,Purchase,Superbalist,Online Shopping,170.98,ZAR,Online,Completed
+TXN0001507,ACC00082,2026-06-07,Refund,Showmax Refund,Entertainment,1168.95,ZAR,Mobile App,Completed
+TXN0001672,ACC00070,2026-09-27,Purchase,Nando's,Dining,1632.17,ZAR,ATM,Completed
+TXN0000062,ACC00182,2026-04-02,Purchase,Gautrain,Transport,1138.5,ZAR,POS,Completed
+TXN0000964,ACC00066,2026-04-18,Purchase,Pick n Pay,Groceries,3008.06,ZAR,ATM,Completed
+TXN0000150,ACC00024,2026-10-20,Purchase,Engen,Fuel,2536.68,ZAR,Mobile App,Completed
+TXN0000944,ACC00139,2026-05-20,Purchase,Bolt,Transport,1536.73,ZAR,EFT,Completed
+TXN0001789,ACC00099,2026-08-28,Purchase,Amazon,Online Shopping,2692.8,ZAR,ATM,Completed
+TXN0001127,ACC00008,2026-06-16,Purchase,Shell,Fuel,2597.37,ZAR,Online,Failed
+TXN0000299,ACC00112,2026-04-14,Purchase,Takealot,Online Shopping,2943.73,ZAR,EFT,Completed
+TXN0001896,ACC00011,2026-01-12,Purchase,Woolworths Food,Groceries,2450.14,ZAR,POS,Completed
+TXN0000913,ACC00212,2026-02-06,Purchase,Eskom Prepaid,Utilities,,ZAR,ATM,Completed
+TXN0001293,ACC00024,2026-10-13,Purchase,Shell,Fuel,1279.18,ZAR,ATM,Completed
+TXN0001424,ACC00075,2026-08-19,Deposit,Salary,Income,29454.44,ZAR,Mobile App,Completed
+TXN0001956,ACC00049,2026-08-17,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,POS,Failed
+TXN0001677,ACC00001,2026-09-14,Purchase,Uber,Transport,2939.26,ZAR,ATM,Completed
+TXN0000174,ACC00157,2026-01-28,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,Mobile App,Completed
+TXN0000994,ACC00023,2026-02-02,Purchase,Steers,Dining,1834.47,ZAR,EFT,Completed
+TXN0001337,ACC00074,2026-02-02,Purchase,Engen,Fuel,1067.81,ZAR,ATM,Completed
+TXN0000790,ACC00201,2026-07-07,Purchase,Spar,Groceries,454.91,ZAR,Online,Reversed
+TXN0001454,ACC00067,2026-01-13,Purchase,  SASOL  ,Fuel,2875.71,ZAR,EFT,Reversed
+TXN0001097,ACC00217,2026-09-20,Deposit,Salary,Income,29303.55,ZAR,ATM,Completed
+TXN0001090,ACC00211,2026-10-04,Purchase,Spar,Groceries,632.6,ZAR,ATM,Completed
+TXN0001071,ACC00164,2026-03-02,Purchase,Eskom Prepaid,Utilities,2252.15,ZAR,Online,Completed
+TXN0000375,ACC00016,2026-06-12,Purchase,Eskom Prepaid,Utilities,1702.34,ZAR,Mobile App,Completed
+TXN0000246,ACC00112,2026-03-16,Purchase,Ster-Kinekor,Entertainment,635.54,ZAR,ATM,Completed
+TXN0000280,ACC00021,2026-08-06,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,POS,Completed
+TXN0001053,ACC00105,2026-01-18,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,EFT,Completed
+TXN0000712,ACC00176,2026-10-12,Transfer,Transfer to Family,Transfer,173.68,ZAR,Online,Completed
+TXN0001098,ACC00168,2026-08-14,Purchase,Shell,Fuel,3134.76,ZAR,Mobile App,Completed
+TXN0000122,ACC00180,2026-02-10,Purchase,Eskom Prepaid,Utilities,348.0,ZAR,Mobile App,Completed
+TXN0000572,ACC00146,2026-06-30,Purchase,Uber,Transport,1581.17,ZAR,POS,Failed
+TXN0001714,ACC00001,2026-04-02,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,ATM,Completed
+TXN0001811,ACC00179,2026-04-16,Purchase,Superbalist,Online Shopping,2245.8,ZAR,ATM,Completed
+TXN0001156,ACC00065,2026-09-12,Purchase,Spar,Groceries,34.05,ZAR,Online,Reversed
+TXN0000030,ACC00167,2026-06-02,Purchase,  NETFLIX  ,Entertainment,3150.41,ZAR,EFT,Completed
+TXN0001325,ACC00075,2026-04-24,Purchase,Nando's,Dining,2774.1,ZAR,ATM,Completed
+TXN0000204,ACC00183,2026-10-21,Transfer,Transfer to Savings,Transfer,8923.23,ZAR,Mobile App,Completed
+TXN0000257,ACC00173,2026-02-03,Purchase,Eskom Prepaid,Utilities,294.39,ZAR,Online,Completed
+TXN0001578,ACC00070,2026-04-29,Deposit,EFT Credit,Income,29811.66,ZAR,Online,Completed
+TXN0001006,ACC00134,2026-05-20,Deposit,Cash Deposit,Income,22423.05,ZAR,Online,Completed
+TXN0000916,ACC00010,2026-09-07,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,Mobile App,Completed
+TXN0000940,ACC00071,2026-05-26,Purchase,Shell,Fuel,2169.82,ZAR,eft,Completed
+TXN0001779,ACC00088,2026-05-07,Fee,Card Fee,Bank Fees,92.05,ZAR,ATM,Completed
+TXN0001611,ACC00138,2026-10-31,Purchase,Vida e Caffe,Dining,1351.59,ZAR,atm,Completed
+TXN0000281,ACC00152,2026-01-31,Purchase,Nando's,Dining,245.87,ZAR,POS,Completed
+TXN0001704,ACC00145,2026-10-10,Purchase,Superbalist,Online Shopping,3120.97,ZAR,POS,Completed
+TXN0001952,ACC00192,2026-05-06,Purchase,Showmax,Entertainment,2364.81,ZAR,Online,Completed
+TXN0000013,ACC00068,2026-02-16,Deposit,Interest,Income,8727.21,ZAR,Mobile App,Completed
+TXN0001178,ACC00055,2026-02-27,Deposit,Cash Deposit,Income,16419.75,ZAR,EFT,Completed
+TXN0001161,ACC00166,2026-09-12,Fee,Card Fee,Bank Fees,118.58,ZAR,EFT,Reversed
+TXN0001505,ACC00189,2026-07-09,Transfer,  TRANSFER TO FAMILY  ,Transfer,11620.15,ZAR,Mobile App,Completed
+TXN0000021,ACC00177,2026-05-02,Purchase,Telkom,Utilities,3141.15,ZAR,POS,Completed
+TXN0000337,ACC00021,2026-09-15,Purchase,Gautrain,Transport,1628.13,ZAR,Online,Completed
+TXN0001954,ACC00100,2026-05-06,Fee,Card Fee,Bank Fees,83.04,ZAR,POS,Completed
+TXN0001239,ACC00066,2026-09-26,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,ATM,Completed
+TXN0000152,ACC00031,2026-04-27,Withdrawal,ATM Withdrawal,Cash,2000.0,ZAR,POS,Completed
+TXN0001835,ACC00130,2026-09-14,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,Mobile App,Pending
+TXN0000832,ACC00198,2026-01-29,Purchase,Pick n Pay,Groceries,3314.53,ZAR,ATM,Pending
+TXN0001960,ACC00094,2026-05-06,Purchase,Shell,Fuel,3029.24,ZAR,Online,Failed
+TXN0000608,ACC00190,2026-09-11,Purchase,Gautrain,Transport,2985.11,ZAR,ATM,Completed
+TXN0000476,ACC00205,2026-06-10,Purchase,Shell,Fuel,2289.45,ZAR,POS,Completed
+TXN0000537,ACC00092,2026-03-08,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,ATM,Completed
+TXN0001242,ACC00071,2026-01-26,Purchase,MTN,Utilities,1184.44,ZAR,POS,Completed
+TXN0000195,ACC00120,2026-01-24,Purchase,Amazon,Online Shopping,2613.26,ZAR,POS,Completed
+TXN0001135,ACC00209,2026-01-21,Purchase,Vida e Caffe,Dining,838.46,ZAR,Mobile App,Completed
+TXN0000448,ACC00178,2026-06-04,Purchase,Ster-Kinekor,Entertainment,2057.49,ZAR,Mobile App,Completed
+TXN0001897,ACC00094,2026-01-15,Transfer,Transfer to Rent,Transfer,8043.68,ZAR,EFT,Completed
+TXN0000108,ACC00151,2026-01-15,Purchase,Nando's,Dining,1348.62,ZAR,Online,Completed
+TXN0001991,ACC00085,2026-07-01,Purchase,Shell,Fuel,1809.16,ZAR,Mobile App,Completed
+TXN0001731,ACC00217,2026-02-03,Purchase,Superbalist,Online Shopping,3362.14,ZAR,ATM,Completed
+TXN0001837,ACC00127,2026-03-13,Transfer,Transfer to Family,Transfer,6406.91,ZAR,Online,Completed
+TXN0001848,ACC00194,2026-02-23,Purchase,Vodacom,Utilities,1684.09,ZAR,POS,Completed
+TXN0001756,ACC00182,2026-05-02,Purchase,Steers,Dining,1170.26,ZAR,Mobile App,Completed
+TXN0001263,ACC00206,2026-06-26,Transfer,Transfer to Savings,Transfer,10734.04,ZAR,EFT,Completed
+TXN0001798,ACC00011,2026-02-18,Purchase,Nando's,Dining,2853.62,ZAR,ATM,Completed
+TXN0000937,ACC00101,2026-01-02,Purchase,Superbalist,Online Shopping,3248.4,ZAR,Mobile App,Failed
+TXN0000282,ACC00090,2026-01-15,Purchase,Amazon,Online Shopping,3297.33,ZAR,EFT,Completed
+TXN0001516,ACC00165,2026-03-17,Purchase,Checkers,Groceries,2928.17,ZAR,ATM,Completed
+TXN0001958,ACC00197,2026-04-17,Deposit,Cash Deposit,Income,3143.08,ZAR,EFT,Completed
+TXN0001453,ACC00106,2026-05-11,Purchase,  MTN  ,Utilities,2365.51,ZAR,Online,Completed
+TXN0000186,ACC00204,2026-03-02,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,EFT,Reversed
+TXN0001123,ACC00107,2026-05-15,Purchase,Sasol,Fuel,1217.35,ZAR,EFT,Completed
+TXN0000447,ACC00042,2026-01-07,Purchase,Shoprite,Groceries,1400.87,ZAR,EFT,Reversed
+TXN0001529,ACC00045,2026-01-04,Refund,BP Refund,Fuel,119.51,ZAR,Online,Completed
+TXN0001061,ACC00050,2026-01-29,Purchase,BP,Fuel,1376.21,ZAR,EFT,Completed
+TXN0000877,ACC00125,2026-01-31,Purchase,Checkers,Groceries,3336.03,ZAR,Mobile App,Completed
+TXN0001712,ACC00033,2026-07-14,Purchase,DStv,Entertainment,2576.7,ZAR,Mobile App,Pending
+TXN0000414,ACC00113,2026-08-19,Transfer,Transfer to Savings,Transfer,5683.03,ZAR,EFT,Completed
+TXN0000061,ACC00077,2026-10-08,Transfer,Transfer to Rent,Transfer,11078.6,ZAR,EFT,Completed
+TXN0000745,ACC00113,2026-05-31,Purchase,  AMAZON  ,Online Shopping,463.01,ZAR,EFT,Completed
+TXN0000298,ACC00147,2026-02-20,Transfer,Transfer to Savings,Transfer,10393.87,ZAR,Online,Completed
+TXN0000336,ACC00146,2026-01-25,Deposit,Salary,Income,23346.95,ZAR,EFT,Completed
+TXN0001143,ACC00003,2026-10-23,Deposit,Cash Deposit,Income,,ZAR,ATM,Completed
+TXN0001963,ACC00071,2026-07-25,Purchase,Vida e Caffe,Dining,1654.29,ZAR,Mobile App,Pending
+TXN0000218,ACC00169,2026-08-17,Purchase,BP,Fuel,2742.11,ZAR,Online,Completed
+TXN0001914,ACC00177,2026-10-30,Deposit,Salary,Income,17942.39,ZAR,Online,Completed
+TXN0001990,ACC00149,2026-01-12,Purchase,Spar,Groceries,3402.6,ZAR,EFT,Completed
+TXN0001184,ACC00064,2026-10-25,Purchase,Ster-Kinekor,Entertainment,1100.98,ZAR,EFT,Completed
+TXN0000603,ACC00052,2026-05-09,Purchase,Netflix,Entertainment,1064.2,ZAR,POS,Completed
+TXN0001469,ACC00005,2026-01-05,Purchase,Engen,Fuel,3473.83,ZAR,EFT,Failed
+TXN0001349,ACC00177,2026-10-11,Purchase,Gautrain,Transport,189.24,ZAR,POS,Completed
+TXN0000634,ACC00054,2026-03-04,Purchase,Takealot,Online Shopping,140.0,ZAR,Online,Completed
+TXN0001043,ACC00067,2026-05-13,Refund,Uber Refund,Transport,830.27,ZAR,Mobile App,Completed
+TXN0000063,ACC00216,2026-10-01,Purchase,Superbalist,Online Shopping,2831.94,ZAR,EFT,Completed
+TXN0001036,ACC00162,2026-01-14,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,ATM,Completed
+TXN0000667,ACC00154,2026-07-02,Purchase,Nando's,Dining,777.97,ZAR,ATM,Completed
+TXN0000962,ACC00141,2026-10-17,Purchase,Sasol,Fuel,1165.58,ZAR,Mobile App,Completed
+TXN0001276,ACC00052,2026-03-02,Purchase,Spar,Groceries,209.73,ZAR,Mobile App,Completed
+TXN0001348,ACC00147,2026-02-09,Transfer,Transfer to Savings,Transfer,2036.86,ZAR,POS,Reversed
+TXN0000563,ACC00021,2026-10-20,Purchase,Gautrain,Transport,469.96,ZAR,Mobile App,Completed
+TXN0000688,ACC00169,2026-04-14,Purchase,Engen,Fuel,2561.34,ZAR,ATM,Completed
+TXN0000060,ACC00099,2026-08-03,Refund,Uber Refund,Transport,424.92,ZAR,ATM,Reversed
+TXN0001472,ACC00045,2026-04-13,Refund,Sasol Refund,Fuel,121.59,ZAR,POS,Completed
+TXN0001671,ACC00153,2026-09-06,Transfer,Transfer to Rent,Transfer,13176.83,ZAR,Online,Completed
+TXN0000728,ACC00156,2026-08-24,Deposit,EFT Credit,Income,,ZAR,Mobile App,Pending
+TXN0001104,ACC00035,2026-09-30,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,Mobile App,Completed
+TXN0001445,ACC00009,2026-08-20,Purchase,Checkers,Groceries,726.62,ZAR,Mobile App,Completed
+TXN0001978,ACC00165,2026-07-02,Purchase,Takealot,Online Shopping,3333.66,ZAR,ATM,Completed
+TXN0001004,ACC00011,2026-08-29,Transfer,Transfer to Family,Transfer,8175.27,ZAR,ATM,Completed
+TXN0001102,ACC00100,2026-07-15,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,Mobile App,Completed
+TXN0001470,ACC00161,2026-04-01,Transfer,Transfer to Family,Transfer,5254.68,ZAR,POS,Completed
+TXN0000679,ACC00022,2026-02-18,Deposit,Cash Deposit,Income,38984.83,ZAR,Mobile App,Completed
+TXN0000410,ACC00132,2026-10-07,Deposit,EFT Credit,Income,41733.96,ZAR,POS,Completed
+TXN0001267,ACC00156,2026-03-21,Purchase,Ster-Kinekor,Entertainment,3148.76,ZAR,EFT,Completed
+TXN0000771,ACC00148,2026-05-31,Purchase,Superbalist,Online Shopping,80.77,ZAR,Online,Completed
+TXN0000278,ACC00030,2026-08-02,Purchase,Checkers,Groceries,2868.67,ZAR,POS,Completed
+TXN0001708,ACC00081,2026-07-21,Fee,Card Fee,Bank Fees,30.21,ZAR,POS,Completed
+TXN0000018,ACC00102,2026-10-10,Purchase,Wimpy,Dining,3211.31,ZAR,POS,Completed
+TXN0000557,ACC00140,2026-02-21,Deposit,Salary,Income,30213.1,ZAR,Mobile App,Completed
+TXN0000066,ACC00004,2026-05-09,Purchase,Superbalist,Online Shopping,2907.49,ZAR,ATM,Completed
+TXN0001030,ACC00198,2026-10-02,Purchase,Spar,Groceries,416.99,ZAR,Online,Pending
+TXN0001281,ACC00132,2026-01-21,Purchase,MTN,Utilities,3327.04,ZAR,EFT,Completed
+TXN0001453,ACC00106,2026-05-11,Purchase,  MTN  ,Utilities,2365.51,ZAR,Online,Completed
+TXN0000602,ACC00174,2026-07-17,Purchase,Woolworths Food,Groceries,3221.88,ZAR,EFT,Completed
+TXN0001305,ACC00216,2026-08-11,Fee,Card Fee,Bank Fees,82.45,ZAR,ATM,Completed
+TXN0000849,ACC00216,2026-06-30,Purchase,Vodacom,Utilities,3094.42,ZAR,Mobile App,Completed
+TXN0001812,ACC00095,2026-08-03,Purchase,Uber,Transport,411.33,ZAR,Online,Completed
+TXN0000888,ACC00145,2026-10-19,Purchase,Showmax,Entertainment,2533.88,ZAR,Online,Completed
+TXN0001444,ACC00081,2026-01-16,Purchase,City of Joburg,Utilities,490.92,ZAR,EFT,Failed
+TXN0000714,ACC00187,2026-08-06,Deposit,Salary,Income,15935.59,ZAR,EFT,Completed
+TXN0001250,ACC00056,2026-06-05,Transfer,  TRANSFER TO SAVINGS  ,Transfer,3128.63,ZAR,EFT,Completed
+TXN0000874,ACC00104,2026-08-26,Transfer,Transfer to Family,Transfer,6837.43,ZAR,Online,Completed
+TXN0001513,ACC00022,2026-06-17,Deposit,Interest,Income,19593.36,ZAR,ATM,Completed
+TXN0001660,ACC00135,2026-10-07,Deposit,Salary,Income,15177.34,ZAR,EFT,Reversed
+TXN0001131,ACC00045,2026-08-14,Purchase,Woolworths Food,Groceries,874.02,ZAR,EFT,Completed
+TXN0001605,ACC00002,2026-06-08,Purchase,Wimpy,Dining,912.83,ZAR,Online,Completed
+TXN0000891,ACC00123,2026-01-22,Purchase,Takealot,Online Shopping,3325.63,ZAR,online,Completed
+TXN0000306,ACC00165,2026-01-22,Refund,Eskom Prepaid Refund,Utilities,101.88,ZAR,POS,Completed
+TXN0001273,ACC00060,2026-08-14,Purchase,Wimpy,Dining,3162.28,ZAR,POS,Completed
+TXN0001429,ACC00037,2026-09-07,Purchase,City of Joburg,Utilities,3268.69,ZAR,EFT,Completed
+TXN0000961,ACC00205,2026-08-24,Purchase,Vida e Caffe,Dining,1297.37,ZAR,EFT,Completed
+TXN0000433,ACC00065,2026-02-18,Deposit,Interest,Income,30666.57,ZAR,Online,Completed
+TXN0000529,ACC00019,n/a,Transfer,Transfer to Savings,Transfer,549.77,ZAR,ATM,Completed
+TXN0001395,ACC00003,2026-06-19,Purchase,Gautrain,Transport,2314.77,ZAR,Mobile App,Completed
+TXN0001585,ACC00099,2026-02-26,Purchase,Vodacom,Utilities,1380.82,ZAR,POS,Completed
+TXN0000360,ACC00167,2026-03-05,Purchase,Showmax,Entertainment,1594.22,ZAR,Online,Completed
+TXN0001724,ACC00027,2026-06-11,Purchase,Steers,Dining,81.54,ZAR,Mobile App,Completed
+TXN0000481,ACC00081,2026-08-11,Purchase,Netflix,Entertainment,285.17,ZAR,POS,Completed
+TXN0001942,ACC00111,2026-10-27,Purchase,Superbalist,Online Shopping,2179.97,ZAR,POS,Completed
+TXN0001795,ACC00050,2026-01-12,Purchase,Uber,Transport,1595.64,ZAR,ATM,Completed
+TXN0001643,ACC00209,2026-07-22,Fee,Card Fee,Bank Fees,59.53,ZAR,EFT,Completed
+TXN0000261,ACC00091,2026-05-26,Purchase,Shell,Fuel,2495.67,ZAR,ATM,Completed
+TXN0001101,ACC00175,2026-09-26,Purchase,Uber,Transport,2392.95,ZAR,Online,Completed
+TXN0001603,ACC00140,2026-01-18,Deposit,EFT Credit,Income,18402.27,ZAR,Online,Completed
+TXN0001050,ACC00010,2026-05-29,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,ATM,Completed
+TXN0001597,ACC00064,2026-05-11,Purchase,Spar,Groceries,3317.13,ZAR,ATM,Pending
+TXN0001543,ACC00015,2026-09-24,Purchase,DStv,Entertainment,2577.31,ZAR,EFT,Completed
+TXN0000202,ACC00148,2026-03-07,Purchase,Eskom Prepaid,Utilities,1150.66,ZAR,POS,Completed
+TXN0000317,ACC00143,2026-04-28,Fee,Card Fee,Bank Fees,33.75,ZAR,Online,Completed
+TXN0000955,ACC00202,2026-10-23,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,ATM,Completed
+TXN0000270,ACC00086,2026-02-03,Fee,ATM Fee,Bank Fees,114.64,ZAR,POS,Completed
+TXN0000649,ACC00069,2026-04-10,Transfer,Transfer to Family,Transfer,13674.94,ZAR,ATM,Completed
+TXN0000442,ACC00142,2026-03-31,Purchase,Telkom,Utilities,1595.81,ZAR,Mobile App,Completed
+TXN0000924,ACC00096,2026-10-13,Purchase,Pick n Pay,Groceries,2043.69,ZAR,POS,Completed
+TXN0001280,ACC00038,2026-05-11,Purchase,City of Joburg,Utilities,3219.93,ZAR,ATM,Failed
+TXN0001188,ACC00167,2026-10-21,Purchase,BP,Fuel,1863.28,ZAR,EFT,Completed
+TXN0000325,ACC00043,2026-06-11,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,Online,Completed
+TXN0001634,ACC00115,2026-01-06,Purchase,Amazon,Online Shopping,552.61,ZAR,Mobile App,Pending
+TXN0001853,ACC00076,2026-01-13,Purchase,BP,Fuel,3359.18,ZAR,EFT,Completed
+TXN0001031,ACC00167,2026-10-25,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,POS,Completed
+TXN0001814,ACC00013,2026-04-21,Refund,Gautrain Refund,Transport,874.07,ZAR,POS,Completed
+TXN0001147,ACC00060,2026-10-13,Purchase,Pick n Pay,Groceries,2102.75,ZAR,POS,Completed
+TXN0000250,ACC00188,2026-09-16,Purchase,  STER-KINEKOR  ,Entertainment,1685.25,ZAR,POS,Completed
+TXN0001485,ACC00157,2026-09-28,Purchase,Takealot,Online Shopping,1745.9,ZAR,POS,Completed
+TXN0001787,ACC00111,2026-02-20,Purchase,BP,Fuel,1327.36,ZAR,ATM,Completed
+TXN0000907,ACC00111,2026-02-14,Deposit,Cash Deposit,Income,15309.78,ZAR,ATM,Completed
+TXN0000523,ACC00202,2026-01-02,Transfer,Transfer to Savings,Transfer,11688.98,ZAR,Online,Completed
+TXN0000755,ACC00073,2026-06-03,Purchase,Netflix,Entertainment,1203.88,ZAR,EFT,Completed
+TXN0000451,ACC00192,2026-04-04,Transfer,Transfer to Savings,Transfer,3964.34,ZAR,Mobile App,Completed
+TXN0001793,ACC00114,2026-01-13,Purchase,Superbalist,Online Shopping,2219.65,ZAR,Online,Completed
+TXN0000588,ACC00111,2026-09-18,Purchase,Telkom,Utilities,1303.69,ZAR,POS,Completed
+TXN0001612,ACC00190,2026-02-10,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,ATM,Pending
+TXN0000507,ACC00108,2026-09-26,Fee,ATM Fee,Bank Fees,119.68,ZAR,Online,Completed
+TXN0001593,ACC00019,2026-03-08,Purchase,Wimpy,Dining,3387.75,ZAR,Online,Completed
+TXN0000335,ACC00166,2026-09-26,Purchase,Vodacom,Utilities,290.95,ZAR,Mobile App,Completed
+TXN0000775,ACC00191,2026-04-17,Purchase,Vodacom,Utilities,1406.14,ZAR,Online,Completed
+TXN0000477,ACC00140,2026-03-29,Purchase,Uber,Transport,880.45,ZAR,POS,Failed
+TXN0001604,ACC00105,2026-07-29,Purchase,Ster-Kinekor,Entertainment,2007.97,ZAR,Mobile App,Completed
+TXN0001370,ACC00025,2026-01-02,Purchase,Woolworths Food,Groceries,2836.5,ZAR,ATM,Completed
+TXN0000852,ACC00111,2026-04-03,Fee,Monthly Account Fee,Bank Fees,105.63,ZAR,Mobile App,Completed
+TXN0001392,ACC00110,2026-07-10,Transfer,Transfer to Savings,Transfer,809.32,ZAR,ATM,Pending
+TXN0000917,ACC00098,2026-06-22,Purchase,Eskom Prepaid,Utilities,1140.21,ZAR,eft,Completed
+TXN0001356,ACC00128,2026-08-31,Purchase,Shell,Fuel,3193.49,ZAR,EFT,Completed
+TXN0001197,ACC00164,2026-08-06,Purchase,Uber,Transport,3219.53,ZAR,POS,Completed
+TXN0001046,ACC00022,2026-08-25,Transfer,Transfer to Family,Transfer,4445.22,ZAR,Mobile App,Completed
+TXN0001596,ACC00142,2026-09-02,Transfer,Transfer to Family,Transfer,8384.07,ZAR,Mobile App,Completed
+TXN0001040,ACC00083,2026-07-09,Deposit,EFT Credit,Income,14300.62,ZAR,Online,Completed
+TXN0001471,ACC00057,2026-01-29,Purchase,  ESKOM PREPAID  ,Utilities,202.43,ZAR,Online,Completed
+TXN0001204,ACC00009,2026-07-17,Deposit,Cash Deposit,Income,14962.49,ZAR,EFT,Completed
+TXN0001251,ACC00157,2026-05-26,Purchase,DStv,Entertainment,2199.61,ZAR,POS,Failed
+TXN0001168,ACC00103,2026-05-14,Purchase,Shell,Fuel,2656.05,ZAR,Mobile App,Failed
+TXN0001765,ACC00156,2026-10-30,Deposit,Salary,Income,557.35,ZAR,POS,Completed
+TXN0000595,ACC00091,2026-06-04,Withdrawal,ATM Withdrawal,Cash,2000.0,ZAR,EFT,Completed
+TXN0001631,ACC00073,2026-05-27,Fee,Monthly Account Fee,Bank Fees,79.5,ZAR,POS,Completed
+TXN0001068,ACC00174,2026-08-22,Purchase,DStv,Entertainment,520.96,ZAR,ATM,Completed
+TXN0001007,ACC00104,2026-10-30,Purchase,DStv,Entertainment,953.72,ZAR,EFT,Completed
+TXN0000107,ACC00030,2026-09-20,Refund,DStv Refund,Entertainment,1047.4,ZAR,Mobile App,Completed
+TXN0000963,ACC00071,2026-07-21,Purchase,Woolworths Food,Groceries,57.22,ZAR,Online,Completed
+TXN0001995,ACC00075,2026-06-07,Purchase,Uber,Transport,919.76,ZAR,EFT,Completed
+TXN0001306,ACC00056,2026-03-20,Purchase,Engen,Fuel,2227.07,ZAR,EFT,Completed
+TXN0001927,ACC00167,2026-06-08,Purchase,BP,Fuel,2666.32,ZAR,EFT,Completed
+TXN0000817,ACC00142,2026-04-25,Purchase,Showmax,Entertainment,1618.93,ZAR,Mobile App,Completed
+TXN0000413,ACC00054,2026-08-31,Purchase,Ster-Kinekor,Entertainment,2532.95,ZAR,Mobile App,Completed
+TXN0001546,ACC00047,2026-06-30,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,Online,Completed
+TXN0000330,ACC00169,2026-01-03,Purchase,Spar,Groceries,3328.87,ZAR,ATM,Failed
+TXN0001553,ACC00212,2026-08-06,Deposit,Cash Deposit,Income,30461.7,ZAR,Online,Reversed
+TXN0000262,ACC00030,2026-01-22,Refund,Netflix Refund,Entertainment,672.52,ZAR,ATM,Completed
+TXN0001396,ACC00202,2026-06-16,Purchase,Sasol,Fuel,1152.01,ZAR,POS,Completed
+TXN0001568,ACC00055,2026-01-12,Transfer,Transfer to Family,Transfer,10542.56,ZAR,POS,Completed
+TXN0001283,ACC00118,2026-04-06,Transfer,Transfer to Rent,Transfer,958.29,ZAR,EFT,Completed
+TXN0000514,ACC00084,2026-05-18,Purchase,Bolt,Transport,557.41,ZAR,Online,Completed
+TXN0001344,ACC00042,2026-03-09,Purchase,Nando's,Dining,1546.12,ZAR,Mobile App,Pending
+TXN0000286,ACC00127,2026-03-01,Purchase,MTN,Utilities,2580.57,ZAR,Mobile App,Completed
+TXN0001407,ACC00072,2026-07-15,Purchase,Bolt,Transport,1557.79,ZAR,Mobile App,Failed
+TXN0000829,ACC00210,2026-09-09,Purchase,Eskom Prepaid,Utilities,1263.75,ZAR,Mobile App,Completed
+TXN0000090,ACC00155,2026-01-04,Purchase,Sasol,Fuel,592.14,ZAR,POS,Completed
+TXN0000758,ACC00050,2026-07-22,Transfer,Transfer to Savings,Transfer,9190.84,ZAR,Online,Completed
+TXN0001647,ACC00114,2026-06-15,Purchase,Gautrain,Transport,2183.84,ZAR,Online,Completed
+TXN0000303,ACC00161,2026-01-31,Purchase,Wimpy,Dining,529.89,ZAR,Online,Completed
+TXN0001208,ACC00165,2026-03-05,Purchase,MTN,Utilities,1801.04,ZAR,ATM,Completed
+TXN0000721,ACC00197,2026-01-13,Purchase,BP,Fuel,1258.75,ZAR,POS,Completed
+TXN0001205,ACC00004,2026-01-19,Transfer,Transfer to Rent,Transfer,11838.8,ZAR,POS,Completed
+TXN0000524,ACC00148,2026-08-07,Refund,Steers Refund,Dining,153.86,ZAR,Online,Completed
+TXN0000731,ACC00160,2026-06-30,Deposit,Interest,Income,44814.25,ZAR,POS,Completed
+TXN0001121,ACC00190,2026-03-27,Fee,Card Fee,Bank Fees,35.33,ZAR,POS,Completed
+TXN0001550,ACC00095,2026-04-13,Purchase,Shell,Fuel,573.72,ZAR,Mobile App,Completed
+TXN0000856,ACC00137,2026-07-29,Purchase,Ster-Kinekor,Entertainment,2454.02,ZAR,ATM,Completed
+TXN0001609,ACC00137,2026-08-01,Transfer,Transfer to Savings,Transfer,4796.68,ZAR,POS,Pending
+TXN0000694,ACC00046,2026-01-06,Purchase,Steers,Dining,34.57,ZAR,atm,Completed
+TXN0001525,ACC00116,2026-07-22,Deposit,Cash Deposit,Income,20685.97,ZAR,Online,Completed
+TXN0000756,ACC00131,2026-08-29,Purchase,Engen,Fuel,2665.13,ZAR,ATM,Completed
+TXN0001081,ACC00115,2026-03-13,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,Online,Completed
+TXN0000546,ACC00047,2026-02-25,Fee,Card Fee,Bank Fees,116.39,ZAR,Online,Completed
+TXN0001423,ACC00062,2026-01-31,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,EFT,Completed
+TXN0000227,ACC00067,2026-05-16,Purchase,Shoprite,Groceries,3428.29,ZAR,Online,Completed
+TXN0001762,ACC00006,2026-04-03,Purchase,Amazon,Online Shopping,,ZAR,POS,Completed
+TXN0001996,ACC00024,2026-07-29,Purchase,Uber,Transport,2872.96,ZAR,ATM,Completed
+TXN0001892,ACC00025,2026-01-23,Purchase,Shell,Fuel,1570.73,ZAR,POS,Completed
+TXN0000873,ACC00077,2026-09-08,Purchase,Uber,Transport,809.97,ZAR,Online,Completed
+TXN0001207,ACC00017,2026-09-01,Deposit,Cash Deposit,Income,20539.97,ZAR,EFT,Completed
+TXN0000949,ACC00013,2026-05-09,Purchase,Wimpy,Dining,534.37,ZAR,Online,Completed
+TXN0001321,ACC00009,2026-05-12,Transfer,  TRANSFER TO SAVINGS  ,Transfer,443.5,ZAR,Online,Completed
+TXN0001510,ACC00054,2026-10-08,Refund,Vodacom Refund,Utilities,638.0,ZAR,Online,Completed
+TXN0000373,ACC00197,2026-02-15,Purchase,City of Joburg,Utilities,220.31,ZAR,ATM,Completed
+TXN0000329,ACC00175,2026-03-04,Purchase,Showmax,Entertainment,2931.87,ZAR,Online,Completed
+TXN0000659,ACC00067,2026-02-24,Fee,  ATM FEE  ,Bank Fees,45.4,ZAR,POS,Completed
+TXN0001323,ACC00013,2026-07-09,Deposit,Salary,Income,8476.46,ZAR,ATM,Completed
+TXN0000366,ACC00125,2026-01-15,Transfer,Transfer to Savings,Transfer,11778.51,ZAR,Mobile App,Completed
+TXN0000027,ACC00058,2026-04-16,Purchase,MTN,Utilities,84.88,ZAR,POS,Completed
+TXN0001434,ACC00134,2026-02-03,Purchase,Sasol,Fuel,1559.51,ZAR,ATM,Failed
+TXN0001542,ACC00151,2026-10-29,Refund,Telkom Refund,Utilities,161.01,ZAR,EFT,Failed
+TXN0000577,ACC00002,2026-08-25,Purchase,Superbalist,Online Shopping,143.97,ZAR,EFT,Pending
+TXN0001481,ACC00005,2026-07-24,Deposit,EFT Credit,Income,36145.83,ZAR,POS,Completed
+TXN0001722,ACC00046,2026-04-11,Purchase,Checkers,Groceries,658.63,ZAR,POS,Completed
+TXN0000415,ACC00058,2026-08-03,Purchase,  SUPERBALIST  ,Online Shopping,2673.5,ZAR,EFT,Completed
+TXN0001803,ACC00060,2026-06-13,Withdrawal,ATM Withdrawal,Cash,2000.0,ZAR,Mobile App,Completed
+TXN0000936,ACC00101,2026-09-05,Withdrawal,ATM Withdrawal,Cash,2000.0,ZAR,Mobile App,Completed
+TXN0000536,ACC00203,2026-09-05,Purchase,Nando's,Dining,3303.13,ZAR,POS,Reversed
+TXN0000075,ACC00148,2026-04-27,Fee,Card Fee,Bank Fees,,ZAR,Mobile App,Completed
+TXN0000412,ACC00104,2026-10-24,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,Mobile App,Completed
+TXN0001020,ACC00106,2026-01-23,Purchase,MTN,Utilities,3485.91,ZAR,POS,Completed
+TXN0000599,ACC00128,2026-03-17,Purchase,  BP  ,Fuel,2188.93,ZAR,Online,Completed
+TXN0001433,ACC00207,2026-10-11,Refund,Checkers Refund,Groceries,1141.19,ZAR,ATM,Completed
+TXN0001005,ACC00146,2026-02-23,Deposit,Salary,Income,-21429.05,ZAR,Online,Completed
+TXN0001561,ACC00087,2026-04-27,Purchase,Vida e Caffe,Dining,1693.76,ZAR,ATM,Completed
+TXN0001232,ACC00204,2026-07-11,Purchase,Checkers,Groceries,2755.26,ZAR,EFT,Completed
+TXN0001385,ACC00150,2026-10-01,Purchase,Vida e Caffe,Dining,49.42,ZAR,EFT,Completed
+TXN0000630,ACC00206,2026-01-08,Transfer,Transfer to Savings,Transfer,12208.07,ZAR,POS,Completed
+TXN0001369,ACC00006,2026-03-28,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,POS,Completed
+TXN0000361,ACC00153,2026-04-30,Purchase,Steers,Dining,2504.51,ZAR,EFT,Completed
+TXN0000534,ACC00206,2026-07-10,Deposit,  CASH DEPOSIT  ,Income,12511.42,ZAR,POS,Completed
+TXN0000436,ACC00186,2026-08-16,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,Online,Completed
+TXN0001766,ACC00201,2026-02-22,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,ATM,Completed
+TXN0001678,ACC00108,2026-03-23,Purchase,Takealot,Online Shopping,601.58,ZAR,Mobile App,Completed
+TXN0001928,ACC00207,2026-07-08,Purchase,DStv,Entertainment,1545.68,ZAR,ATM,Completed
+TXN0000074,ACC00210,2026-02-06,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,POS,Completed
+TXN0000104,ACC00009,2026-09-19,Purchase,Shell,Fuel,,ZAR,ATM,Completed
+TXN0000369,ACC00102,2026-06-23,Purchase,Bolt,Transport,2579.66,ZAR,POS,Completed
+TXN0000724,ACC00186,2026-02-10,Purchase,Gautrain,Transport,1067.42,ZAR,Mobile App,Completed
+TXN0001241,ACC00059,2026-07-15,Fee,ATM Fee,Bank Fees,145.51,ZAR,ATM,Completed
+TXN0001252,ACC00092,2026-06-27,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,ATM,Completed
+TXN0001592,ACC00183,2026-07-24,Purchase,Shell,Fuel,819.41,ZAR,POS,Completed
+TXN0000121,ACC00200,2026-07-05,Withdrawal,ATM Withdrawal,Cash,2000.0,ZAR,Mobile App,Completed
+TXN0000400,ACC00053,2026-07-24,Purchase,Woolworths Food,Groceries,49.47,ZAR,ATM,Completed
+TXN0000639,ACC00061,2026-03-09,Fee,Card Fee,Bank Fees,120.94,ZAR,ATM,Completed
+TXN0000589,ACC00136,2026-09-10,Purchase,Checkers,Groceries,2267.51,ZAR,POS,Completed
+TXN0001375,ACC00052,2026-04-26,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,POS,Completed
+TXN0001258,ACC00189,2026-01-17,Deposit,Interest,Income,,ZAR,POS,Completed
+TXN0001404,ACC00212,2026-09-24,Fee,Monthly Account Fee,Bank Fees,66.93,ZAR,POS,Completed
+TXN0001115,ACC00138,2026-08-15,Purchase,Takealot,Online Shopping,496.69,ZAR,ATM,Completed
+TXN0001506,ACC00119,2026-03-04,Purchase,Superbalist,Online Shopping,2645.12,ZAR,Mobile App,Completed
+TXN0001154,ACC00064,2026-01-28,Purchase,BP,Fuel,292.78,ZAR,POS,Completed
+TXN0000087,ACC00124,2026-07-03,Purchase,Superbalist,Online Shopping,822.65,ZAR,ATM,Completed
+TXN0000405,ACC00033,2026-09-18,Refund,City of Joburg Refund,Utilities,1096.4,ZAR,Mobile App,Completed
+TXN0001493,ACC00144,2026-02-24,Fee,Monthly Account Fee,Bank Fees,31.4,ZAR,ATM,Completed
+TXN0000561,ACC00163,2026-07-19,Refund,Sasol Refund,Fuel,1358.17,ZAR,EFT,Completed
+TXN0000598,ACC00071,2026-06-08,Purchase,DStv,Entertainment,2922.09,ZAR,POS,Completed
+TXN0000181,ACC00085,2026-02-14,Purchase,City of Joburg,Utilities,577.25,ZAR,ATM,Completed
+TXN0001855,ACC00102,2026-06-29,Transfer,Transfer to Rent,Transfer,8039.86,ZAR,POS,Completed
+TXN0000999,ACC00028,2026-01-29,Fee,ATM Fee,Bank Fees,144.79,ZAR,Online,Completed
+TXN0001583,ACC00198,2026-06-01,Transfer,Transfer to Rent,Transfer,,ZAR,POS,Completed
+TXN0001391,ACC00146,2026-01-27,Purchase,  ESKOM PREPAID  ,Utilities,2292.89,ZAR,EFT,Completed
+TXN0000661,ACC00117,2026-06-01,Fee,ATM Fee,Bank Fees,107.42,ZAR,POS,Completed
+TXN0001993,ACC00050,2026-10-12,Purchase,Wimpy,Dining,2910.02,ZAR,ATM,Completed
+TXN0001382,ACC00109,2026-10-30,Refund,Nando's Refund,Dining,1151.42,ZAR,EFT,Completed
+TXN0001450,ACC00165,2026-06-30,Purchase,Shell,Fuel,1654.08,ZAR,POS,Completed
+TXN0000780,ACC00096,2026-08-01,Transfer,Transfer to Family,Transfer,2669.06,ZAR,EFT,Failed
+TXN0001866,ACC00167,2026-07-29,Transfer,Transfer to Rent,Transfer,8456.7,ZAR,ATM,Completed
+TXN0001860,ACC00051,2026-01-11,Fee,Card Fee,Bank Fees,118.9,ZAR,Mobile App,Completed
+TXN0000391,ACC00154,2026-08-13,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,EFT,Completed
+TXN0001373,ACC00053,2026-04-20,Transfer,Transfer to Family,Transfer,13511.91,ZAR,POS,Completed
+TXN0000843,ACC00075,2026-09-16,Purchase,Shell,Fuel,1185.57,ZAR,Mobile App,Completed
+TXN0001383,ACC00175,2026-09-12,Purchase,Vida e Caffe,Dining,1428.61,ZAR,POS,Failed
+TXN0001096,ACC00178,2026-04-28,Deposit,Interest,Income,43887.92,ZAR,EFT,Completed
+TXN0001975,ACC00141,2026-01-22,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,EFT,Completed
+TXN0000327,ACC00038,2026-03-05,Purchase,BP,Fuel,644.58,ZAR,Online,Completed
+TXN0001659,ACC00164,2026-03-24,Purchase,Bolt,Transport,2616.63,ZAR,Mobile App,Completed
+TXN0000515,ACC00209,2026-04-01,Purchase,City of Joburg,Utilities,2271.76,ZAR,POS,Completed
+TXN0001504,ACC00040,2026-07-12,Transfer,Transfer to Rent,Transfer,779.66,ZAR,EFT,Completed
+TXN0001863,ACC00017,2026-05-24,Purchase,MTN,Utilities,3413.51,ZAR,Mobile App,Completed
+TXN0001341,ACC00037,2026-09-02,Deposit,EFT Credit,Income,33915.22,ZAR,ATM,Completed
+TXN0000651,ACC00202,2026-08-03,Purchase,Takealot,Online Shopping,3241.12,ZAR,Online,Completed
+TXN0000230,ACC00112,2026-07-26,Transfer,Transfer to Savings,Transfer,8147.92,ZAR,POS,Completed
+TXN0000860,ACC00160,2026-10-30,Purchase,  BP  ,Fuel,2981.62,ZAR,Online,Completed
+TXN0000378,ACC00124,2026-05-20,Deposit,Interest,Income,44966.26,ZAR,Online,Completed
+TXN0000271,ACC00036,2026-04-13,Purchase,Telkom,Utilities,1945.23,ZAR,POS,Completed
+TXN0001794,ACC00019,2026-03-12,Purchase,Gautrain,Transport,2525.81,ZAR,EFT,Completed
+TXN0000462,ACC00098,2026-10-15,Refund,City of Joburg Refund,Utilities,350.86,ZAR,POS,Completed
+TXN0000112,ACC00196,2026-09-19,Purchase,Shell,Fuel,203.71,ZAR,Mobile App,Completed
+TXN0000115,ACC00034,2026-10-22,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,ATM,Completed
+TXN0000876,ACC00051,2026-01-12,Purchase,BP,Fuel,2906.78,ZAR,EFT,Completed
+TXN0000862,ACC00086,2026-10-10,Purchase,Amazon,Online Shopping,52.21,ZAR,EFT,Completed
+TXN0000505,ACC00168,2026-04-08,Purchase,Eskom Prepaid,Utilities,275.96,ZAR,EFT,Completed
+TXN0000137,ACC00113,2026-04-09,Purchase,Telkom,Utilities,2539.53,ZAR,ATM,Pending
+TXN0001212,ACC00101,2026-03-22,Fee,ATM Fee,Bank Fees,35.46,ZAR,Online,Completed
+TXN0000466,ACC00123,2026-04-21,Purchase,Bolt,Transport,219.96,ZAR,ATM,Completed
+TXN0000325,ACC00043,2026-06-11,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,Online,Completed
+TXN0002000,ACC00103,2026-05-23,Purchase,Netflix,Entertainment,1686.51,ZAR,ATM,Completed
+TXN0001231,ACC00023,2026-09-06,Purchase,Amazon,Online Shopping,651.95,ZAR,ATM,Completed
+TXN0001518,ACC00109,2026-10-24,Purchase,Netflix,Entertainment,667.32,ZAR,online,Completed
+TXN0000404,ACC00063,2026-01-24,Withdrawal,ATM Withdrawal,Cash,2000.0,ZAR,Online,Completed
+TXN0000293,ACC00006,2026-06-05,Transfer,Transfer to Savings,Transfer,7423.05,ZAR,Online,Completed
+TXN0001014,ACC00057,2026-08-13,Fee,Monthly Account Fee,Bank Fees,118.25,ZAR,Mobile App,Completed
+TXN0000601,ACC00144,2026-03-21,Refund,  BOLT REFUND  ,Transport,231.11,ZAR,Online,Completed
+TXN0001319,ACC00207,n/a,Purchase,Wimpy,Dining,2801.4,ZAR,ATM,Completed
+TXN0000840,ACC00052,2026-02-14,Deposit,Interest,Income,9435.07,ZAR,EFT,Reversed
+TXN0001965,ACC00190,2026-07-10,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,Mobile App,Completed
+TXN0001430,ACC00059,2026-10-31,Purchase,Engen,Fuel,2020.08,ZAR,EFT,Completed
+TXN0001515,ACC00201,2026-09-27,Purchase,Takealot,Online Shopping,1676.85,ZAR,Mobile App,Completed
+TXN0000743,ACC00126,2026-05-06,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,ATM,Completed
+TXN0001459,ACC00104,2026-08-21,Purchase,Spar,Groceries,31.83,ZAR,EFT,Completed
+TXN0000970,ACC00008,2026-06-20,Fee,Monthly Account Fee,Bank Fees,49.66,ZAR,Mobile App,Completed
+TXN0001278,ACC00201,2026-05-11,Purchase,Shoprite,Groceries,3379.11,ZAR,Mobile App,Reversed
+TXN0001891,ACC00070,2026-07-28,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,ATM,Completed
+TXN0000664,ACC00003,2026-05-06,Purchase,City of Joburg,Utilities,2361.62,ZAR,ATM,Completed
+TXN0000059,ACC00124,2026-09-18,Transfer,Transfer to Savings,Transfer,10408.08,ZAR,Online,Completed
+TXN0000364,ACC00130,2026-03-07,Purchase,City of Joburg,Utilities,3388.59,ZAR,EFT,Completed
+TXN0000056,ACC00001,2026-06-24,Purchase,Bolt,Transport,1923.7,ZAR,ATM,Completed
+TXN0000124,ACC00092,2026-06-16,Transfer,Transfer to Family,Transfer,14627.23,ZAR,EFT,Failed
+TXN0001856,ACC00199,2026-01-23,Purchase,Netflix,Entertainment,927.69,ZAR,EFT,Completed
+TXN0001973,ACC00134,2026-06-05,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,Online,Reversed
+TXN0001745,ACC00146,2026-05-20,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,POS,Completed
+TXN0000348,ACC00092,2026-05-14,Purchase,Shell,Fuel,2900.4,ZAR,EFT,Completed
+TXN0001233,ACC00046,2026-08-26,Transfer,Transfer to Savings,Transfer,14717.72,ZAR,POS,Completed
+TXN0001610,ACC00156,2026-02-06,Transfer,Transfer to Rent,Transfer,608.33,ZAR,EFT,Completed
+TXN0000811,ACC00104,2026-05-15,Purchase,Vida e Caffe,Dining,1397.7,ZAR,Mobile App,Completed
+TXN0000323,ACC00149,2026-04-02,Purchase,Ster-Kinekor,Entertainment,3257.19,ZAR,Mobile App,Completed
+TXN0001650,ACC00054,2026-10-13,Purchase,Sasol,Fuel,2794.53,ZAR,ATM,Completed
+TXN0001464,ACC00095,2026-05-13,Purchase,  BP  ,Fuel,538.03,ZAR,POS,Completed
+TXN0001988,ACC00048,2026-01-23,Purchase,Showmax,Entertainment,2477.14,ZAR,Online,Pending
+TXN0000368,ACC00034,2026-03-12,Purchase,Vodacom,Utilities,2340.26,ZAR,Online,Completed
+TXN0000865,ACC00046,2026-07-11,Purchase,Netflix,Entertainment,,ZAR,POS,Completed
+TXN0001661,ACC00052,2026-05-11,Deposit,EFT Credit,Income,18336.23,ZAR,Mobile App,Completed
+TXN0001868,ACC00211,2026-01-05,Purchase,BP,Fuel,615.17,ZAR,EFT,Completed
+TXN0000028,ACC00079,2026-05-21,Purchase,Telkom,Utilities,1614.61,ZAR,Online,Completed
+TXN0001326,ACC00181,2026-05-13,Purchase,Telkom,Utilities,804.06,ZAR,ATM,Completed
+TXN0000761,ACC00181,2026-04-14,Purchase,Bolt,Transport,1042.37,ZAR,ATM,Completed
+TXN0001286,ACC00163,2026-06-21,Fee,Card Fee,Bank Fees,145.22,ZAR,Mobile App,Completed
+TXN0000212,ACC00188,2026-05-02,Withdrawal,  ATM WITHDRAWAL  ,Cash,500.0,ZAR,Mobile App,Pending
+TXN0001884,ACC00096,2026-04-26,Fee,Monthly Account Fee,Bank Fees,133.56,ZAR,Online,Completed
+TXN0000676,ACC00109,2026-09-20,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,ATM,Completed
+TXN0001075,ACC00208,2026-08-07,Purchase,Amazon,Online Shopping,3089.77,ZAR,Online,Completed
+TXN0001265,ACC00055,2026-10-02,Purchase,Showmax,Entertainment,2560.2,ZAR,ATM,Completed
+TXN0000831,ACC00075,2026-08-07,Purchase,Eskom Prepaid,Utilities,1724.27,ZAR,Mobile App,Completed
+TXN0001528,ACC00209,2026-05-02,Deposit,EFT Credit,Income,12027.64,ZAR,EFT,Pending
+TXN0000583,ACC00124,2026-04-26,Purchase,Superbalist,Online Shopping,2494.16,ZAR,ATM,Completed
+TXN0000065,ACC00191,2026-10-15,Purchase,DStv,Entertainment,2429.88,ZAR,POS,Pending
+TXN0000071,ACC00160,2026-05-05,Refund,Bolt Refund,Transport,584.43,ZAR,POS,Completed
+TXN0001035,ACC00186,2026-01-16,Purchase,Engen,Fuel,302.97,ZAR,Online,Completed
+TXN0001133,ACC00006,2026-01-28,Purchase,Engen,Fuel,3093.55,ZAR,ATM,Completed
+TXN0000497,ACC00200,2026-07-24,Purchase,  BOLT  ,Transport,472.99,ZAR,POS,Completed
+TXN0000399,ACC00011,2026-09-11,Purchase,Pick n Pay,Groceries,2430.87,ZAR,Mobile App,Completed
+TXN0000356,ACC00175,2026-10-11,Transfer,Transfer to Rent,Transfer,11166.19,ZAR,ATM,Completed
+TXN0001394,ACC00030,2026-06-15,Fee,ATM Fee,Bank Fees,91.62,ZAR,Mobile App,Completed
+TXN0001664,ACC00083,2026-07-02,Fee,ATM Fee,Bank Fees,70.19,ZAR,EFT,Completed
+TXN0001563,ACC00076,2026-04-24,Purchase,DStv,Entertainment,976.19,ZAR,Mobile App,Completed
+TXN0000845,ACC00176,2026-04-30,Purchase,Spar,Groceries,218.59,ZAR,Mobile App,Completed
+TXN0000131,ACC00205,2026-09-13,Refund,Eskom Prepaid Refund,Utilities,508.77,ZAR,Online,Completed
+TXN0001850,ACC00103,2026-03-30,Deposit,Cash Deposit,Income,19417.58,ZAR,Mobile App,Completed
+TXN0001095,ACC00061,2026-08-09,Deposit,EFT Credit,Income,35359.05,ZAR,POS,Failed
+TXN0000234,ACC00005,2026-01-19,Purchase,Nando's,Dining,1428.19,ZAR,Online,Completed
+TXN0000897,ACC00004,2026-04-21,Transfer,Transfer to Family,Transfer,3174.66,ZAR,Mobile App,Completed
+TXN0001302,ACC00178,2026-04-24,Transfer,Transfer to Savings,Transfer,2025.12,ZAR,Mobile App,Completed
+TXN0001152,ACC00203,2026-07-31,Deposit,Salary,Income,20495.0,ZAR,ATM,Completed
+TXN0001461,ACC00137,2026-10-23,Withdrawal,ATM Withdrawal,Cash,2000.0,ZAR,POS,Completed
+TXN0001452,ACC00138,2026-10-25,Fee,Monthly Account Fee,Bank Fees,29.76,ZAR,Mobile App,Completed
+TXN0000294,ACC00139,2026-10-20,Purchase,Netflix,Entertainment,1780.8,ZAR,Mobile App,Completed
+TXN0000528,ACC00212,2026-04-25,Purchase,Engen,Fuel,3367.75,ZAR,Online,Completed
+TXN0001720,ACC00125,2026-10-08,Purchase,Eskom Prepaid,Utilities,173.0,ZAR,Mobile App,Completed
+TXN0001841,ACC00052,2026-01-07,Purchase,Checkers,Groceries,2532.5,ZAR,EFT,Completed
+TXN0000429,ACC00064,2026-07-11,Fee,Monthly Account Fee,Bank Fees,,ZAR,Mobile App,Completed
+TXN0000739,ACC00029,2026-06-19,Transfer,Transfer to Savings,Transfer,3748.47,ZAR,POS,Completed
+TXN0001656,ACC00170,2026-04-17,Purchase,Vodacom,Utilities,1048.65,ZAR,Online,Completed
+TXN0001419,ACC00215,2026-06-13,Purchase,  BOLT  ,Transport,84.61,ZAR,POS,Completed
+TXN0001013,ACC00122,2026-09-29,Purchase,Telkom,Utilities,1071.64,ZAR,Online,Completed
+TXN0001236,ACC00106,2026-10-31,Deposit,Cash Deposit,Income,39001.6,ZAR,Mobile App,Completed
+TXN0000277,ACC00056,2026-03-21,Purchase,Takealot,Online Shopping,2785.95,ZAR,EFT,Completed
+TXN0001202,ACC00171,2026-05-31,Deposit,Cash Deposit,Income,22273.19,ZAR,POS,Completed
+TXN0000049,ACC00113,2026-04-03,Deposit,EFT Credit,Income,27705.45,ZAR,Online,Completed
+TXN0000161,ACC00169,2026-07-04,Transfer,Transfer to Savings,Transfer,4458.18,ZAR,Mobile App,Completed
+TXN0000045,ACC00024,2026-09-19,Purchase,Uber,Transport,3168.16,ZAR,Online,Completed
+TXN0001092,ACC00200,2026-03-17,Transfer,Transfer to Savings,Transfer,5539.79,ZAR,POS,Completed
+TXN0000942,ACC00032,2026-02-18,Purchase,City of Joburg,Utilities,858.46,ZAR,EFT,Completed
+TXN0001402,ACC00136,2026-06-01,Purchase,Superbalist,Online Shopping,430.0,ZAR,EFT,Completed
+TXN0000691,ACC00199,2026-07-17,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,ATM,Completed
+TXN0001011,ACC00052,2026-03-16,Purchase,Steers,Dining,3046.78,ZAR,Online,Completed
+TXN0000113,ACC00031,2026-09-23,Purchase,Uber,Transport,56.19,ZAR,Online,Completed
+TXN0000967,ACC00124,2026-05-20,Purchase,DStv,Entertainment,1753.58,ZAR,Mobile App,Completed
+TXN0001859,ACC00042,2026-04-27,Transfer,Transfer to Family,Transfer,,ZAR,POS,Completed
+TXN0001503,ACC00140,2026-02-09,Fee,Card Fee,Bank Fees,52.78,ZAR,POS,Completed
+TXN0000757,ACC00028,2026-04-29,Purchase,DStv,Entertainment,1130.26,ZAR,EFT,Completed
+TXN0000508,ACC00178,2026-04-08,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,Mobile App,Completed
+TXN0000769,ACC00029,2026-09-30,Purchase,Showmax,Entertainment,2015.13,ZAR,Mobile App,Completed
+TXN0000474,ACC00124,2026-08-11,Purchase,Engen,Fuel,1148.42,ZAR,EFT,Completed
+TXN0000312,ACC00101,2026-05-11,Purchase,Takealot,Online Shopping,1051.52,ZAR,Online,Pending
+TXN0000646,ACC00076,2026-01-16,Purchase,Woolworths Food,Groceries,3257.13,ZAR,EFT,Completed
+TXN0001594,ACC00106,2026-10-16,Deposit,Salary,Income,17580.51,ZAR,Mobile App,Completed
+TXN0001748,ACC00218,2026-06-09,Deposit,Cash Deposit,Income,40266.63,ZAR,POS,Completed
+TXN0000871,ACC00017,2026-02-01,Purchase,  NANDO'S  ,Dining,2175.16,ZAR,Mobile App,Completed
+TXN0001865,ACC00101,2026-13-45,Purchase,Shell,Fuel,117.11,ZAR,Mobile App,Completed
+TXN0000881,ACC00209,2026-05-08,Purchase,Eskom Prepaid,Utilities,1107.41,ZAR,POS,Completed
+TXN0000692,ACC00163,2026-05-23,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,EFT,Completed
+TXN0001021,ACC00095,2026-02-19,Purchase,Spar,Groceries,1440.85,ZAR,ATM,Completed
+TXN0001160,ACC00220,2026-05-19,Deposit,EFT Credit,Income,11593.43,ZAR,POS,Completed
+TXN0001261,ACC00189,2026-10-31,Transfer,Transfer to Family,Transfer,2595.56,ZAR,POS,Completed
+TXN0001189,ACC00190,2026-10-13,Deposit,Interest,Income,22638.9,ZAR,POS,Completed
+TXN0001042,ACC00135,2026-04-05,Purchase,Woolworths Food,Groceries,2809.95,ZAR,POS,Completed
+TXN0000482,ACC00200,2026-05-20,Purchase,Takealot,Online Shopping,968.66,ZAR,POS,Completed
+TXN0000750,ACC00190,2026-10-03,Transfer,Transfer to Savings,Transfer,6754.83,ZAR,EFT,Completed
+TXN0001906,ACC00139,2026-04-23,Purchase,Netflix,Entertainment,1414.45,ZAR,Online,Completed
+TXN0001044,ACC00017,2026-07-24,Purchase,Engen,Fuel,508.13,ZAR,Mobile App,Completed
+TXN0001229,ACC00182,2026-10-22,Purchase,Uber,Transport,235.84,ZAR,Mobile App,Completed
+TXN0001947,ACC00085,2026-08-17,Purchase,Pick n Pay,Groceries,1166.58,ZAR,Online,Completed
+TXN0000530,ACC00192,2026-09-28,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,Mobile App,Completed
+TXN0000981,ACC00169,2026-06-11,Refund,Amazon Refund,Online Shopping,1304.84,ZAR,Online,Completed
+TXN0001633,ACC00158,2026-09-11,Purchase,Bolt,Transport,1338.9,ZAR,Online,Failed
+TXN0000625,ACC00053,2026-10-08,Transfer,Transfer to Family,Transfer,13870.2,ZAR,POS,Completed
+TXN0000395,ACC00091,2026-08-04,Purchase,Ster-Kinekor,Entertainment,662.94,ZAR,Online,Completed
+TXN0000163,ACC00176,2026-06-30,Purchase,Steers,Dining,3486.04,ZAR,EFT,Completed
+TXN0001735,ACC00027,2026-06-23,Purchase,Sasol,Fuel,3023.99,ZAR,Mobile App,Failed
+TXN0001808,ACC00051,2026-07-28,Deposit,Cash Deposit,Income,,ZAR,EFT,Completed
+TXN0000479,ACC00056,2026-10-30,Purchase,Sasol,Fuel,274.14,ZAR,ATM,Completed
+TXN0000575,ACC00027,2026-10-15,Purchase,Showmax,Entertainment,2015.21,ZAR,Mobile App,Completed
+TXN0001727,ACC00133,2026-07-13,Refund,Pick n Pay Refund,Groceries,254.32,ZAR,EFT,Completed
+TXN0000744,ACC00036,2026-03-17,Purchase,Pick n Pay,Groceries,3082.39,ZAR,EFT,Completed
+TXN0000751,ACC00177,2026-08-22,Purchase,DStv,Entertainment,1938.64,ZAR,POS,Completed
+TXN0000114,ACC00069,2026-08-30,Refund,Vida e Caffe Refund,Dining,292.19,ZAR,Mobile App,Completed
+TXN0001700,ACC00010,2026-03-11,Deposit,Salary,Income,15248.49,ZAR,ATM,Pending
+TXN0000471,ACC00031,2026-09-21,Deposit,Interest,Income,43652.85,ZAR,Mobile App,Completed
+TXN0001924,ACC00131,2026-02-02,Purchase,Shell,Fuel,3371.02,ZAR,Mobile App,Completed
+TXN0001632,ACC00136,2026-04-19,Purchase,Superbalist,Online Shopping,2670.88,ZAR,Mobile App,Reversed
+TXN0000737,ACC00154,2026-07-19,Deposit,Cash Deposit,Income,38338.75,ZAR,Online,Completed
+TXN0001763,ACC00173,2026-05-20,Refund,Takealot Refund,Online Shopping,739.07,ZAR,EFT,Completed
+TXN0001165,ACC00132,2026-08-24,Transfer,Transfer to Rent,Transfer,12679.34,ZAR,pos,Completed
+TXN0001443,ACC00101,2026-08-01,Withdrawal,  ATM WITHDRAWAL  ,Cash,100.0,ZAR,EFT,Completed
+TXN0001881,ACC00129,2026-06-26,Transfer,Transfer to Savings,Transfer,9897.8,ZAR,Online,Completed
+TXN0000217,ACC00130,31/02/2026,Transfer,Transfer to Family,Transfer,3855.56,ZAR,EFT,Completed
+TXN0001547,ACC00047,2026-01-07,Purchase,  SHELL  ,Fuel,871.21,ZAR,atm,Completed
+TXN0000080,ACC00218,2026-10-09,Purchase,Showmax,Entertainment,1027.92,ZAR,POS,Completed
+TXN0000128,ACC00097,2026-04-23,Purchase,City of Joburg,Utilities,1815.39,ZAR,EFT,Completed
+TXN0000866,ACC00161,2026-08-24,Deposit,EFT Credit,Income,35482.86,ZAR,POS,Completed
+TXN0000381,ACC00001,2026-09-01,Purchase,Pick n Pay,Groceries,1454.87,ZAR,Mobile App,Completed
+TXN0001418,ACC00054,2026-04-24,Transfer,Transfer to Family,Transfer,1432.51,ZAR,ATM,Completed
+TXN0000858,ACC00115,2026-01-11,Refund,Gautrain Refund,Transport,528.87,ZAR,ATM,Reversed
+TXN0001277,ACC00193,2026-01-21,Purchase,Bolt,Transport,3255.57,ZAR,POS,Completed
+TXN0000166,ACC00181,2026-09-26,Fee,Card Fee,Bank Fees,149.37,ZAR,Online,Completed
+TXN0000859,ACC00039,2026-02-26,Refund,Amazon Refund,Online Shopping,311.76,ZAR,ATM,Completed
+TXN0001986,ACC00127,2026-03-08,Withdrawal,ATM Withdrawal,Cash,2000.0,ZAR,Mobile App,Completed
+TXN0000600,ACC00152,2026-03-05,Purchase,Nando's,Dining,1514.68,ZAR,POS,Completed
+TXN0001646,ACC00156,2026-01-05,Transfer,Transfer to Family,Transfer,5037.85,ZAR,ATM,Completed
+TXN0000203,ACC00124,2026-07-16,Purchase,Sasol,Fuel,2748.33,ZAR,Mobile App,Completed
+TXN0001821,ACC00113,2026-03-18,Purchase,BP,Fuel,3332.22,ZAR,Online,Completed
+TXN0000727,ACC00107,2026-03-08,Purchase,MTN,Utilities,2769.05,ZAR,ATM,Completed
+TXN0001985,ACC00182,2026-02-14,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,ATM,Completed
+TXN0001425,ACC00026,2026-07-14,Purchase,MTN,Utilities,163.42,ZAR,online,Completed
+TXN0000948,ACC00166,2026-09-22,Deposit,Cash Deposit,Income,38142.66,ZAR,Mobile App,Completed
+TXN0001304,ACC00032,2026-03-21,Purchase,Steers,Dining,3126.93,ZAR,EFT,Completed
+TXN0000995,ACC00194,2026-08-10,Purchase,Ster-Kinekor,Entertainment,755.07,ZAR,Online,Completed
+TXN0001702,ACC00120,2026-04-17,Purchase,Superbalist,Online Shopping,2965.26,ZAR,ATM,Completed
+TXN0000130,ACC00006,2026-04-06,Refund,Vida e Caffe Refund,Dining,205.06,ZAR,Mobile App,Completed
+TXN0000362,ACC00038,2026-08-06,Transfer,Transfer to Savings,Transfer,1474.5,ZAR,Mobile App,Pending
+TXN0001903,ACC00109,2026-04-15,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,ATM,Failed
+TXN0000159,ACC00138,2026-04-19,Purchase,  DSTV  ,Entertainment,1927.57,ZAR,EFT,Completed
+TXN0001059,ACC00066,2026-01-19,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,Online,Completed
+TXN0001296,ACC00016,2026-01-24,Fee,ATM Fee,Bank Fees,106.54,ZAR,Online,Completed
+TXN0000048,ACC00205,2026-08-04,Deposit,Cash Deposit,Income,5531.02,ZAR,POS,Reversed
+TXN0000794,ACC00052,2026-05-23,Purchase,Telkom,Utilities,1373.36,ZAR,EFT,Reversed
+TXN0000586,ACC00052,2026-07-24,Purchase,Wimpy,Dining,587.22,ZAR,ATM,Failed
+TXN0001589,ACC00104,2026-01-31,Purchase,Vodacom,Utilities,17.68,ZAR,ATM,Completed
+TXN0001854,ACC00113,2026-02-25,Fee,Card Fee,Bank Fees,52.8,ZAR,EFT,Completed
+TXN0001754,ACC00156,2026-04-20,Refund,MTN Refund,Utilities,565.38,ZAR,Mobile App,Completed
+TXN0001755,ACC00164,2026-09-13,Purchase,Shoprite,Groceries,440.57,ZAR,EFT,Reversed
+TXN0001477,ACC00179,2026-07-24,Refund,Takealot Refund,Online Shopping,428.57,ZAR,POS,Failed
+TXN0000495,ACC00036,2026-07-01,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,ATM,Pending
+TXN0001364,ACC00128,2026-08-15,Deposit,Interest,Income,11382.56,ZAR,ATM,Completed
+TXN0001813,ACC00013,2026-01-01,Purchase,Vida e Caffe,Dining,1379.39,ZAR,Mobile App,Completed
+TXN0000443,ACC00002,2026-01-07,Transfer,Transfer to Rent,Transfer,10907.65,ZAR,Mobile App,Completed
+TXN0001144,ACC00090,2026-07-14,Transfer,Transfer to Savings,Transfer,12175.92,ZAR,POS,Completed
+TXN0000839,ACC00018,2026-04-04,Purchase,BP,Fuel,3344.28,ZAR,Mobile App,Completed
+TXN0001416,ACC00157,2026-09-09,Transfer,Transfer to Savings,Transfer,4199.02,ZAR,ATM,Completed
+TXN0001192,ACC00048,2026-08-03,Purchase,  NANDO'S  ,Dining,392.77,ZAR,ATM,Completed
+TXN0001655,ACC00072,2026-02-09,Purchase,  GAUTRAIN  ,Transport,1503.96,ZAR,EFT,Completed
+TXN0001945,ACC00148,2026-09-22,Purchase,Vida e Caffe,Dining,2661.75,ZAR,POS,Completed
+TXN0000472,ACC00191,2026-07-12,Transfer,Transfer to Rent,Transfer,9911.93,ZAR,Mobile App,Completed
+TXN0001537,ACC00115,2026-04-28,Purchase,Netflix,Entertainment,2314.56,ZAR,EFT,Pending
+TXN0001966,ACC00043,2026-04-30,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,online,Completed
+TXN0001220,ACC00083,2026-02-21,Purchase,Amazon,Online Shopping,951.99,ZAR,EFT,Completed
+TXN0000351,ACC00031,2026-04-16,Fee,Monthly Account Fee,Bank Fees,110.61,ZAR,Mobile App,Completed
+TXN0000844,ACC00141,2026-06-12,Purchase,Uber,Transport,1443.59,ZAR,EFT,Completed
+TXN0001119,ACC00143,2026-04-04,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,ATM,Completed
+TXN0001950,ACC00022,2026-04-17,Purchase,Vida e Caffe,Dining,528.79,ZAR,Mobile App,Completed
+TXN0001619,ACC00174,2026-03-02,Deposit,Salary,Income,24567.89,ZAR,ATM,Completed
+TXN0001922,ACC00160,2026-01-24,Deposit,Interest,Income,31461.48,ZAR,ATM,Completed
+TXN0001186,ACC00178,2026-01-23,Purchase,Shoprite,Groceries,288.94,ZAR,POS,Completed
+TXN0000797,ACC00186,31/02/2026,Fee,Monthly Account Fee,Bank Fees,34.85,ZAR,Online,Completed
+TXN0000158,ACC00029,2026-01-28,Purchase,Netflix,Entertainment,3042.6,ZAR,atm,Completed
+TXN0000609,ACC00018,2026-01-01,Purchase,Spar,Groceries,352.57,ZAR,Online,Completed
+TXN0000457,ACC00156,2026-09-06,Purchase,Showmax,Entertainment,1228.94,ZAR,Mobile App,Reversed
+TXN0001571,ACC00124,2026-07-24,Purchase,Superbalist,Online Shopping,2798.89,ZAR,ATM,Completed
+TXN0001322,ACC00145,2026-08-07,Deposit,Interest,Income,20141.38,ZAR,POS,Pending
+TXN0001580,ACC00166,2026-09-28,Deposit,Salary,Income,5081.55,ZAR,ATM,Pending
+TXN0000051,ACC00111,2026-05-08,Purchase,Gautrain,Transport,2250.29,ZAR,Online,Completed
+TXN0000437,ACC00074,2026-01-13,Purchase,Bolt,Transport,1209.41,ZAR,Online,Completed
+TXN0001842,ACC00001,2026-06-08,Transfer,Transfer to Rent,Transfer,14510.93,ZAR,Online,Completed
+TXN0000660,ACC00139,2026-10-03,Transfer,Transfer to Savings,Transfer,7376.65,ZAR,POS,Completed
+TXN0000680,ACC00195,2026-04-30,Purchase,Telkom,Utilities,1450.33,ZAR,ATM,Completed
+TXN0001162,ACC00209,2026-08-01,Purchase,DStv,Entertainment,370.66,ZAR,Mobile App,Failed
+TXN0001366,ACC00046,2026-02-08,Purchase,Woolworths Food,Groceries,2420.27,ZAR,POS,Completed
+TXN0000569,ACC00008,2026-06-17,Purchase,Pick n Pay,Groceries,947.55,ZAR,Mobile App,Completed
+TXN0000244,ACC00046,2026-03-22,Transfer,Transfer to Family,Transfer,7772.07,ZAR,POS,Pending
+TXN0000146,ACC00130,2026-06-22,Deposit,Interest,Income,42041.64,ZAR,ATM,Completed
+TXN0001196,ACC00021,2026-03-30,Deposit,EFT Credit,Income,20261.93,ZAR,POS,Failed
+TXN0001001,ACC00219,2026-02-21,Purchase,Woolworths Food,Groceries,2691.48,ZAR,ATM,Pending
+TXN0000382,ACC00214,2026-08-16,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,Mobile App,Completed
+TXN0001566,ACC00003,2026-09-22,Purchase,Shoprite,Groceries,2279.6,ZAR,EFT,Completed
+TXN0000014,ACC00016,2026-03-19,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,POS,Completed
+TXN0001292,ACC00005,2026-01-16,Purchase,Gautrain,Transport,440.11,ZAR,EFT,Completed
+TXN0000194,ACC00034,31/02/2026,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,Mobile App,Completed
+TXN0000556,ACC00169,2026-08-12,Deposit,Salary,Income,,ZAR,POS,Completed
+TXN0000300,ACC00024,2026-10-24,Purchase,Vida e Caffe,Dining,249.44,ZAR,EFT,Completed
+TXN0001997,ACC00131,2026-09-22,Purchase,Gautrain,Transport,2622.53,ZAR,Mobile App,Completed
+TXN0001857,ACC00119,2026-01-26,Deposit,Salary,Income,34940.39,ZAR,EFT,Completed
+TXN0001093,ACC00173,2026-03-23,Purchase,Telkom,Utilities,66.69,ZAR,ATM,Completed
+TXN0000703,ACC00049,2026-05-20,Transfer,Transfer to Savings,Transfer,14691.25,ZAR,ATM,Completed
+TXN0000711,ACC00102,2026-03-26,Purchase,Uber,Transport,713.42,ZAR,Online,Completed
+TXN0001101,ACC00175,2026-09-26,Purchase,Uber,Transport,2392.95,ZAR,Online,Completed
+TXN0001521,ACC00051,2026-04-17,Purchase,Superbalist,Online Shopping,654.64,ZAR,ATM,Completed
+TXN0001335,ACC00149,2026-08-01,Purchase,Gautrain,Transport,2806.47,ZAR,Mobile App,Completed
+TXN0000710,ACC00135,2026-04-12,Refund,Netflix Refund,Entertainment,212.24,ZAR,ATM,Completed
+TXN0000894,ACC00041,2026-04-14,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,ATM,Completed
+TXN0001994,ACC00005,2026-04-17,Purchase,Amazon,Online Shopping,2560.01,ZAR,EFT,Completed
+TXN0000585,ACC00195,2026-06-09,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,EFT,Completed
+TXN0000904,ACC00049,2026-05-01,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,POS,Completed
+TXN0001815,ACC00099,2026-09-18,Purchase,Uber,Transport,2920.23,ZAR,Online,Completed
+TXN0001492,ACC00214,2026-03-21,Purchase,Sasol,Fuel,890.83,ZAR,Mobile App,Completed
+TXN0001910,ACC00214,2026-10-23,Purchase,Wimpy,Dining,2190.62,ZAR,POS,Completed
+TXN0000019,ACC00151,2026-10-26,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,POS,Completed
+TXN0001781,ACC00204,2026-06-23,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,ATM,Completed
+TXN0000328,ACC00002,2026-09-27,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,Mobile App,Pending
+TXN0001077,ACC00193,2026-04-25,Purchase,Gautrain,Transport,1528.35,ZAR,Mobile App,Pending
+TXN0001830,ACC00105,2026-06-01,Purchase,Ster-Kinekor,Entertainment,1841.19,ZAR,Online,Completed
+TXN0000426,ACC00119,2026-02-04,Purchase,Uber,Transport,2501.83,ZAR,mobile app,Completed
+TXN0000416,ACC00085,2026-10-18,Deposit,Interest,Income,44117.66,ZAR,Online,Failed
+TXN0001565,ACC00077,2026-02-14,Purchase,Amazon,Online Shopping,2616.71,ZAR,EFT,Completed
+TXN0000928,ACC00068,2026-07-28,Purchase,Eskom Prepaid,Utilities,3049.28,ZAR,Mobile App,Completed
+TXN0001716,ACC00017,2026-05-10,Fee,Card Fee,Bank Fees,59.81,ZAR,POS,Completed
+TXN0000675,ACC00185,2026-08-01,Purchase,Gautrain,Transport,2122.98,ZAR,Online,Completed
+TXN0001749,ACC00140,2026-01-17,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,EFT,Completed
+TXN0001431,ACC00156,2026-01-02,Deposit,Cash Deposit,Income,23001.71,ZAR,ATM,Failed
+TXN0000511,ACC00203,2026-01-27,Deposit,Cash Deposit,Income,,ZAR,Online,Completed
+TXN0001615,ACC00054,2026-10-29,Purchase,Takealot,Online Shopping,2688.62,ZAR,POS,Completed
+TXN0001851,ACC00102,2026-02-13,Fee,Card Fee,Bank Fees,29.51,ZAR,EFT,Pending
+TXN0001412,ACC00133,2026-02-26,Transfer,Transfer to Savings,Transfer,2769.34,ZAR,POS,Completed
+TXN0001620,ACC00026,2026-02-19,Purchase,Vida e Caffe,Dining,1969.66,ZAR,ATM,Completed
+TXN0001849,ACC00056,2026-07-29,Fee,Card Fee,Bank Fees,83.99,ZAR,ATM,Completed
+TXN0000376,ACC00196,2026-10-12,Deposit,Cash Deposit,Income,14055.27,ZAR,Mobile App,Completed
+TXN0000305,ACC00212,2026-06-08,Purchase,Ster-Kinekor,Entertainment,1485.74,ZAR,POS,Completed
+TXN0000370,ACC00032,2026-10-14,Purchase,Showmax,Entertainment,3351.17,ZAR,EFT,Completed
+TXN0001834,ACC00035,2026-07-25,Purchase,Netflix,Entertainment,2347.94,ZAR,Mobile App,Pending
+TXN0000085,ACC00139,2026-08-30,Deposit,Cash Deposit,Income,16778.93,ZAR,Online,Pending
+TXN0001285,ACC00100,2026-10-16,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,ATM,Completed
+TXN0000672,ACC00168,2026-01-26,Purchase,Steers,Dining,3448.48,ZAR,EFT,Completed
+TXN0000770,ACC00116,2026-03-19,Deposit,Salary,Income,8584.49,ZAR,EFT,Completed
+TXN0000698,ACC00086,2026-13-45,Fee,Monthly Account Fee,Bank Fees,136.33,ZAR,EFT,Completed
+TXN0001107,ACC00130,2026-02-24,Deposit,Interest,Income,16930.8,ZAR,POS,Failed
+TXN0001219,ACC00166,2026-07-21,Fee,Card Fee,Bank Fees,130.79,ZAR,pos,Completed
+TXN0000154,ACC00111,2026-05-29,Transfer,Transfer to Savings,Transfer,2069.62,ZAR,POS,Completed
+TXN0000082,ACC00110,2026-03-28,Purchase,Shell,Fuel,2497.01,ZAR,Mobile App,Completed
+TXN0001670,ACC00157,2026-10-01,Purchase,DStv,Entertainment,2617.28,ZAR,Online,Completed
+TXN0001291,ACC00080,2026-04-20,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,Mobile App,Completed
+TXN0001484,ACC00047,2026-02-16,Purchase,  VIDA E CAFFE  ,Dining,698.32,ZAR,ATM,Completed
+TXN0001432,ACC00220,2026-05-02,Transfer,Transfer to Family,Transfer,8110.8,ZAR,mobile app,Completed
+TXN0001698,ACC00110,2026-06-02,Transfer,Transfer to Savings,Transfer,6536.9,ZAR,Online,Completed
+TXN0000184,ACC00162,2026-09-28,Refund,MTN Refund,Utilities,1402.16,ZAR,ATM,Completed
+TXN0000043,ACC00073,2026-02-28,Transfer,Transfer to Family,Transfer,3059.84,ZAR,Online,Completed
+TXN0001962,ACC00020,2026-02-10,Deposit,Interest,Income,37592.89,ZAR,POS,Completed
+TXN0001567,ACC00010,2026-04-27,Withdrawal,  ATM WITHDRAWAL  ,Cash,1000.0,ZAR,ATM,Pending
+TXN0001880,ACC00174,2026-08-03,Purchase,Uber,Transport,3317.54,ZAR,Online,Completed
+TXN0001491,ACC00120,2026-01-29,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,POS,Failed
+TXN0000005,ACC00058,2026-10-29,Transfer,Transfer to Family,Transfer,4671.67,ZAR,ATM,Completed
+TXN0000483,ACC00187,2026-06-06,Deposit,Interest,Income,4751.55,ZAR,ATM,Completed
+TXN0001234,ACC00006,2026-08-14,Purchase,Netflix,Entertainment,710.64,ZAR,pos,Completed
+TXN0001602,ACC00110,2026-08-08,Deposit,Salary,Income,28196.14,ZAR,ATM,Completed
+TXN0001771,ACC00089,2026-09-12,Refund,Showmax Refund,Entertainment,1017.06,ZAR,Online,Completed
+TXN0000555,ACC00091,2026-10-05,Purchase,Superbalist,Online Shopping,410.13,ZAR,Online,Completed
+TXN0000188,ACC00008,2026-03-31,Purchase,Superbalist,Online Shopping,3229.14,ZAR,Mobile App,Pending
+TXN0001295,ACC00190,2026-03-17,Purchase,Vodacom,Utilities,1593.59,ZAR,eft,Completed
+TXN0001039,ACC00023,2026-07-05,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,EFT,Completed
+TXN0001680,ACC00055,2026-02-14,Purchase,Amazon,Online Shopping,3232.78,ZAR,POS,Completed
+TXN0001334,ACC00172,2026-03-11,Purchase,  SHELL  ,Fuel,1095.45,ZAR,ATM,Completed
+TXN0000118,ACC00006,2026-07-30,Purchase,Amazon,Online Shopping,3371.46,ZAR,Online,Completed
+TXN0000308,ACC00135,2026-05-09,Purchase,Pick n Pay,Groceries,2105.38,ZAR,ATM,Completed
+TXN0000762,ACC00159,2026-09-15,Purchase,Nando's,Dining,274.38,ZAR,Online,Completed
+TXN0000867,ACC00184,2026-02-16,Purchase,Amazon,Online Shopping,827.27,ZAR,POS,Completed
+TXN0000592,ACC00117,2026-03-14,Refund,Bolt Refund,Transport,653.33,ZAR,POS,Completed
+TXN0001417,ACC00216,2026-10-21,Deposit,Cash Deposit,Income,37586.06,ZAR,Mobile App,Completed
+TXN0001730,ACC00046,2026-08-30,Transfer,Transfer to Family,Transfer,6131.01,ZAR,POS,Completed
+TXN0000116,ACC00122,2026-01-05,Purchase,City of Joburg,Utilities,3484.53,ZAR,EFT,Completed
+TXN0001290,ACC00209,2026-05-27,Purchase,Bolt,Transport,2282.57,ZAR,EFT,Completed
+TXN0001130,ACC00147,2026-06-20,Purchase,Wimpy,Dining,2145.08,ZAR,POS,Completed
+TXN0000419,ACC00191,2026-02-05,Purchase,Takealot,Online Shopping,467.81,ZAR,Online,Completed
+TXN0001089,ACC00108,2026-03-29,Deposit,EFT Credit,Income,33187.38,ZAR,Mobile App,Completed
+TXN0000582,ACC00193,2026-10-27,Transfer,Transfer to Family,Transfer,9589.86,ZAR,POS,Completed
+TXN0001941,ACC00111,2026-08-19,Deposit,EFT Credit,Income,20835.84,ZAR,Mobile App,Completed
+TXN0000162,ACC00137,2026-02-15,Purchase,Ster-Kinekor,Entertainment,1969.0,ZAR,POS,Completed
+TXN0000258,ACC00053,2026-09-24,Refund,Woolworths Food Refund,Groceries,636.47,ZAR,eft,Failed
+TXN0000079,ACC00192,2026-06-26,Purchase,Gautrain,Transport,511.46,ZAR,Online,Completed
+TXN0000717,ACC00188,2026-02-21,Deposit,Interest,Income,36257.99,ZAR,pos,Completed
+TXN0000208,ACC00181,2026-10-14,Transfer,Transfer to Family,Transfer,1734.5,ZAR,ATM,Completed
+TXN0000941,ACC00196,2026-04-23,Purchase,Superbalist,Online Shopping,722.95,ZAR,EFT,Completed
+TXN0000973,ACC00180,2026-07-02,Deposit,Salary,Income,2299.13,ZAR,ATM,Completed
+TXN0001076,ACC00199,2026-05-17,Purchase,Shell,Fuel,2062.83,ZAR,ATM,Completed
+TXN0001886,ACC00029,2026-08-07,Purchase,Showmax,Entertainment,2606.58,ZAR,EFT,Completed
+TXN0001577,ACC00108,2026-08-19,Purchase,MTN,Utilities,641.02,ZAR,EFT,Completed
+TXN0000882,ACC00187,2026-05-17,Purchase,City of Joburg,Utilities,2772.62,ZAR,ATM,Completed
+TXN0000484,ACC00193,2026-07-19,Purchase,Amazon,Online Shopping,2377.17,ZAR,EFT,Completed
+TXN0001494,ACC00129,2026-01-17,Purchase,Bolt,Transport,2346.92,ZAR,ATM,Completed
+TXN0001862,ACC00105,2026-09-11,Purchase,Bolt,Transport,1906.48,ZAR,Mobile App,Completed
+TXN0000678,ACC00183,2026-02-25,Purchase,Showmax,Entertainment,1399.76,ZAR,Online,Completed
+TXN0001015,ACC00095,2026-09-25,Purchase,Woolworths Food,Groceries,3019.08,ZAR,EFT,Completed
+TXN0000607,ACC00025,2026-05-29,Deposit,EFT Credit,Income,38961.98,ZAR,POS,Completed
+TXN0001877,ACC00185,2026-03-27,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,POS,Completed
+TXN0001639,ACC00149,2026-04-20,Purchase,Eskom Prepaid,Utilities,1944.75,ZAR,Online,Pending
+TXN0000889,ACC00024,2026-07-04,Refund,Nando's Refund,Dining,630.71,ZAR,POS,Completed
+TXN0001082,ACC00212,2026-08-31,Fee,Monthly Account Fee,Bank Fees,147.39,ZAR,EFT,Completed
+TXN0001539,ACC00216,2026-01-26,Purchase,Vodacom,Utilities,3211.88,ZAR,Mobile App,Completed
+TXN0000735,ACC00086,2026-08-26,Deposit,Salary,Income,17559.23,ZAR,Mobile App,Reversed
+TXN0001452,ACC00138,2026-10-25,Fee,Monthly Account Fee,Bank Fees,29.76,ZAR,Mobile App,Completed
+TXN0000096,ACC00169,2026-03-08,Fee,ATM Fee,Bank Fees,124.99,ZAR,Mobile App,Completed
+TXN0000036,ACC00071,2026-04-18,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,EFT,Completed
+TXN0001642,ACC00177,2026-09-03,Purchase,Uber,Transport,748.01,ZAR,Mobile App,Completed
+TXN0000077,ACC00102,2026-01-16,Purchase,Netflix,Entertainment,490.29,ZAR,Mobile App,Completed
+TXN0001658,ACC00047,2026-08-19,Purchase,Uber,Transport,494.09,ZAR,Online,Completed
+TXN0000126,ACC00003,2026-01-01,Purchase,Takealot,Online Shopping,1213.44,ZAR,Mobile App,Completed
+TXN0001248,ACC00159,2026-06-23,Purchase,Nando's,Dining,3346.18,ZAR,Mobile App,Completed
+TXN0000872,ACC00151,2026-07-05,Withdrawal,ATM Withdrawal,Cash,2000.0,ZAR,POS,Completed
+TXN0001769,ACC00183,2026-06-18,Purchase,Spar,Groceries,1175.21,ZAR,Online,Completed
+TXN0000740,ACC00019,2026-08-02,Refund,Gautrain Refund,Transport,199.05,ZAR,EFT,Completed
+TXN0001210,ACC00116,2026-03-12,Purchase,Engen,Fuel,2838.63,ZAR,EFT,Completed
+TXN0000044,ACC00141,2026-09-12,Fee,ATM Fee,Bank Fees,,ZAR,ATM,Completed
+TXN0000185,ACC00158,2026-10-16,Purchase,Gautrain,Transport,1749.63,ZAR,Online,Pending
+TXN0000696,ACC00156,2026-08-21,Purchase,MTN,Utilities,2828.9,ZAR,POS,Completed
+TXN0001759,ACC00008,2026-07-09,Purchase,Gautrain,Transport,2560.68,ZAR,Mobile App,Completed
+TXN0001300,ACC00148,2026-09-06,Transfer,Transfer to Family,Transfer,2004.53,ZAR,ATM,Failed
+TXN0001440,ACC00066,2026-10-22,Purchase,  SHELL  ,Fuel,1315.58,ZAR,Mobile App,Completed
+TXN0001624,ACC00105,2026-03-09,Transfer,  TRANSFER TO SAVINGS  ,Transfer,,ZAR,EFT,Completed
+TXN0001355,ACC00202,2026-08-18,Purchase,Netflix,Entertainment,1399.45,ZAR,Online,Completed
+TXN0001180,ACC00006,2026-03-26,Purchase,  VIDA E CAFFE  ,Dining,1742.14,ZAR,ATM,Completed
+TXN0000564,ACC00216,2026-05-06,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,ATM,Completed
+TXN0000435,ACC00189,2026-08-08,Withdrawal,ATM Withdrawal,Cash,2000.0,ZAR,POS,Completed
+TXN0000571,ACC00080,2026-03-26,Transfer,Transfer to Rent,Transfer,7368.69,ZAR,Mobile App,Completed
+TXN0001467,ACC00168,2026-04-24,Purchase,DStv,Entertainment,3388.99,ZAR,Online,Failed
+TXN0000031,ACC00108,2026-07-27,Purchase,Spar,Groceries,2482.62,ZAR,EFT,Completed
+TXN0000342,ACC00040,2026-08-16,Refund,Eskom Prepaid Refund,Utilities,1292.5,ZAR,EFT,Completed
+TXN0001788,ACC00116,2026-10-24,Refund,Takealot Refund,Online Shopping,355.82,ZAR,ATM,Completed
+TXN0000972,ACC00139,2026-08-08,Purchase,Pick n Pay,Groceries,3471.55,ZAR,POS,Completed
+TXN0000310,ACC00064,2026-05-23,Transfer,Transfer to Savings,Transfer,5508.67,ZAR,ATM,Completed
+TXN0000779,ACC00217,2026-05-08,Purchase,Pick n Pay,Groceries,1822.4,ZAR,Online,Completed
+TXN0000421,ACC00085,2026-10-19,Transfer,Transfer to Family,Transfer,6994.16,ZAR,POS,Completed
+TXN0001170,ACC00216,2026-04-07,Purchase,Woolworths Food,Groceries,2090.95,ZAR,POS,Completed
+TXN0000254,ACC00014,2026-02-26,Purchase,MTN,Utilities,157.45,ZAR,ATM,Completed
+TXN0001739,ACC00025,2026-05-21,Purchase,Vodacom,Utilities,3356.86,ZAR,POS,Completed
+TXN0000007,ACC00023,2026-06-21,Purchase,Steers,Dining,884.65,ZAR,POS,Completed
+TXN0001226,ACC00020,2026-02-19,Purchase,Amazon,Online Shopping,1936.72,ZAR,ATM,Completed
+TXN0000543,ACC00125,2026-01-21,Purchase,Wimpy,Dining,1440.48,ZAR,EFT,Pending
+TXN0001056,ACC00186,2026-08-01,Fee,ATM Fee,Bank Fees,103.62,ZAR,Mobile App,Completed
+TXN0001579,ACC00186,2026-10-03,Purchase,MTN,Utilities,3012.21,ZAR,POS,Completed
+TXN0001190,ACC00094,2026-09-08,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,EFT,Pending
+TXN0001346,ACC00113,2026-03-20,Transfer,Transfer to Family,Transfer,9470.94,ZAR,ATM,Completed
+TXN0001311,ACC00012,2026-07-05,Purchase,Showmax,Entertainment,2800.5,ZAR,POS,Completed
+TXN0001455,ACC00034,2026-02-13,Purchase,Checkers,Groceries,1421.77,ZAR,EFT,Failed
+TXN0001003,ACC00104,2026-01-21,Purchase,Eskom Prepaid,Utilities,2307.77,ZAR,atm,Completed
+TXN0000803,ACC00155,2026-02-25,Deposit,Salary,Income,26115.34,ZAR,POS,Failed
+TXN0001309,ACC00125,2026-06-11,Purchase,DStv,Entertainment,,ZAR,EFT,Completed
+TXN0000819,ACC00126,2026-08-09,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,Mobile App,Completed
+TXN0000784,ACC00139,2026-07-07,Refund,Gautrain Refund,Transport,162.67,ZAR,Mobile App,Completed
+TXN0000772,ACC00168,2026-04-13,Withdrawal,ATM Withdrawal,Cash,2000.0,ZAR,ATM,Pending
+TXN0000647,ACC00149,2026-06-26,Fee,Card Fee,Bank Fees,125.46,ZAR,POS,Completed
+TXN0001048,ACC00121,2026-07-13,Purchase,Superbalist,Online Shopping,3022.85,ZAR,EFT,Completed
+TXN0000120,ACC00108,2026-10-20,Purchase,Checkers,Groceries,579.57,ZAR,Online,Completed
+TXN0000110,ACC00192,2026-04-08,Purchase,Shell,Fuel,2577.97,ZAR,ATM,Completed
+TXN0001523,ACC00187,2026-10-09,Purchase,Gautrain,Transport,778.16,ZAR,EFT,Completed
+TXN0000349,ACC00067,2026-06-24,Transfer,Transfer to Savings,Transfer,11574.41,ZAR,EFT,Completed
+TXN0001243,ACC00139,2026-06-20,Fee,Card Fee,Bank Fees,20.54,ZAR,Mobile App,Completed
+TXN0001151,ACC00215,2026-05-09,Purchase,  CHECKERS  ,Groceries,168.77,ZAR,pos,Completed
+TXN0001674,ACC00001,2026-03-28,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,ATM,Completed
+TXN0001401,ACC00093,2026-06-07,Deposit,EFT Credit,Income,20446.54,ZAR,ATM,Completed
+TXN0000345,ACC00166,2026-06-27,Purchase,Eskom Prepaid,Utilities,577.25,ZAR,Online,Completed
+TXN0000570,ACC00112,2026-09-20,Fee,Monthly Account Fee,Bank Fees,41.26,ZAR,Online,Completed
+TXN0000544,ACC00175,2026-07-31,Purchase,  NANDO'S  ,Dining,2177.84,ZAR,POS,Completed
+TXN0000260,ACC00141,2026-08-16,Purchase,Netflix,Entertainment,3145.51,ZAR,ATM,Completed
+TXN0000272,ACC00203,2026-01-02,Purchase,Wimpy,Dining,447.76,ZAR,ATM,Completed
+TXN0001520,ACC00195,2026-01-10,Fee,Monthly Account Fee,Bank Fees,63.01,ZAR,Online,Completed
+TXN0001122,ACC00049,2026-02-02,Purchase,Netflix,Entertainment,3077.14,ZAR,POS,Completed
+TXN0001773,ACC00147,2026-06-06,Withdrawal,  ATM WITHDRAWAL  ,Cash,100.0,ZAR,EFT,Completed
+TXN0000050,ACC00004,2026-09-26,Withdrawal,ATM Withdrawal,Cash,2000.0,ZAR,EFT,Completed
+TXN0000733,ACC00091,2026-04-22,Purchase,DStv,Entertainment,1128.12,ZAR,ATM,Completed
+TXN0001667,ACC00006,2026-06-04,Purchase,Amazon,Online Shopping,,ZAR,Mobile App,Failed
+TXN0000249,ACC00189,2026-05-07,Purchase,MTN,Utilities,790.09,ZAR,EFT,Failed
+TXN0001181,ACC00008,2026-10-18,Purchase,Takealot,Online Shopping,1653.11,ZAR,Mobile App,Pending
+TXN0000518,ACC00182,2026-02-13,Purchase,MTN,Utilities,3124.98,ZAR,Online,Completed
+TXN0001511,ACC00014,2026-07-28,Fee,ATM Fee,Bank Fees,9.38,ZAR,ATM,Completed
+TXN0000093,ACC00005,2026-05-26,Fee,Monthly Account Fee,Bank Fees,70.13,ZAR,Mobile App,Completed
+TXN0000313,ACC00021,2026-09-09,Purchase,Telkom,Utilities,2515.09,ZAR,POS,Completed
+TXN0001246,ACC00001,2026-02-12,Deposit,Cash Deposit,Income,19979.31,ZAR,atm,Completed
+TXN0000144,ACC00025,2026-02-21,Withdrawal,ATM Withdrawal,Cash,2000.0,ZAR,Mobile App,Completed
+TXN0001406,ACC00084,2026-04-19,Fee,ATM Fee,Bank Fees,37.83,ZAR,EFT,Completed
+TXN0000331,ACC00206,2026-05-25,Purchase,Checkers,Groceries,1921.84,ZAR,EFT,Completed
+TXN0001725,ACC00072,2026-01-20,Purchase,Steers,Dining,3043.68,ZAR,EFT,Completed
+TXN0000551,ACC00003,2026-10-15,Transfer,Transfer to Rent,Transfer,3058.54,ZAR,EFT,Completed
+TXN0000927,ACC00220,2026-09-19,Purchase,Takealot,Online Shopping,1679.74,ZAR,POS,Completed
+TXN0001816,ACC00091,2026-09-16,Purchase,Spar,Groceries,2242.48,ZAR,POS,Pending
+TXN0001616,ACC00178,2026-01-11,Deposit,Salary,Income,7244.05,ZAR,ATM,Completed
+TXN0001332,ACC00087,2026-08-30,Refund,Ster-Kinekor Refund,Entertainment,1456.86,ZAR,POS,Pending
+TXN0001946,ACC00088,2026-06-09,Purchase,Amazon,Online Shopping,2626.62,ZAR,ATM,Pending
+TXN0000353,ACC00171,2026-05-06,Purchase,Amazon,Online Shopping,1484.7,ZAR,Online,Completed
+TXN0001357,ACC00035,2026-01-15,Deposit,Cash Deposit,Income,7215.47,ZAR,ATM,Completed
+TXN0000409,ACC00111,2026-07-29,Purchase,Telkom,Utilities,966.47,ZAR,POS,Completed
+TXN0000003,ACC00083,2026-01-31,Purchase,Netflix,Entertainment,2713.67,ZAR,EFT,Completed
+TXN0001008,ACC00104,2026-10-30,Purchase,Steers,Dining,2024.51,ZAR,EFT,Completed
+TXN0000233,ACC00036,2026-01-19,Purchase,Gautrain,Transport,846.12,ZAR,Mobile App,Completed
+TXN0000725,ACC00111,2026-03-01,Transfer,Transfer to Rent,Transfer,3988.54,ZAR,ATM,Completed
+TXN0001587,ACC00086,2026-09-25,Withdrawal,ATM Withdrawal,Cash,,ZAR,POS,Completed
+TXN0000580,ACC00044,2026-02-15,Purchase,Superbalist,Online Shopping,2859.27,ZAR,EFT,Reversed
+TXN0000387,ACC00117,2026-01-02,Fee,ATM Fee,Bank Fees,102.6,ZAR,POS,Completed
+TXN0001544,ACC00123,2026-03-11,Purchase,Engen,Fuel,2592.7,ZAR,ATM,Completed
+TXN0000855,ACC00079,2026-02-03,Purchase,Wimpy,Dining,1670.68,ZAR,Online,Completed
+TXN0000029,ACC00170,2026-07-11,Deposit,EFT Credit,Income,13782.18,ZAR,POS,Completed
+TXN0000726,ACC00056,2026-08-12,Purchase,Uber,Transport,979.84,ZAR,POS,Completed
+TXN0000834,ACC00095,2026-01-23,Fee,Monthly Account Fee,Bank Fees,71.3,ZAR,Online,Pending
+TXN0000411,ACC00191,2026-05-21,Purchase,Netflix,Entertainment,,ZAR,EFT,Pending
+TXN0000900,ACC00107,2026-01-12,Purchase,Checkers,Groceries,1067.64,ZAR,ATM,Completed
+TXN0001576,ACC00171,2026-05-01,Refund,Pick n Pay Refund,Groceries,1437.31,ZAR,ATM,Completed
+TXN0001478,ACC00220,2026-05-19,Transfer,Transfer to Family,Transfer,7152.24,ZAR,POS,Completed
+TXN0000287,ACC00206,2026-09-01,Fee,Card Fee,Bank Fees,31.0,ZAR,Mobile App,Completed
+TXN0001409,ACC00010,2026-02-27,Purchase,DStv,Entertainment,1686.72,ZAR,EFT,Completed
+TXN0000236,ACC00045,2026-01-26,Fee,Monthly Account Fee,Bank Fees,71.15,ZAR,Online,Completed
+TXN0000939,ACC00072,2026-02-25,Purchase,  STEERS  ,Dining,2746.79,ZAR,Mobile App,Completed
+TXN0000632,ACC00220,2026-04-23,Purchase,Vida e Caffe,Dining,2734.03,ZAR,ATM,Completed
+TXN0001905,ACC00065,2026-07-18,Purchase,Ster-Kinekor,Entertainment,2082.15,ZAR,Mobile App,Pending
+TXN0001681,ACC00088,2026-10-16,Purchase,Showmax,Entertainment,3268.47,ZAR,Online,Completed
+TXN0000807,ACC00141,2026-06-14,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,Online,Completed
+TXN0001140,ACC00011,2026-03-03,Deposit,Salary,Income,20368.85,ZAR,ATM,Completed
+TXN0000248,ACC00157,2026-03-29,Deposit,Cash Deposit,Income,4348.11,ZAR,EFT,Completed
+TXN0001083,ACC00137,2026-05-15,Purchase,Shell,Fuel,721.29,ZAR,Online,Completed
+TXN0000701,ACC00187,2026-02-14,Purchase,Showmax,Entertainment,2687.03,ZAR,POS,Completed
+TXN0000198,ACC00173,2026-01-26,Purchase,Checkers,Groceries,1501.23,ZAR,Online,Completed
+TXN0000238,ACC00012,2026-10-31,Purchase,Checkers,Groceries,969.52,ZAR,Mobile App,Completed
+TXN0000168,ACC00190,2026-05-21,Purchase,Engen,Fuel,473.44,ZAR,POS,Completed
+TXN0001517,ACC00200,2026-05-31,Purchase,  DSTV  ,Entertainment,412.36,ZAR,ATM,Completed
+TXN0000295,ACC00016,2026-01-15,Deposit,Cash Deposit,Income,37743.57,ZAR,ATM,Completed
+TXN0000172,ACC00191,2026-10-20,Deposit,Salary,Income,23668.88,ZAR,Mobile App,Completed
+TXN0001772,ACC00186,2026-08-16,Purchase,Sasol,Fuel,2092.97,ZAR,POS,Completed
+TXN0001500,ACC00038,2026-02-21,Purchase,Shoprite,Groceries,1674.81,ZAR,ATM,Completed
+TXN0000982,ACC00038,2026-01-22,Transfer,Transfer to Savings,Transfer,7740.49,ZAR,Mobile App,Failed
+TXN0000034,ACC00014,2026-10-26,Deposit,Salary,Income,21513.78,ZAR,Online,Completed
+TXN0000813,ACC00058,2026-08-14,Deposit,Cash Deposit,Income,6969.26,ZAR,ATM,Completed
+TXN0001129,ACC00143,2026-06-07,Purchase,Shoprite,Groceries,2540.88,ZAR,Mobile App,Completed
+TXN0000192,ACC00078,2026-04-21,Purchase,  ENGEN  ,Fuel,1319.14,ZAR,POS,Completed
+TXN0000177,ACC00131,2026-03-23,Purchase,Eskom Prepaid,Utilities,2692.39,ZAR,ATM,Completed
+TXN0000430,ACC00025,2026-03-27,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,Mobile App,Completed
+TXN0001148,ACC00034,2026-03-06,Transfer,Transfer to Rent,Transfer,9786.4,ZAR,POS,Completed
+TXN0001191,ACC00201,2026-09-17,Transfer,Transfer to Savings,Transfer,6434.76,ZAR,Online,Completed
+TXN0000134,ACC00124,2026-06-02,Purchase,Pick n Pay,Groceries,3406.86,ZAR,Online,Completed
+TXN0000127,ACC00205,2026-05-30,Deposit,Salary,Income,24895.44,ZAR,Online,Completed
+TXN0000367,ACC00032,2026-10-08,Purchase,Takealot,Online Shopping,1470.25,ZAR,EFT,Completed
+TXN0000245,ACC00084,2026-04-28,Transfer,Transfer to Family,Transfer,3493.95,ZAR,Online,Completed
+TXN0000934,ACC00172,2026-04-07,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,ATM,Completed
+TXN0001939,ACC00083,2026-02-19,Transfer,Transfer to Family,Transfer,6132.38,ZAR,POS,Completed
+TXN0000057,ACC00028,2026-05-11,Deposit,Cash Deposit,Income,5873.19,ZAR,Mobile App,Completed
+TXN0001980,ACC00182,2026-08-10,Purchase,Superbalist,Online Shopping,1149.49,ZAR,ATM,Completed
+TXN0001898,ACC00200,2026-10-27,Withdrawal,ATM Withdrawal,Cash,2000.0,ZAR,ATM,Completed
+TXN0000687,ACC00144,2026-04-26,Purchase,Pick n Pay,Groceries,971.91,ZAR,Mobile App,Completed
+TXN0000072,ACC00206,2026-09-18,Purchase,Woolworths Food,Groceries,3145.51,ZAR,Online,Completed
+TXN0000455,ACC00179,2026-07-25,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,POS,Completed
+TXN0000778,ACC00218,2026-06-03,Purchase,Uber,Transport,,ZAR,Mobile App,Completed
+TXN0000828,ACC00157,2026-06-22,Fee,ATM Fee,Bank Fees,84.46,ZAR,Mobile App,Completed
+TXN0001527,ACC00006,2026-03-28,Purchase,Checkers,Groceries,1984.18,ZAR,Online,Completed
+TXN0000901,ACC00175,2026-01-16,Transfer,Transfer to Family,Transfer,2701.26,ZAR,POS,Completed
+TXN0000189,ACC00138,2026-06-21,Purchase,Superbalist,Online Shopping,3248.35,ZAR,POS,Completed
+TXN0000604,ACC00025,2026-03-12,Purchase,Bolt,Transport,1770.8,ZAR,atm,Completed
+TXN0000971,ACC00074,2026-05-05,Deposit,Cash Deposit,Income,-15456.95,ZAR,EFT,Completed
+TXN0000509,ACC00200,2026-13-45,Purchase,Steers,Dining,656.47,ZAR,Online,Completed
+TXN0001979,ACC00172,2026-02-21,Fee,ATM Fee,Bank Fees,149.97,ZAR,Mobile App,Completed
+TXN0000386,ACC00146,2026-04-27,Transfer,Transfer to Rent,Transfer,11755.57,ZAR,Online,Completed
+TXN0001894,ACC00020,2026-07-18,Purchase,Gautrain,Transport,1447.6,ZAR,Mobile App,Completed
+TXN0000417,ACC00164,2026-06-05,Purchase,Spar,Groceries,634.06,ZAR,EFT,Completed
+TXN0000846,ACC00167,2026-09-01,Fee,ATM Fee,Bank Fees,60.98,ZAR,EFT,Completed
+TXN0000915,ACC00205,2026-07-16,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,Mobile App,Completed
+TXN0001992,ACC00158,2026-05-02,Purchase,Eskom Prepaid,Utilities,1467.17,ZAR,Online,Pending
+TXN0000584,ACC00127,2026-01-31,Purchase,Uber,Transport,1646.5,ZAR,Mobile App,Completed
+TXN0001245,ACC00046,2026-03-28,Deposit,Interest,Income,32410.36,ZAR,ATM,Pending
+TXN0000670,ACC00057,2026-06-23,Deposit,Salary,Income,14228.72,ZAR,Mobile App,Completed
+TXN0000776,ACC00133,2026-03-04,Purchase,Engen,Fuel,3293.32,ZAR,EFT,Completed
+TXN0001222,ACC00111,2026-10-13,Deposit,Salary,Income,21525.29,ZAR,Mobile App,Completed
+TXN0000480,ACC00178,2026-03-15,Purchase,Woolworths Food,Groceries,3483.83,ZAR,Online,Completed
+TXN0000384,ACC00207,2026-04-24,Purchase,Telkom,Utilities,143.23,ZAR,Mobile App,Pending
+TXN0001158,ACC00009,2026-01-30,Refund,Vodacom Refund,Utilities,649.83,ZAR,ATM,Failed
+TXN0000450,ACC00074,2026-08-09,Purchase,Steers,Dining,2468.6,ZAR,Online,Completed
+TXN0001408,ACC00209,2026-07-22,Purchase,DStv,Entertainment,3111.98,ZAR,Mobile App,Completed
+TXN0001475,ACC00053,2026-06-08,Purchase,BP,Fuel,833.55,ZAR,EFT,Failed
+TXN0001124,ACC00090,2026-09-03,Purchase,Vida e Caffe,Dining,1973.71,ZAR,ATM,Completed
+TXN0001420,ACC00219,2026-10-21,Refund,Steers Refund,Dining,976.55,ZAR,ATM,Completed
+TXN0000454,ACC00095,2026-06-25,Refund,Takealot Refund,Online Shopping,1412.67,ZAR,Mobile App,Completed
+TXN0000883,ACC00092,2026-09-05,Deposit,EFT Credit,Income,43071.71,ZAR,Mobile App,Reversed
+TXN0000786,ACC00119,2026-10-30,Purchase,DStv,Entertainment,2663.23,ZAR,Online,Completed
+TXN0000640,ACC00093,2026-05-18,Deposit,Salary,Income,-6031.64,ZAR,eft,Completed
+TXN0000035,ACC00036,2026-04-13,Purchase,Ster-Kinekor,Entertainment,514.14,ZAR,Online,Completed
+TXN0000488,ACC00127,2026-01-06,Refund,MTN Refund,Utilities,1400.01,ZAR,Online,Completed
+TXN0000562,ACC00101,2026-13-45,Transfer,Transfer to Savings,Transfer,14235.63,ZAR,Online,Completed
+TXN0000801,ACC00186,2026-05-22,Fee,  ATM FEE  ,Bank Fees,78.63,ZAR,Mobile App,Completed
+TXN0000420,ACC00052,2026-09-15,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,ATM,Completed
+TXN0000954,ACC00097,2026-03-11,Purchase,MTN,Utilities,2798.95,ZAR,Mobile App,Completed
+TXN0000136,ACC00195,2026-01-31,Purchase,Uber,Transport,2459.13,ZAR,POS,Completed
+TXN0000532,ACC00147,2026-09-14,Purchase,Sasol,Fuel,3261.1,ZAR,ATM,Reversed
+TXN0001229,ACC00182,2026-10-22,Purchase,Uber,Transport,235.84,ZAR,Mobile App,Completed
+TXN0000070,ACC00093,2026-13-45,Purchase,Amazon,Online Shopping,1863.79,ZAR,EFT,Completed
+TXN0001900,ACC00173,2026-09-14,Purchase,Takealot,Online Shopping,2964.9,ZAR,Online,Completed
+TXN0000884,ACC00153,2026-03-03,Purchase,Pick n Pay,Groceries,1839.41,ZAR,eft,Completed
+TXN0000736,ACC00021,2026-10-20,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,ATM,Completed
+TXN0000666,ACC00098,2026-10-26,Purchase,Wimpy,Dining,1863.66,ZAR,Online,Completed
+TXN0000977,ACC00119,2026-03-18,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,POS,Completed
+TXN0000887,ACC00142,2026-09-02,Purchase,Wimpy,Dining,1932.19,ZAR,Mobile App,Completed
+TXN0001111,ACC00094,2026-04-20,Transfer,Transfer to Family,Transfer,10944.84,ZAR,eft,Completed
+TXN0000187,ACC00052,2026-05-25,Purchase,Woolworths Food,Groceries,,ZAR,EFT,Completed
+TXN0001213,ACC00032,2026-01-23,Transfer,Transfer to Savings,Transfer,,ZAR,Online,Pending
+TXN0001819,ACC00022,2026-10-19,Deposit,Interest,Income,20015.06,ZAR,EFT,Completed
+TXN0000605,ACC00197,2026-08-04,Purchase,BP,Fuel,2756.41,ZAR,EFT,Completed
+TXN0001767,ACC00114,2026-03-16,Purchase,Gautrain,Transport,2078.29,ZAR,POS,Completed
+TXN0001439,ACC00124,2026-06-08,Purchase,Uber,Transport,517.53,ZAR,ATM,Completed
+TXN0001055,ACC00200,2026-08-01,Purchase,Engen,Fuel,866.68,ZAR,Mobile App,Completed
+TXN0001275,ACC00056,2026-03-03,Fee,Monthly Account Fee,Bank Fees,43.23,ZAR,EFT,Completed
+TXN0000012,ACC00211,2026-09-03,Purchase,Pick n Pay,Groceries,610.35,ZAR,ATM,Reversed
+TXN0000427,ACC00076,2026-03-05,Purchase,City of Joburg,Utilities,285.38,ZAR,POS,Completed
+TXN0001890,ACC00015,2026-03-29,Deposit,  INTEREST  ,Income,20640.21,ZAR,Mobile App,Completed
+TXN0001679,ACC00118,2026-08-04,Transfer,  TRANSFER TO FAMILY  ,Transfer,13928.57,ZAR,Online,Completed
+TXN0001317,ACC00108,2026-06-30,Purchase,Uber,Transport,3293.36,ZAR,EFT,Pending
+TXN0001069,ACC00198,2026-09-14,Transfer,Transfer to Rent,Transfer,9319.88,ZAR,Online,Failed
+TXN0000390,ACC00152,2026-06-21,Transfer,Transfer to Savings,Transfer,1706.83,ZAR,Online,Failed
+TXN0001943,ACC00115,2026-02-22,Purchase,Telkom,Utilities,1474.63,ZAR,ATM,Completed
+TXN0000980,ACC00100,2026-04-06,Transfer,Transfer to Family,Transfer,9909.11,ZAR,Mobile App,Completed
+TXN0000265,ACC00114,2026-06-23,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,POS,Completed
+TXN0001012,ACC00201,2026-01-31,Withdrawal,ATM Withdrawal,Cash,2000.0,ZAR,ATM,Completed
+TXN0001137,ACC00090,2026-01-13,Purchase,  SASOL  ,Fuel,980.99,ZAR,EFT,Completed
+TXN0001895,ACC00123,2026-05-06,Withdrawal,ATM Withdrawal,Cash,2000.0,ZAR,POS,Completed
+TXN0001029,ACC00115,2026-08-06,Purchase,Superbalist,Online Shopping,987.93,ZAR,ATM,Completed
+TXN0001838,ACC00043,2026-09-13,Deposit,  EFT CREDIT  ,Income,616.31,ZAR,POS,Completed
+TXN0001710,ACC00158,2026-02-06,Purchase,Bolt,Transport,977.13,ZAR,Mobile App,Completed
+TXN0000026,ACC00215,2026-05-13,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,ATM,Completed
+TXN0001063,ACC00217,2026-09-06,Purchase,Netflix,Entertainment,2179.81,ZAR,EFT,Completed
+TXN0000966,ACC00085,2026-06-17,Purchase,Gautrain,Transport,2926.22,ZAR,EFT,Completed
+TXN0000275,ACC00020,2026-09-21,Purchase,Uber,Transport,2679.94,ZAR,EFT,Completed
+TXN0000346,ACC00219,2026-08-28,Purchase,Wimpy,Dining,3359.91,ZAR,ATM,Completed
+TXN0001105,ACC00027,2026-06-24,Purchase,Nando's,Dining,2400.38,ZAR,ATM,Completed
+TXN0000304,ACC00163,2026-04-15,Transfer,Transfer to Family,Transfer,12373.29,ZAR,Online,Completed
+TXN0001473,ACC00110,2026-08-11,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,ATM,Completed
+TXN0001777,ACC00157,2026-07-23,Purchase,Wimpy,Dining,2711.94,ZAR,Mobile App,Completed
+TXN0001026,ACC00094,2026-06-03,Transfer,Transfer to Family,Transfer,2393.55,ZAR,POS,Completed
+TXN0001673,ACC00147,2026-06-14,Purchase,Uber,Transport,2012.03,ZAR,POS,Pending
+TXN0001974,ACC00029,2026-07-12,Purchase,Amazon,Online Shopping,634.68,ZAR,EFT,Completed
+TXN0000156,ACC00063,2026-02-06,Purchase,Telkom,Utilities,2401.31,ZAR,EFT,Completed
+TXN0001386,ACC00214,2026-01-17,Purchase,Sasol,Fuel,151.21,ZAR,Mobile App,Completed
+TXN0001775,ACC00108,2026-08-24,Purchase,Telkom,Utilities,1308.82,ZAR,POS,Completed
+TXN0000579,ACC00165,2026-03-04,Transfer,Transfer to Rent,Transfer,,ZAR,Online,Completed
+TXN0000525,ACC00204,2026-06-20,Purchase,Uber,Transport,1350.4,ZAR,EFT,Completed
+TXN0000307,ACC00024,2026-07-23,Fee,ATM Fee,Bank Fees,127.2,ZAR,Online,Completed
+TXN0000945,ACC00037,2026-02-09,Deposit,Interest,Income,7992.98,ZAR,Mobile App,Completed
+TXN0000700,ACC00192,2026-01-02,Purchase,DStv,Entertainment,425.24,ZAR,Mobile App,Completed
+TXN0000857,ACC00194,2026-01-21,Purchase,Vodacom,Utilities,1337.1,ZAR,Online,Completed
+TXN0000720,ACC00187,2026-08-21,Purchase,Telkom,Utilities,153.86,ZAR,Mobile App,Completed
+TXN0000594,ACC00038,2026-02-18,Purchase,Amazon,Online Shopping,1184.84,ZAR,Mobile App,Completed
+TXN0001760,ACC00038,2026-04-05,Purchase,Uber,Transport,1603.06,ZAR,Mobile App,Completed
+TXN0000921,ACC00059,2026-08-16,Transfer,  TRANSFER TO SAVINGS  ,Transfer,1612.91,ZAR,Online,Completed
+TXN0001740,ACC00074,2026-07-23,Transfer,Transfer to Rent,Transfer,11546.38,ZAR,Mobile App,Completed
+TXN0001313,ACC00207,2026-04-05,Purchase,  TAKEALOT  ,Online Shopping,2842.04,ZAR,POS,Completed
+TXN0000969,ACC00077,2026-02-11,Purchase,Ster-Kinekor,Entertainment,3320.49,ZAR,POS,Completed
+TXN0000992,ACC00204,2026-05-19,Refund,Shoprite Refund,Groceries,519.54,ZAR,EFT,Completed
+TXN0001967,ACC00124,2026-05-04,Deposit,Interest,Income,8275.72,ZAR,Online,Completed
+TXN0000221,ACC00038,2026-09-29,Transfer,Transfer to Savings,Transfer,4403.0,ZAR,Mobile App,Completed
+TXN0000216,ACC00078,2026-10-16,Purchase,Bolt,Transport,2029.82,ZAR,EFT,Completed
+TXN0001574,ACC00138,2026-03-23,Purchase,Netflix,Entertainment,1474.1,ZAR,ATM,Failed
+TXN0000847,ACC00163,2026-08-21,Purchase,Sasol,Fuel,1884.54,ZAR,ATM,Completed
+TXN0000978,ACC00073,2026-06-20,Withdrawal,ATM Withdrawal,Cash,2000.0,ZAR,Online,Completed
+TXN0001743,ACC00106,2026-07-16,Withdrawal,  ATM WITHDRAWAL  ,Cash,2000.0,ZAR,Mobile App,Completed
+TXN0001662,ACC00174,2026-06-16,Purchase,Bolt,Transport,2188.01,ZAR,EFT,Completed
+TXN0001078,ACC00052,2026-02-08,Purchase,BP,Fuel,2885.11,ZAR,POS,Completed
+TXN0001411,ACC00215,2026-08-23,Deposit,Interest,Income,8096.0,ZAR,ATM,Completed
+TXN0001635,ACC00094,2026-01-14,Purchase,Engen,Fuel,251.46,ZAR,Online,Completed
+TXN0000333,ACC00034,2026-07-03,Deposit,EFT Credit,Income,23313.07,ZAR,Mobile App,Completed
+TXN0000593,ACC00122,2026-10-26,Purchase,Takealot,Online Shopping,1661.9,ZAR,POS,Completed
+TXN0001182,ACC00147,2026-10-07,Deposit,Salary,Income,39050.29,ZAR,Mobile App,Completed
+TXN0001800,ACC00173,2026-07-20,Purchase,Superbalist,Online Shopping,2153.38,ZAR,Mobile App,Completed
+TXN0001221,ACC00141,2026-04-14,Purchase,Sasol,Fuel,1877.02,ZAR,eft,Completed
+TXN0000706,ACC00036,2026-08-28,Deposit,EFT Credit,Income,25587.74,ZAR,EFT,Pending
+TXN0000190,ACC00176,2026-06-19,Transfer,Transfer to Family,Transfer,1086.57,ZAR,Online,Completed
+TXN0000240,ACC00207,2026-09-01,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,Online,Completed
+TXN0000445,ACC00182,2026-09-08,Deposit,  EFT CREDIT  ,Income,31492.27,ZAR,Mobile App,Pending
+TXN0001888,ACC00165,2026-05-30,Purchase,Showmax,Entertainment,1315.46,ZAR,Online,Completed
+TXN0001108,ACC00157,2026-06-14,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,ATM,Completed
+TXN0000089,ACC00097,2026-07-07,Deposit,Salary,Income,23491.5,ZAR,Mobile App,Reversed
+TXN0001934,ACC00079,2026-03-06,Purchase,Uber,Transport,1039.79,ZAR,Mobile App,Completed
+TXN0001564,ACC00090,2026-08-01,Purchase,Vodacom,Utilities,472.84,ZAR,Mobile App,Completed
+TXN0000001,ACC00180,2026-06-30,Fee,ATM Fee,Bank Fees,25.6,ZAR,Online,Completed
+TXN0000239,ACC00203,2026-07-12,Transfer,Transfer to Savings,Transfer,13206.44,ZAR,POS,Completed
+TXN0001534,ACC00080,2026-10-29,Purchase,Engen,Fuel,3173.85,ZAR,Mobile App,Completed
+TXN0001353,ACC00139,2026-04-11,Purchase,Vida e Caffe,Dining,1067.62,ZAR,POS,Completed
+TXN0001024,ACC00092,2026-08-20,Deposit,Cash Deposit,Income,1697.02,ZAR,POS,Reversed
+TXN0001641,ACC00068,2026-05-06,Transfer,Transfer to Rent,Transfer,1593.9,ZAR,Online,Completed
+TXN0001354,ACC00119,2026-01-11,Transfer,Transfer to Savings,Transfer,12916.7,ZAR,EFT,Completed
+TXN0000861,ACC00167,2026-05-03,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,Mobile App,Reversed
+TXN0001390,ACC00005,2026-07-03,Purchase,Spar,Groceries,924.79,ZAR,EFT,Completed
+TXN0000363,ACC00133,2026-07-22,Transfer,Transfer to Rent,Transfer,7532.53,ZAR,Mobile App,Reversed
+TXN0000463,ACC00147,2026-07-08,Purchase,Wimpy,Dining,2025.56,ZAR,POS,Completed
+TXN0000467,ACC00199,2026-04-02,Transfer,Transfer to Rent,Transfer,5937.94,ZAR,Online,Reversed
+TXN0001240,ACC00010,2026-08-08,Purchase,Netflix,Entertainment,3464.2,ZAR,ATM,Pending
+TXN0001810,ACC00053,2026-04-19,Purchase,MTN,Utilities,1342.87,ZAR,EFT,Completed
+TXN0000968,ACC00217,2026-04-23,Transfer,Transfer to Savings,Transfer,7018.78,ZAR,Online,Pending
+TXN0000164,ACC00143,2026-05-24,Purchase,Wimpy,Dining,2304.41,ZAR,POS,Completed
+TXN0000478,ACC00178,2026-06-10,Purchase,Steers,Dining,2412.44,ZAR,POS,Completed
+TXN0001908,ACC00176,2026-03-16,Deposit,Salary,Income,24673.12,ZAR,online,Completed
+TXN0000665,ACC00023,2026-09-22,Transfer,Transfer to Rent,Transfer,3291.42,ZAR,Mobile App,Completed
+TXN0000636,ACC00169,2026-08-09,Purchase,Bolt,Transport,124.1,ZAR,ATM,Failed
+TXN0000460,ACC00084,2026-07-16,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,ATM,Completed
+TXN0001343,ACC00012,2026-03-07,Purchase,  ESKOM PREPAID  ,Utilities,3313.72,ZAR,EFT,Completed
+TXN0000795,ACC00065,2026-10-12,Deposit,Cash Deposit,Income,41575.82,ZAR,EFT,Completed
+TXN0000020,ACC00099,2026-09-06,Deposit,Interest,Income,2167.22,ZAR,ATM,Completed
+TXN0001964,ACC00185,2026-08-25,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,Mobile App,Completed
+TXN0001913,ACC00046,2026-08-01,Purchase,DStv,Entertainment,2136.68,ZAR,Online,Completed
+TXN0001194,ACC00157,2026-02-04,Purchase,Checkers,Groceries,631.42,ZAR,POS,Completed
+TXN0000937,ACC00101,2026-01-02,Purchase,Superbalist,Online Shopping,3248.4,ZAR,Mobile App,Failed
+TXN0000827,ACC00204,2026-03-03,Transfer,Transfer to Family,Transfer,14031.98,ZAR,POS,Completed
+TXN0000929,ACC00192,2026-03-07,Purchase,Amazon,Online Shopping,3112.27,ZAR,Online,Completed
+TXN0000237,ACC00017,2026-04-14,Purchase,Amazon,Online Shopping,2379.22,ZAR,ATM,Completed
+TXN0000531,ACC00165,2026-01-17,Deposit,Cash Deposit,Income,22896.65,ZAR,POS,Completed
+TXN0000789,ACC00087,2026-06-22,Refund,BP Refund,Fuel,524.65,ZAR,Mobile App,Completed
+TXN0000918,ACC00006,2026-01-15,Fee,Card Fee,Bank Fees,15.02,ZAR,Online,Completed
+TXN0000490,ACC00136,2026-01-22,Deposit,Cash Deposit,Income,30516.24,ZAR,EFT,Pending
+TXN0000428,ACC00056,2026-08-15,Withdrawal,  ATM WITHDRAWAL  ,Cash,2000.0,ZAR,POS,Completed
+TXN0000657,ACC00077,2026-09-10,Purchase,Ster-Kinekor,Entertainment,1009.12,ZAR,Mobile App,Completed
+TXN0001164,ACC00157,2026-08-17,Transfer,Transfer to Savings,Transfer,10701.15,ZAR,atm,Completed
+TXN0000519,ACC00006,2026-01-23,Purchase,Nando's,Dining,1797.73,ZAR,Mobile App,Completed
+TXN0000804,ACC00184,2026-01-21,Purchase,Superbalist,Online Shopping,2985.03,ZAR,EFT,Completed
+TXN0000191,ACC00100,2026-04-06,Deposit,EFT Credit,Income,31884.35,ZAR,ATM,Completed
+TXN0000676,ACC00109,2026-09-20,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,ATM,Completed
+TXN0000010,ACC00087,2026-09-05,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,Online,Completed
+TXN0001693,ACC00009,2026-07-03,Purchase,Spar,Groceries,1682.37,ZAR,EFT,Completed
+TXN0001203,ACC00091,2026-01-07,Deposit,Salary,Income,36153.23,ZAR,POS,Completed
+TXN0000266,ACC00024,2026-06-17,Purchase,Uber,Transport,2048.26,ZAR,Online,Completed
+TXN0000151,ACC00077,2026-01-20,Withdrawal,ATM Withdrawal,Cash,2000.0,ZAR,Mobile App,Completed
+TXN0000622,ACC00161,2026-07-12,Transfer,Transfer to Rent,Transfer,1264.34,ZAR,EFT,Completed
+TXN0000117,ACC00026,2026-03-25,Purchase,Superbalist,Online Shopping,1675.74,ZAR,POS,Completed
+TXN0000926,ACC00206,2026-04-20,Purchase,Vodacom,Utilities,1683.39,ZAR,POS,Completed
+TXN0001629,ACC00029,2026-10-22,Deposit,Cash Deposit,Income,43628.32,ZAR,POS,Completed
+TXN0000842,ACC00186,2026-06-12,Purchase,Pick n Pay,Groceries,1204.6,ZAR,ATM,Pending
+TXN0001001,ACC00219,2026-02-21,Purchase,Woolworths Food,Groceries,2691.48,ZAR,ATM,Pending
+TXN0000067,ACC00046,2026-02-08,Purchase,Engen,Fuel,1329.54,ZAR,mobile app,Completed
+TXN0001217,ACC00203,2026-02-20,Purchase,Engen,Fuel,,ZAR,Mobile App,Pending
+TXN0000055,ACC00210,2026-04-25,Transfer,Transfer to Family,Transfer,8446.25,ZAR,EFT,Completed
+TXN0001770,ACC00105,2026-08-21,Purchase,Uber,Transport,1933.85,ZAR,online,Completed
+TXN0001138,ACC00054,2026-10-31,Purchase,Showmax,Entertainment,520.97,ZAR,POS,Completed
+TXN0001479,ACC00028,2026-09-19,Purchase,Ster-Kinekor,Entertainment,3477.07,ZAR,Online,Completed
+TXN0001548,ACC00107,2026-07-21,Purchase,Bolt,Transport,153.55,ZAR,Mobile App,Completed
+TXN0001201,ACC00040,2026-08-18,Purchase,Ster-Kinekor,Entertainment,2392.37,ZAR,EFT,Completed
+TXN0001797,ACC00067,2026-02-22,Purchase,Netflix,Entertainment,2808.04,ZAR,Mobile App,Completed
+TXN0001736,ACC00074,2026-07-30,Purchase,Ster-Kinekor,Entertainment,873.53,ZAR,EFT,Completed
+TXN0000452,ACC00032,2026-05-22,Purchase,Spar,Groceries,833.21,ZAR,mobile app,Completed
+TXN0000025,ACC00102,2026-03-05,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,ATM,Completed
+TXN0000988,ACC00107,2026-01-09,Purchase,Gautrain,Transport,2761.16,ZAR,EFT,Completed
+TXN0001823,ACC00155,2026-04-17,Purchase,Takealot,Online Shopping,37.51,ZAR,EFT,Completed
+TXN0000753,ACC00022,2026-09-01,Purchase,Netflix,Entertainment,2100.05,ZAR,ATM,Completed
+TXN0000677,ACC00057,2026-07-28,Deposit,Interest,Income,13156.82,ZAR,EFT,Completed
+TXN0000178,ACC00108,2026-06-07,Purchase,Superbalist,Online Shopping,1021.4,ZAR,Online,Completed
+TXN0000388,ACC00127,2026-07-05,Purchase,Pick n Pay,Groceries,178.67,ZAR,Mobile App,Completed
+TXN0001723,ACC00179,2026-01-10,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,Online,Completed
+TXN0001496,ACC00175,2026-07-02,Purchase,Showmax,Entertainment,871.99,ZAR,ATM,Completed
+TXN0000309,ACC00037,2026-02-24,Purchase,Wimpy,Dining,1438.19,ZAR,EFT,Completed
+TXN0001984,ACC00164,2026-07-25,Purchase,Superbalist,Online Shopping,2927.27,ZAR,EFT,Completed
+TXN0001438,ACC00177,2026-10-30,Transfer,Transfer to Family,Transfer,1585.6,ZAR,Online,Completed
+TXN0000624,ACC00103,2026-01-30,Purchase,Spar,Groceries,1656.36,ZAR,ATM,Completed
+TXN0000167,ACC00048,2026-06-12,Transfer,Transfer to Savings,Transfer,10933.49,ZAR,ATM,Pending
+TXN0000334,ACC00095,2026-04-06,Purchase,Eskom Prepaid,Utilities,155.93,ZAR,ATM,Reversed
+TXN0000054,ACC00143,2026-10-09,Purchase,Spar,Groceries,3371.65,ZAR,ATM,Pending
+TXN0000251,ACC00034,2026-07-03,Purchase,Uber,Transport,70.52,ZAR,ATM,Completed
+TXN0001869,ACC00037,2026-10-30,Purchase,Bolt,Transport,2339.34,ZAR,POS,Completed
+TXN0001785,ACC00060,2026-10-28,Purchase,Woolworths Food,Groceries,1867.76,ZAR,ATM,Completed
+TXN0001806,ACC00007,2026-04-15,Purchase,Netflix,Entertainment,341.22,ZAR,Mobile App,Completed
+TXN0000520,ACC00058,2026-07-16,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,Mobile App,Completed
+TXN0001621,ACC00076,2026-08-21,Transfer,Transfer to Rent,Transfer,14818.05,ZAR,Online,Completed
+TXN0000638,ACC00100,2026-05-28,Transfer,Transfer to Rent,Transfer,7006.19,ZAR,EFT,Completed
+TXN0000984,ACC00189,2026-09-16,Purchase,MTN,Utilities,3477.8,ZAR,EFT,Pending
+TXN0000173,ACC00011,2026-10-13,Purchase,Amazon,Online Shopping,3369.63,ZAR,Online,Completed
+TXN0001875,ACC00078,2026-06-26,Transfer,Transfer to Family,Transfer,11361.4,ZAR,Online,Completed
+TXN0000491,ACC00127,2026-07-14,Purchase,Woolworths Food,Groceries,3200.45,ZAR,Online,Completed
+TXN0000919,ACC00150,2026-03-02,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,Online,Pending
+TXN0001586,ACC00194,2026-03-31,Refund,City of Joburg Refund,Utilities,1015.33,ZAR,ATM,Completed
+TXN0000837,ACC00161,2026-06-08,Purchase,Gautrain,Transport,3199.37,ZAR,Mobile App,Completed
+TXN0000009,ACC00205,2026-01-18,Purchase,Vida e Caffe,Dining,3331.54,ZAR,POS,Completed
+TXN0001367,ACC00131,2026-10-18,Transfer,Transfer to Rent,Transfer,13001.03,ZAR,POS,Completed
+TXN0000394,ACC00117,2026-09-22,Purchase,Engen,Fuel,372.87,ZAR,EFT,Completed
+TXN0000611,ACC00210,2026-05-04,Purchase,Gautrain,Transport,1920.18,ZAR,Mobile App,Completed
+TXN0001032,ACC00156,2026-10-06,Transfer,Transfer to Savings,Transfer,8131.14,ZAR,POS,Completed
+TXN0001223,ACC00217,2026-02-09,Deposit,Interest,Income,1540.13,ZAR,EFT,Completed
+TXN0001117,ACC00178,2026-08-08,Refund,Pick n Pay Refund,Groceries,1400.21,ZAR,POS,Pending
+TXN0001466,ACC00038,2026-01-28,Purchase,Netflix,Entertainment,945.48,ZAR,POS,Completed
+TXN0000408,ACC00022,2026-03-10,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,Mobile App,Completed
+TXN0000475,ACC00126,2026-02-02,Purchase,Showmax,Entertainment,2640.98,ZAR,Online,Failed
+TXN0001746,ACC00124,2026-04-16,Refund,Nando's Refund,Dining,436.54,ZAR,EFT,Completed
+TXN0001276,ACC00052,2026-03-02,Purchase,Spar,Groceries,209.73,ZAR,Mobile App,Completed
+TXN0001054,ACC00220,2026-07-28,Transfer,Transfer to Rent,Transfer,12973.84,ZAR,pos,Completed
+TXN0000566,ACC00026,2026-09-09,Transfer,Transfer to Family,Transfer,1196.28,ZAR,POS,Completed
+TXN0001761,ACC00122,2026-01-12,Deposit,Salary,Income,13585.68,ZAR,ATM,Completed
+TXN0000933,ACC00153,2026-09-20,Purchase,Steers,Dining,1987.56,ZAR,ATM,Reversed
+TXN0001045,ACC00105,2026-06-02,Purchase,Sasol,Fuel,2651.33,ZAR,Online,Completed
+TXN0001128,ACC00061,2026-10-11,Deposit,Cash Deposit,Income,40403.44,ZAR,ATM,Completed
+TXN0001400,ACC00220,2026-06-10,Purchase,Spar,Groceries,1157.01,ZAR,ATM,Completed
+TXN0001171,ACC00070,2026-03-26,Deposit,Interest,Income,25406.16,ZAR,EFT,Completed
+TXN0000868,ACC00127,2026-04-06,Purchase,Gautrain,Transport,2077.46,ZAR,POS,Completed
+TXN0000232,ACC00142,2026-01-21,Refund,Uber Refund,Transport,462.33,ZAR,Mobile App,Pending
+TXN0001398,ACC00018,2026-08-30,Purchase,Amazon,Online Shopping,514.0,ZAR,Mobile App,Completed
+TXN0000288,ACC00178,2026-10-30,Refund,Uber Refund,Transport,115.77,ZAR,Online,Completed
+TXN0000008,ACC00043,2026-07-31,Purchase,Telkom,Utilities,1917.89,ZAR,POS,Completed
+TXN0001474,ACC00113,2026-08-03,Refund,Amazon Refund,Online Shopping,463.77,ZAR,POS,Completed
+TXN0000352,ACC00032,2026-04-14,Purchase,Eskom Prepaid,Utilities,869.93,ZAR,Mobile App,Completed
+TXN0000699,ACC00017,2026-04-09,Transfer,Transfer to Rent,Transfer,2297.96,ZAR,ATM,Completed
+TXN0000284,ACC00055,2026-09-16,Transfer,Transfer to Family,Transfer,5560.3,ZAR,EFT,Completed
+TXN0000816,ACC00033,2026-02-19,Refund,Amazon Refund,Online Shopping,1068.36,ZAR,EFT,Completed
+TXN0000510,ACC00078,2026-04-23,Purchase,Nando's,Dining,611.32,ZAR,POS,Completed
+TXN0000138,ACC00048,2026-10-06,Purchase,Bolt,Transport,974.51,ZAR,EFT,Pending
+TXN0000506,ACC00033,2026-04-09,Purchase,Bolt,Transport,3122.18,ZAR,EFT,Reversed
+TXN0000681,ACC00054,2026-10-15,Transfer,Transfer to Rent,Transfer,7547.25,ZAR,Online,Completed
+TXN0000411,ACC00191,2026-05-21,Purchase,Netflix,Entertainment,,ZAR,EFT,Pending
+TXN0000359,ACC00067,2026-05-04,Transfer,Transfer to Family,Transfer,10924.99,ZAR,EFT,Completed
+TXN0001744,ACC00056,2026-06-18,Purchase,  CHECKERS  ,Groceries,380.5,ZAR,Mobile App,Completed
+TXN0001649,ACC00053,2026-02-08,Purchase,Gautrain,Transport,2453.95,ZAR,POS,Failed
+TXN0001413,ACC00215,2026-02-07,Transfer,Transfer to Family,Transfer,7979.36,ZAR,online,Completed
+TXN0000952,ACC00084,2026-03-29,Withdrawal,ATM Withdrawal,Cash,2000.0,ZAR,POS,Completed
+TXN0000802,ACC00150,2026-09-11,Purchase,Telkom,Utilities,377.32,ZAR,Mobile App,Completed
+TXN0001187,ACC00064,2026-07-30,Refund,Uber Refund,Transport,168.01,ZAR,EFT,Completed
+TXN0000292,ACC00006,2026-10-04,Purchase,Takealot,Online Shopping,3467.63,ZAR,POS,Completed
+TXN0001116,ACC00109,2026-07-06,Transfer,Transfer to Family,Transfer,11835.36,ZAR,EFT,Completed
+TXN0000814,ACC00146,2026-04-09,Purchase,Amazon,Online Shopping,2039.42,ZAR,EFT,Pending
+TXN0001331,ACC00028,2026-03-11,Transfer,Transfer to Savings,Transfer,11034.2,ZAR,Mobile App,Completed
+TXN0001780,ACC00214,2026-09-13,Deposit,Interest,Income,1165.11,ZAR,ATM,Completed
+TXN0001176,ACC00212,2026-07-28,Purchase,Netflix,Entertainment,16.2,ZAR,EFT,Failed
+TXN0001145,ACC00128,2026-01-09,Transfer,Transfer to Savings,Transfer,14536.39,ZAR,POS,Completed
+TXN0000766,ACC00180,2026-06-10,Refund,Wimpy Refund,Dining,1125.96,ZAR,Online,Completed
+TXN0000142,ACC00066,2026-01-26,Purchase,Showmax,Entertainment,60.61,ZAR,Online,Completed
+TXN0001501,ACC00060,2026-06-18,Purchase,Showmax,Entertainment,340.75,ZAR,ATM,Completed
+TXN0001653,ACC00207,2026-09-18,Deposit,EFT Credit,Income,28726.03,ZAR,Mobile App,Pending
+TXN0000109,ACC00214,2026-05-15,Purchase,Shoprite,Groceries,2362.84,ZAR,ATM,Completed
+TXN0000923,ACC00068,2026-07-03,Purchase,Netflix,Entertainment,3174.56,ZAR,Online,Completed
+TXN0000235,ACC00149,2026-04-30,Fee,Monthly Account Fee,Bank Fees,111.64,ZAR,Mobile App,Completed
+TXN0001683,ACC00205,2026-10-05,Deposit,Interest,Income,2975.48,ZAR,EFT,Completed
+TXN0000268,ACC00096,2026-01-07,Purchase,Vida e Caffe,Dining,3421.67,ZAR,EFT,Completed
+TXN0001925,ACC00181,2026-05-31,Refund,Uber Refund,Transport,472.33,ZAR,Online,Completed
+TXN0000470,ACC00186,2026-10-22,Purchase,Takealot,Online Shopping,1327.3,ZAR,Mobile App,Completed
+TXN0000032,ACC00172,2026-07-03,Purchase,Takealot,Online Shopping,2944.63,ZAR,EFT,Completed
+TXN0001552,ACC00034,2026-07-20,Purchase,Gautrain,Transport,2500.6,ZAR,ATM,Completed
+TXN0001157,ACC00113,2026-05-11,Transfer,Transfer to Family,Transfer,6608.45,ZAR,Online,Completed
+TXN0000068,ACC00040,2026-01-21,Purchase,Nando's,Dining,2711.21,ZAR,EFT,Completed
+TXN0001166,ACC00161,2026-05-13,Purchase,Showmax,Entertainment,834.71,ZAR,EFT,Completed
+TXN0000513,ACC00046,2026-05-12,Refund,Showmax Refund,Entertainment,1089.45,ZAR,Mobile App,Failed
+TXN0001266,ACC00133,2026-01-23,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,Online,Completed
+TXN0000042,ACC00162,2026-01-05,Purchase,Uber,Transport,2323.75,ZAR,ATM,Completed
+TXN0001447,ACC00018,2026-08-31,Transfer,Transfer to Family,Transfer,3926.85,ZAR,Online,Completed
+TXN0000706,ACC00036,2026-08-28,Deposit,EFT Credit,Income,25587.74,ZAR,EFT,Pending
+TXN0001524,ACC00041,2026-10-21,Purchase,City of Joburg,Utilities,1227.99,ZAR,POS,Completed
+TXN0001627,ACC00003,2026-10-07,Deposit,Salary,Income,38751.36,ZAR,EFT,Completed
+TXN0000171,ACC00158,2026-09-08,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,Online,Completed
+TXN0001206,ACC00216,2026-08-06,Purchase,BP,Fuel,900.55,ZAR,ATM,Completed
+TXN0000224,ACC00115,2026-06-29,Purchase,Vida e Caffe,Dining,687.88,ZAR,POS,Completed
+TXN0001666,ACC00208,2026-08-01,Transfer,Transfer to Savings,Transfer,4438.44,ZAR,POS,Completed
+TXN0000957,ACC00199,2026-03-17,Purchase,Netflix,Entertainment,2277.01,ZAR,ATM,Completed
+TXN0001732,ACC00069,2026-08-31,Transfer,Transfer to Family,Transfer,3365.71,ZAR,Mobile App,Completed
+TXN0000526,ACC00108,2026-09-27,Deposit,Cash Deposit,Income,31787.65,ZAR,Online,Completed
+TXN0001726,ACC00170,2026-01-24,Transfer,Transfer to Savings,Transfer,11396.65,ZAR,ATM,Completed
+TXN0000673,ACC00142,2026-05-08,Fee,Monthly Account Fee,Bank Fees,127.59,ZAR,EFT,Completed
+TXN0000610,ACC00124,2026-04-05,Transfer,Transfer to Rent,Transfer,3978.05,ZAR,EFT,Completed
+TXN0000793,ACC00136,2026-03-27,Purchase,Pick n Pay,Groceries,2227.65,ZAR,EFT,Completed
+TXN0000332,ACC00219,2026-04-17,Purchase,Superbalist,Online Shopping,1008.0,ZAR,Online,Completed
+TXN0000464,ACC00205,2026-03-06,Purchase,Netflix,Entertainment,386.45,ZAR,POS,Completed
+TXN0000092,ACC00152,2026-03-24,Purchase,Showmax,Entertainment,3119.43,ZAR,Online,Completed
+TXN0001691,ACC00126,2026-06-17,Purchase,Ster-Kinekor,Entertainment,3019.95,ZAR,Online,Reversed
+TXN0001499,ACC00219,2026-05-30,Purchase,Engen,Fuel,50.61,ZAR,POS,Completed
+TXN0001288,ACC00086,2026-06-06,Purchase,Superbalist,Online Shopping,661.0,ZAR,Mobile App,Completed
+TXN0001820,ACC00185,2026-06-14,Transfer,Transfer to Family,Transfer,14547.73,ZAR,EFT,Completed
+TXN0000211,ACC00202,2026-08-06,Deposit,Interest,Income,23168.96,ZAR,eft,Completed
+TXN0000614,ACC00090,2026-09-26,Purchase,Pick n Pay,Groceries,2300.88,ZAR,ATM,Completed
+TXN0000102,ACC00163,2026-01-03,Transfer,Transfer to Savings,Transfer,7127.86,ZAR,EFT,Completed
+TXN0001403,ACC00053,2026-01-19,Purchase,MTN,Utilities,1877.09,ZAR,Online,Completed
+TXN0001282,ACC00183,2026-02-13,Deposit,Interest,Income,12233.3,ZAR,Online,Completed
+TXN0001058,ACC00105,2026-04-10,Purchase,Uber,Transport,3296.48,ZAR,EFT,Completed
+TXN0001073,ACC00170,2026-03-02,Refund,Gautrain Refund,Transport,922.81,ZAR,ATM,Completed
+TXN0001118,ACC00060,2026-02-07,Refund,  ENGEN REFUND  ,Fuel,,ZAR,ATM,Completed
+TXN0000578,ACC00186,2026-06-04,Purchase,Superbalist,Online Shopping,1410.2,ZAR,EFT,Completed
+TXN0001776,ACC00018,2026-06-03,Deposit,Salary,Income,6730.6,ZAR,Online,Completed
+TXN0000302,ACC00148,2026-09-13,Purchase,Amazon,Online Shopping,3284.29,ZAR,ATM,Failed
+TXN0001022,ACC00024,2026-05-09,Transfer,Transfer to Rent,Transfer,11221.62,ZAR,Online,Completed
+TXN0000193,ACC00049,2026-06-24,Fee,ATM Fee,Bank Fees,131.71,ZAR,ATM,Completed
+TXN0000380,ACC00163,2026-05-14,Refund,  BOLT REFUND  ,Transport,424.06,ZAR,ATM,Completed
+TXN0000853,ACC00148,2026-04-12,Purchase,Wimpy,Dining,871.26,ZAR,Online,Completed
+TXN0000135,ACC00003,2026-01-22,Deposit,Interest,Income,31134.09,ZAR,Online,Completed
+TXN0001838,ACC00043,2026-09-13,Deposit,  EFT CREDIT  ,Income,616.31,ZAR,POS,Completed
+TXN0000863,ACC00179,2026-07-12,Purchase,Amazon,Online Shopping,2989.89,ZAR,Mobile App,Completed
+TXN0001274,ACC00023,2026-08-01,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,Mobile App,Completed
+TXN0001959,ACC00105,2026-07-10,Purchase,Gautrain,Transport,537.8,ZAR,ATM,Completed
+TXN0000765,ACC00052,2026-10-15,Purchase,BP,Fuel,2010.98,ZAR,ATM,Completed
+TXN0001437,ACC00022,2026-01-18,Withdrawal,ATM Withdrawal,Cash,,ZAR,Mobile App,Completed
+TXN0001327,ACC00038,2026-04-25,Purchase,Wimpy,Dining,462.14,ZAR,Mobile App,Completed
+TXN0000773,ACC00026,2026-01-14,Purchase,Takealot,Online Shopping,2731.43,ZAR,EFT,Completed
+TXN0001559,ACC00066,2026-08-18,Deposit,Salary,Income,7865.1,ZAR,ATM,Completed
+TXN0001488,ACC00027,2026-07-18,Transfer,Transfer to Savings,Transfer,11432.34,ZAR,ATM,Completed
+TXN0001114,ACC00197,2026-06-28,Purchase,BP,Fuel,1957.56,ZAR,Mobile App,Completed
+TXN0000223,ACC00173,31/02/2026,Transfer,  TRANSFER TO RENT  ,Transfer,,ZAR,Online,Completed
+TXN0000892,ACC00127,2026-01-13,Deposit,Interest,Income,24976.38,ZAR,POS,Completed
+TXN0001752,ACC00035,2026-02-20,Deposit,EFT Credit,Income,41716.92,ZAR,POS,Reversed
+TXN0000864,ACC00069,2026-02-12,Fee,ATM Fee,Bank Fees,17.3,ZAR,ATM,Completed
+TXN0000022,ACC00059,2026-03-10,Purchase,Bolt,Transport,2712.5,ZAR,ATM,Completed
+TXN0001502,ACC00040,2026-09-09,Purchase,Amazon,Online Shopping,2758.52,ZAR,POS,Completed
+TXN0000095,ACC00130,2026-08-03,Transfer,Transfer to Rent,Transfer,1534.85,ZAR,Mobile App,Pending
+TXN0000989,ACC00219,n/a,Fee,Card Fee,Bank Fees,86.31,ZAR,ATM,Completed
+TXN0001630,ACC00209,2026-09-10,Fee,ATM Fee,Bank Fees,51.64,ZAR,ATM,Reversed
+TXN0001434,ACC00134,2026-02-03,Purchase,Sasol,Fuel,1559.51,ZAR,ATM,Failed
+TXN0000809,ACC00182,2026-09-06,Purchase,Superbalist,Online Shopping,3136.79,ZAR,Online,Failed
+TXN0000987,ACC00002,2026-09-29,Purchase,Sasol,Fuel,847.85,ZAR,POS,Completed
+TXN0001041,ACC00054,2026-05-04,Purchase,Amazon,Online Shopping,1960.54,ZAR,EFT,Completed
+TXN0001562,ACC00205,2026-01-17,Deposit,Cash Deposit,Income,21724.52,ZAR,POS,Completed
+TXN0000401,ACC00012,2026-01-16,Purchase,Steers,Dining,778.02,ZAR,atm,Completed
+TXN0000024,ACC00146,2026-01-15,Purchase,Takealot,Online Shopping,2931.86,ZAR,Online,Completed
+TXN0000798,ACC00154,2026-08-30,Purchase,Telkom,Utilities,2880.51,ZAR,EFT,Completed
+TXN0000425,ACC00019,2026-08-25,Purchase,Bolt,Transport,2997.37,ZAR,Mobile App,Completed
+TXN0001110,ACC00010,2026-02-14,Transfer,Transfer to Savings,Transfer,5978.51,ZAR,POS,Completed
+TXN0000347,ACC00171,2026-09-05,Purchase,Shell,Fuel,2126.04,ZAR,POS,Completed
+TXN0000908,ACC00006,2026-03-16,Deposit,Cash Deposit,Income,38373.85,ZAR,EFT,Completed
+TXN0000379,ACC00102,2026-03-04,Transfer,Transfer to Rent,Transfer,8391.54,ZAR,ATM,Completed
+TXN0000228,ACC00165,2026-02-24,Fee,ATM Fee,Bank Fees,42.55,ZAR,POS,Completed
+TXN0001338,ACC00209,2026-10-14,Deposit,EFT Credit,Income,19284.53,ZAR,ATM,Completed
+TXN0000123,ACC00040,2026-02-13,Deposit,Interest,Income,14266.99,ZAR,Online,Completed
+TXN0001778,ACC00062,2026-03-14,Fee,Monthly Account Fee,Bank Fees,35.83,ZAR,EFT,Completed
+TXN0000663,ACC00181,2026-06-11,Fee,Monthly Account Fee,Bank Fees,67.84,ZAR,EFT,Completed
+TXN0000498,ACC00213,2026-06-25,Purchase,Showmax,Entertainment,1528.63,ZAR,ATM,Completed
+TXN0000407,ACC00150,2026-01-19,Purchase,Sasol,Fuel,3023.14,ZAR,Mobile App,Completed
+TXN0000500,ACC00219,2026-10-30,Deposit,Cash Deposit,Income,10707.6,ZAR,online,Completed
+TXN0001070,ACC00200,2026-03-14,Transfer,  TRANSFER TO FAMILY  ,Transfer,6122.76,ZAR,EFT,Failed
+TXN0001874,ACC00088,2026-02-11,Purchase,Superbalist,Online Shopping,3419.14,ZAR,EFT,Completed
+TXN0001930,ACC00120,2026-01-20,Purchase,Amazon,Online Shopping,482.81,ZAR,ATM,Reversed
+TXN0000058,ACC00163,2026-10-29,Purchase,Vodacom,Utilities,2309.72,ZAR,EFT,Completed
+TXN0000340,ACC00158,2026-07-04,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,ATM,Completed
+TXN0000276,ACC00176,2026-07-05,Purchase,DStv,Entertainment,2884.25,ZAR,POS,Completed
+TXN0001333,ACC00067,2026-06-17,Purchase,Engen,Fuel,267.59,ZAR,EFT,Completed
+TXN0001786,ACC00165,2026-05-05,Purchase,  NETFLIX  ,Entertainment,1720.59,ZAR,Mobile App,Completed
+TXN0000165,ACC00147,2026-03-20,Purchase,Vida e Caffe,Dining,1580.35,ZAR,Online,Completed
+TXN0001018,ACC00065,2026-05-20,Deposit,Interest,Income,30307.71,ZAR,EFT,Completed
+TXN0000573,ACC00136,2026-06-30,Purchase,Pick n Pay,Groceries,2834.51,ZAR,Mobile App,Completed
+TXN0001688,ACC00141,2026-10-07,Purchase,Ster-Kinekor,Entertainment,2967.96,ZAR,POS,Completed
+TXN0001757,ACC00089,2026-13-45,Purchase,Steers,Dining,2655.44,ZAR,Mobile App,Completed
+TXN0000617,ACC00174,2026-09-01,Purchase,Shell,Fuel,382.43,ZAR,Online,Completed
+TXN0001051,ACC00066,2026-10-28,Purchase,Uber,Transport,1390.6,ZAR,Online,Completed
+TXN0001384,ACC00063,2026-05-28,Transfer,Transfer to Rent,Transfer,14161.49,ZAR,ATM,Completed
+TXN0001948,ACC00213,2026-06-04,Purchase,Takealot,Online Shopping,2207.71,ZAR,Online,Completed
+TXN0001590,ACC00057,2026-08-06,Purchase,  TAKEALOT  ,Online Shopping,2454.19,ZAR,Mobile App,Completed
+TXN0001555,ACC00192,2026-04-11,Purchase,Vodacom,Utilities,2309.85,ZAR,Mobile App,Completed
+TXN0001733,ACC00196,2026-07-21,Purchase,Steers,Dining,1193.15,ZAR,EFT,Completed
+TXN0001106,ACC00100,2026-03-27,Refund,Sasol Refund,Fuel,1420.18,ZAR,Online,Completed
+TXN0001651,ACC00211,2026-01-20,Deposit,EFT Credit,Income,32892.64,ZAR,Online,Pending
+TXN0001709,ACC00151,2026-10-06,Purchase,Sasol,Fuel,3402.24,ZAR,EFT,Completed
+TXN0001844,ACC00107,2026-07-21,Purchase,Uber,Transport,1798.78,ZAR,POS,Completed
+TXN0001457,ACC00136,2026-07-30,Purchase,City of Joburg,Utilities,530.9,ZAR,POS,Completed
+TXN0000296,ACC00092,2026-07-30,Purchase,Uber,Transport,877.93,ZAR,ATM,Completed
+TXN0000693,ACC00046,2026-01-13,Transfer,Transfer to Family,Transfer,11584.1,ZAR,ATM,Completed
+TXN0001560,ACC00011,2026-05-24,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,Online,Completed
+TXN0001047,ACC00202,2026-04-28,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,ATM,Completed
+TXN0000385,ACC00072,2026-10-19,Purchase,Shell,Fuel,2314.54,ZAR,EFT,Completed
+TXN0000922,ACC00111,2026-01-11,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,EFT,Completed
+TXN0000783,ACC00122,2026-08-26,Refund,Amazon Refund,Online Shopping,,ZAR,EFT,Completed
+TXN0001448,ACC00034,2026-04-05,Purchase,Shoprite,Groceries,68.66,ZAR,ATM,Completed
+TXN0001449,ACC00171,2026-01-09,Deposit,EFT Credit,Income,33514.9,ZAR,Mobile App,Completed
+TXN0001397,ACC00036,2026-05-28,Purchase,Steers,Dining,369.17,ZAR,EFT,Completed
+TXN0001091,ACC00180,2026-10-29,Purchase,Bolt,Transport,1418.69,ZAR,POS,Completed
+TXN0000200,ACC00120,2026-02-19,Purchase,Gautrain,Transport,2490.1,ZAR,Mobile App,Completed
+TXN0001067,ACC00147,2026-08-04,Withdrawal,ATM Withdrawal,Cash,2000.0,ZAR,Mobile App,Completed
+TXN0001483,ACC00017,2026-09-28,Purchase,Ster-Kinekor,Entertainment,1885.89,ZAR,Mobile App,Completed
+TXN0000157,ACC00007,2026-06-06,Purchase,Wimpy,Dining,2186.79,ZAR,Mobile App,Completed
+TXN0000587,ACC00005,2026-08-24,Purchase,Shoprite,Groceries,2321.67,ZAR,Mobile App,Completed
+TXN0000574,ACC00032,2026-01-05,Purchase,Woolworths Food,Groceries,760.0,ZAR,EFT,Completed
+TXN0000650,ACC00062,2026-08-16,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,ATM,Completed
+TXN0001751,ACC00215,2026-10-30,Purchase,Ster-Kinekor,Entertainment,219.78,ZAR,ATM,Completed
+TXN0000371,ACC00005,2026-05-21,Transfer,Transfer to Savings,Transfer,12462.39,ZAR,EFT,Completed
+TXN0001695,ACC00166,2026-06-15,Transfer,Transfer to Savings,Transfer,6068.89,ZAR,Mobile App,Completed
+TXN0000763,ACC00169,2026-07-19,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,Online,Completed
+TXN0001414,ACC00149,2026-09-28,Purchase,Vida e Caffe,Dining,2840.93,ZAR,ATM,Completed
+TXN0001873,ACC00112,2026-07-14,Fee,ATM Fee,Bank Fees,54.87,ZAR,POS,Completed
+TXN0001352,ACC00046,2026-07-12,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,EFT,Completed
+TXN0001847,ACC00036,2026-02-18,Deposit,Salary,Income,33741.32,ZAR,Online,Completed
+TXN0001374,ACC00197,31/02/2026,Purchase,Eskom Prepaid,Utilities,878.7,ZAR,EFT,Completed
+TXN0000925,ACC00016,2026-09-19,Transfer,Transfer to Savings,Transfer,,ZAR,ATM,Completed
+TXN0000653,ACC00108,2026-05-15,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,POS,Completed
+TXN0000808,ACC00059,2026-06-12,Transfer,Transfer to Savings,Transfer,13721.15,ZAR,POS,Completed
+TXN0001692,ACC00190,2026-02-21,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,POS,Completed
+TXN0001999,ACC00054,2026-01-22,Purchase,DStv,Entertainment,1503.42,ZAR,ATM,Completed
+TXN0001652,ACC00130,2026-03-27,Purchase,City of Joburg,Utilities,1308.81,ZAR,POS,Completed
+TXN0000301,ACC00111,2026-10-04,Purchase,  VODACOM  ,Utilities,890.66,ZAR,EFT,Completed
+TXN0001637,ACC00097,2026-05-16,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,Online,Completed
+TXN0001120,ACC00037,2026-09-13,Refund,Uber Refund,Transport,646.15,ZAR,Mobile App,Completed
+TXN0001315,ACC00104,2026-08-25,Purchase,Bolt,Transport,1429.85,ZAR,EFT,Failed
+TXN0001458,ACC00004,2026-07-03,Fee,Monthly Account Fee,Bank Fees,132.4,ZAR,Online,Completed
+TXN0001867,ACC00009,2026-07-02,Purchase,Bolt,Transport,1127.16,ZAR,POS,Completed
+TXN0000222,ACC00091,2026-08-10,Deposit,EFT Credit,Income,15406.05,ZAR,ATM,Completed
+TXN0001909,ACC00115,2026-10-26,Transfer,Transfer to Family,Transfer,9814.85,ZAR,Mobile App,Completed
+TXN0000774,ACC00042,2026-08-06,Refund,Shell Refund,Fuel,1163.07,ZAR,POS,Completed
+TXN0001790,ACC00031,2026-06-01,Fee,Card Fee,Bank Fees,33.39,ZAR,EFT,Completed
+TXN0000661,ACC00117,2026-06-01,Fee,ATM Fee,Bank Fees,107.42,ZAR,POS,Completed
+TXN0001376,ACC00154,2026-02-02,Purchase,Nando's,Dining,1430.12,ZAR,Mobile App,Completed
+TXN0001686,ACC00043,2026-07-27,Transfer,Transfer to Savings,Transfer,7632.37,ZAR,EFT,Completed
+TXN0001861,ACC00203,2026-05-28,Refund,Bolt Refund,Transport,752.33,ZAR,POS,Completed
+TXN0000541,ACC00025,2026-01-08,Purchase,Superbalist,Online Shopping,1921.77,ZAR,POS,Completed
+TXN0000155,ACC00179,2026-03-08,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,EFT,Completed
+TXN0000341,ACC00007,2026-04-18,Purchase,Shell,Fuel,1533.72,ZAR,eft,Completed
+TXN0001833,ACC00164,2026-10-28,Purchase,Nando's,Dining,2612.1,ZAR,pos,Completed
+TXN0000264,ACC00130,2026-06-19,Deposit,EFT Credit,Income,21589.02,ZAR,ATM,Failed
+TXN0001734,ACC00142,2026-06-23,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,ATM,Completed
+TXN0001936,ACC00010,2026-09-17,Purchase,Superbalist,Online Shopping,2844.59,ZAR,Online,Completed
+TXN0000182,ACC00149,2026-07-04,Fee,Monthly Account Fee,Bank Fees,116.43,ZAR,ATM,Completed
+TXN0001840,ACC00167,2026-04-14,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,Online,Completed
+TXN0001195,ACC00164,2026-07-18,Refund,Spar Refund,Groceries,42.22,ZAR,Mobile App,Completed
+TXN0000879,ACC00122,2026-02-02,Purchase,Wimpy,Dining,872.69,ZAR,ATM,Completed
+TXN0000800,ACC00027,2026-02-15,Refund,DStv Refund,Entertainment,377.11,ZAR,Mobile App,Completed
+TXN0001072,ACC00172,2026-07-05,Deposit,Cash Deposit,Income,29748.03,ZAR,EFT,Completed
+TXN0001038,ACC00129,n/a,Purchase,Eskom Prepaid,Utilities,1782.4,ZAR,Mobile App,Completed
+TXN0000290,ACC00126,2026-09-12,Purchase,Engen,Fuel,362.12,ZAR,POS,Completed
+TXN0000140,ACC00138,2026-07-18,Purchase,Bolt,Transport,2683.58,ZAR,Online,Completed
+TXN0000542,ACC00091,2026-02-15,Purchase,Bolt,Transport,913.94,ZAR,Mobile App,Reversed
+TXN0001211,ACC00143,2026-04-26,Deposit,Cash Deposit,Income,23705.12,ZAR,Online,Completed
+TXN0001687,ACC00103,2026-02-10,Purchase,  STER-KINEKOR  ,Entertainment,2389.19,ZAR,Online,Completed
+TXN0000486,ACC00181,2026-08-23,Purchase,Wimpy,Dining,1765.27,ZAR,ATM,Failed
+TXN0000851,ACC00101,2026-03-14,Purchase,Ster-Kinekor,Entertainment,1061.62,ZAR,EFT,Completed
+TXN0001371,ACC00042,2026-08-02,Transfer,Transfer to Rent,Transfer,2646.65,ZAR,EFT,Completed
+TXN0000372,ACC00006,2026-06-24,Purchase,Eskom Prepaid,Utilities,3010.87,ZAR,ATM,Completed
+TXN0001623,ACC00114,2026-02-02,Purchase,Uber,Transport,2882.72,ZAR,EFT,Completed
+TXN0000357,ACC00053,2026-10-06,Deposit,Interest,Income,31537.46,ZAR,Mobile App,Completed
+TXN0001052,ACC00202,2026-03-05,Purchase,Netflix,Entertainment,855.22,ZAR,POS,Completed
+TXN0000052,ACC00218,2026-08-29,Transfer,Transfer to Savings,Transfer,1215.49,ZAR,Mobile App,Completed
+TXN0000799,ACC00070,2026-01-21,Purchase,Nando's,Dining,2199.74,ZAR,Mobile App,Completed
+TXN0001822,ACC00037,2026-02-18,Purchase,Amazon,Online Shopping,1694.69,ZAR,EFT,Completed
+TXN0001149,ACC00057,2026-05-27,Purchase,Checkers,Groceries,73.76,ZAR,ATM,Pending
+TXN0001482,ACC00136,2026-03-17,Purchase,Shoprite,Groceries,828.75,ZAR,Online,Completed
+TXN0000895,ACC00167,2026-09-20,Transfer,Transfer to Savings,Transfer,2854.0,ZAR,POS,Completed
+TXN0001917,ACC00076,2026-07-10,Purchase,Steers,Dining,1205.99,ZAR,Mobile App,Pending
+TXN0000746,ACC00150,2026-01-07,Purchase,Gautrain,Transport,2612.92,ZAR,EFT,Completed
+TXN0000468,ACC00101,2026-02-06,Purchase,Vida e Caffe,Dining,2441.87,ZAR,Online,Completed
+TXN0001465,ACC00062,2026-05-23,Purchase,Shoprite,Groceries,1135.96,ZAR,EFT,Completed
+TXN0001858,ACC00130,2026-07-20,Transfer,Transfer to Savings,Transfer,7451.77,ZAR,Online,Completed
+TXN0000106,ACC00209,2026-05-22,Purchase,Sasol,Fuel,3255.05,ZAR,EFT,Completed
+TXN0001361,ACC00041,2026-02-02,Transfer,Transfer to Savings,Transfer,2734.03,ZAR,Online,Completed
+TXN0000023,ACC00190,2026-09-06,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,POS,Completed
+TXN0001368,ACC00157,2026-05-23,Deposit,Salary,Income,29500.1,ZAR,EFT,Completed
+TXN0000402,ACC00026,2026-01-11,Transfer,Transfer to Savings,Transfer,5745.95,ZAR,POS,Completed
+TXN0001768,ACC00143,2026-01-21,Deposit,  INTEREST  ,Income,23826.49,ZAR,POS,Completed
+TXN0001066,ACC00182,2026-02-03,Transfer,Transfer to Family,Transfer,8653.9,ZAR,POS,Completed
+TXN0000549,ACC00104,2026-02-11,Purchase,Bolt,Transport,3051.44,ZAR,EFT,Completed
+TXN0001836,ACC00065,2026-07-16,Purchase,Gautrain,Transport,3235.58,ZAR,Mobile App,Completed
+TXN0000905,ACC00218,2026-01-25,Purchase,Spar,Groceries,1295.03,ZAR,Mobile App,Completed
+TXN0000848,ACC00042,2026-07-08,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,ATM,Completed
+TXN0001918,ACC00032,2026-03-20,Purchase,Steers,Dining,2119.09,ZAR,Online,Completed
+TXN0001923,ACC00144,2026-04-01,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,Mobile App,Completed
+TXN0001489,ACC00166,31/02/2026,Transfer,Transfer to Rent,Transfer,7053.22,ZAR,EFT,Completed
+TXN0000461,ACC00126,2026-02-16,Transfer,Transfer to Family,Transfer,13091.92,ZAR,EFT,Completed
+TXN0001378,ACC00129,2026-02-26,Purchase,Ster-Kinekor,Entertainment,2034.75,ZAR,EFT,Completed
+TXN0001669,ACC00160,2026-06-02,Transfer,Transfer to Family,Transfer,2392.86,ZAR,Online,Completed
+TXN0001549,ACC00093,2026-08-09,Purchase,Shoprite,Groceries,2928.3,ZAR,POS,Completed
+TXN0000465,ACC00117,2026-03-17,Deposit,Cash Deposit,Income,33744.17,ZAR,POS,Completed
+TXN0001644,ACC00058,2026-10-01,Transfer,Transfer to Rent,Transfer,2196.3,ZAR,Online,Completed
+TXN0001852,ACC00149,2026-10-26,Purchase,Nando's,Dining,487.49,ZAR,ATM,Completed
+TXN0001301,ACC00044,2026-03-19,Deposit,  INTEREST  ,Income,10594.35,ZAR,EFT,Completed
+TXN0001685,ACC00054,2026-08-25,Purchase,Nando's,Dining,1131.61,ZAR,EFT,Completed
+TXN0000338,ACC00194,2026-08-19,Deposit,EFT Credit,Income,15689.38,ZAR,Online,Completed
+TXN0000635,ACC00072,2026-10-29,Purchase,Takealot,Online Shopping,,ZAR,EFT,Completed
+TXN0000959,ACC00099,2026-08-10,Purchase,Vida e Caffe,Dining,2876.51,ZAR,EFT,Completed
+TXN0001237,ACC00023,2026-09-21,Fee,Card Fee,Bank Fees,34.32,ZAR,ATM,Completed
+TXN0000097,ACC00203,2026-07-15,Purchase,Amazon,Online Shopping,3178.89,ZAR,EFT,Completed
+TXN0000389,ACC00189,2026-04-26,Refund,Eskom Prepaid Refund,Utilities,1377.15,ZAR,Online,Completed
+TXN0001951,ACC00038,2026-01-27,Fee,ATM Fee,Bank Fees,66.26,ZAR,ATM,Completed
+TXN0000153,ACC00084,2026-09-15,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,POS,Completed
+TXN0000015,ACC00100,2026-09-25,Purchase,Ster-Kinekor,Entertainment,2010.91,ZAR,Online,Completed
+TXN0001254,ACC00113,2026-09-02,Purchase,Amazon,Online Shopping,3135.6,ZAR,Mobile App,Completed
+TXN0000398,ACC00122,2026-08-28,Deposit,EFT Credit,Income,38414.39,ZAR,EFT,Failed
+TXN0000219,ACC00211,2026-03-20,Transfer,Transfer to Family,Transfer,11578.48,ZAR,Online,Completed
+TXN0000708,ACC00178,2026-08-11,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,Online,Completed
+TXN0000473,ACC00022,2026-03-04,Purchase,Gautrain,Transport,798.9,ZAR,EFT,Completed
+TXN0001690,ACC00058,2026-05-21,Fee,ATM Fee,Bank Fees,101.1,ZAR,Mobile App,Completed
+TXN0000175,ACC00179,2026-10-07,Purchase,Telkom,Utilities,1586.34,ZAR,Online,Completed
+TXN0001931,ACC00020,2026-02-06,Purchase,BP,Fuel,1350.91,ZAR,EFT,Completed
+TXN0000440,ACC00078,2026-05-27,Deposit,Cash Deposit,Income,12597.8,ZAR,Mobile App,Completed
+TXN0001103,ACC00088,2026-07-11,Purchase,Sasol,Fuel,1620.49,ZAR,Mobile App,Completed
+TXN0001614,ACC00082,2026-06-09,Purchase,Nando's,Dining,3480.7,ZAR,Online,Completed
+TXN0000273,ACC00018,2026-07-05,Deposit,Interest,Income,39141.39,ZAR,mobile app,Reversed
+TXN0000263,ACC00139,2026-03-25,Purchase,Checkers,Groceries,1424.9,ZAR,Mobile App,Completed
+TXN0000931,ACC00138,2026-06-17,Fee,Card Fee,Bank Fees,79.16,ZAR,Mobile App,Completed
+TXN0000119,ACC00131,2026-09-07,Transfer,Transfer to Family,Transfer,13355.52,ZAR,Mobile App,Completed
+TXN0001497,ACC00105,2026-06-02,Transfer,Transfer to Family,Transfer,1183.22,ZAR,Mobile App,Pending
+TXN0000094,ACC00047,2026-09-19,Purchase,Gautrain,Transport,1209.21,ZAR,mobile app,Completed
+TXN0000835,ACC00004,2026-01-24,Fee,Monthly Account Fee,Bank Fees,,ZAR,POS,Pending
+TXN0001218,ACC00098,2026-08-13,Transfer,Transfer to Family,Transfer,391.22,ZAR,POS,Completed
+TXN0001882,ACC00038,2026-10-11,Purchase,Uber,Transport,388.13,ZAR,ATM,Completed
+TXN0001441,ACC00173,2026-04-20,Purchase,Checkers,Groceries,1874.49,ZAR,EFT,Completed
+TXN0000730,ACC00022,2026-04-17,Withdrawal,ATM Withdrawal,Cash,2000.0,ZAR,ATM,Completed
+TXN0001799,ACC00095,2026-02-02,Transfer,Transfer to Family,Transfer,2827.87,ZAR,ATM,Completed
+TXN0000754,ACC00050,2026-10-29,Transfer,Transfer to Rent,Transfer,11357.59,ZAR,POS,Completed
+TXN0000492,ACC00001,n/a,Purchase,Nando's,Dining,3274.92,ZAR,EFT,Completed
+TXN0000997,ACC00096,2026-06-23,Purchase,Takealot,Online Shopping,3394.0,ZAR,Mobile App,Completed
+TXN0001613,ACC00155,2026-03-01,Fee,Monthly Account Fee,Bank Fees,98.76,ZAR,Mobile App,Completed
+TXN0000406,ACC00096,2026-09-13,Purchase,BP,Fuel,2498.02,ZAR,EFT,Completed
+TXN0000723,ACC00212,2026-09-26,Deposit,Salary,Income,3905.86,ZAR,ATM,Completed
+TXN0000512,ACC00181,2026-10-09,Purchase,Sasol,Fuel,3145.7,ZAR,ATM,Completed
+TXN0001387,ACC00065,2026-07-03,Purchase,Takealot,Online Shopping,16.9,ZAR,EFT,Completed
+TXN0000823,ACC00046,2026-08-09,Transfer,Transfer to Family,Transfer,1451.94,ZAR,ATM,Completed
+TXN0001713,ACC00113,2026-07-12,Transfer,Transfer to Family,Transfer,12197.2,ZAR,ATM,Completed
+TXN0000869,ACC00148,2026-04-07,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,Online,Completed
+TXN0001199,ACC00045,2026-06-08,Purchase,Gautrain,Transport,2436.09,ZAR,Online,Completed
+TXN0001126,ACC00017,2026-08-23,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,Mobile App,Completed
+TXN0001362,ACC00029,2026-07-10,Purchase,Superbalist,Online Shopping,1908.89,ZAR,EFT,Completed
+TXN0000485,ACC00183,2026-03-21,Deposit,Cash Deposit,Income,17356.63,ZAR,ATM,Completed
+TXN0001185,ACC00081,2026-01-26,Purchase,Netflix,Entertainment,2532.5,ZAR,Online,Completed
+TXN0000748,ACC00053,2026-04-25,Purchase,  SHOWMAX  ,Entertainment,2280.24,ZAR,ATM,Completed
+TXN0001654,ACC00081,2026-09-06,Deposit,Cash Deposit,Income,5149.68,ZAR,Online,Reversed
+TXN0000320,ACC00047,2026-07-29,Transfer,Transfer to Savings,Transfer,4423.88,ZAR,ATM,Completed
+TXN0001442,ACC00122,2026-01-07,Purchase,  VODACOM  ,Utilities,2435.19,ZAR,Online,Completed
+TXN0001782,ACC00100,2026-04-26,Purchase,Pick n Pay,Groceries,2123.78,ZAR,Mobile App,Completed
+TXN0001584,ACC00145,2026-04-05,Deposit,Interest,Income,28594.89,ZAR,POS,Completed
+TXN0001393,ACC00124,2026-05-21,Deposit,  INTEREST  ,Income,25358.86,ZAR,Mobile App,Completed
+TXN0000643,ACC00006,2026-08-14,Deposit,Salary,Income,25126.64,ZAR,Online,Completed
+TXN0000641,ACC00010,2026-07-03,Purchase,Amazon,Online Shopping,774.18,ZAR,POS,Completed
+TXN0001084,ACC00103,2026-02-25,Purchase,Shoprite,Groceries,52.09,ZAR,Online,Completed
+TXN0001728,ACC00129,2026-07-24,Purchase,Superbalist,Online Shopping,2138.8,ZAR,Mobile App,Completed
+TXN0001224,ACC00117,2026-13-45,Deposit,Cash Deposit,Income,17416.25,ZAR,ATM,Reversed
+TXN0001436,ACC00006,2026-04-06,Purchase,City of Joburg,Utilities,1230.15,ZAR,Online,Failed
+TXN0000886,ACC00114,2026-06-10,Purchase,Wimpy,Dining,976.68,ZAR,EFT,Completed
+TXN0001113,ACC00032,2026-10-30,Purchase,Showmax,Entertainment,,ZAR,Online,Completed
+TXN0001545,ACC00200,2026-06-13,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,eft,Completed
+TXN0001904,ACC00161,2026-02-22,Purchase,Steers,Dining,407.74,ZAR,Mobile App,Reversed
+TXN0001177,ACC00011,2026-08-12,Purchase,Wimpy,Dining,1686.14,ZAR,EFT,Completed
+TXN0000553,ACC00214,2026-03-06,Deposit,Salary,Income,2123.63,ZAR,Online,Completed
+TXN0001324,ACC00021,2026-06-10,Deposit,EFT Credit,Income,27721.72,ZAR,ATM,Pending
+TXN0001174,ACC00102,2026-04-04,Purchase,Spar,Groceries,3242.9,ZAR,ATM,Completed
+TXN0001825,ACC00002,2026-10-06,Purchase,  ENGEN  ,Fuel,1880.07,ZAR,EFT,Pending
+TXN0000785,ACC00058,2026-02-12,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,ATM,Pending
+TXN0000073,ACC00161,2026-02-03,Purchase,Uber,Transport,3029.35,ZAR,Mobile App,Completed
+TXN0000898,ACC00153,31/02/2026,Transfer,Transfer to Rent,Transfer,12874.65,ZAR,Online,Completed
+TXN0000215,ACC00003,2026-08-29,Purchase,MTN,Utilities,2572.34,ZAR,Mobile App,Completed
+TXN0000081,ACC00061,2026-02-21,Purchase,Pick n Pay,Groceries,1122.48,ZAR,Mobile App,Completed
+TXN0001350,ACC00058,2026-03-19,Purchase,DStv,Entertainment,2435.14,ZAR,Online,Completed
+TXN0000064,ACC00074,2026-05-09,Purchase,Woolworths Food,Groceries,725.94,ZAR,EFT,Completed
+TXN0001389,ACC00095,2026-01-07,Purchase,Engen,Fuel,2383.6,ZAR,Mobile App,Completed
+TXN0001262,ACC00178,2026-03-14,Purchase,Steers,Dining,285.92,ZAR,Mobile App,Reversed
+TXN0000713,ACC00213,2026-08-26,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,Mobile App,Completed
+TXN0000943,ACC00149,2026-07-17,Purchase,Engen,Fuel,2967.78,ZAR,Mobile App,Completed
+TXN0000160,ACC00012,2026-05-11,Purchase,Steers,Dining,2765.32,ZAR,EFT,Completed
+TXN0000040,ACC00187,2026-03-09,Purchase,Spar,Groceries,1773.65,ZAR,POS,Completed
+TXN0000207,ACC00112,2026-06-26,Refund,Showmax Refund,Entertainment,925.01,ZAR,EFT,Completed
+TXN0000796,ACC00207,2026-05-05,Purchase,Sasol,Fuel,1377.63,ZAR,Online,Completed
+TXN0001247,ACC00195,2026-01-26,Purchase,Woolworths Food,Groceries,762.88,ZAR,Online,Pending
+TXN0000392,ACC00201,2026-03-07,Purchase,Superbalist,Online Shopping,205.94,ZAR,EFT,Completed
+TXN0000053,ACC00210,2026-05-01,Purchase,MTN,Utilities,1576.62,ZAR,Mobile App,Completed
+TXN0000946,ACC00154,2026-08-29,Refund,Gautrain Refund,Transport,381.23,ZAR,POS,Completed
+TXN0000252,ACC00036,2026-07-27,Purchase,Superbalist,Online Shopping,2199.44,ZAR,POS,Completed
+TXN0001706,ACC00074,2026-05-04,Refund,Takealot Refund,Online Shopping,1221.62,ZAR,Mobile App,Failed
+TXN0001581,ACC00085,2026-01-01,Purchase,Eskom Prepaid,Utilities,413.82,ZAR,POS,Failed
+TXN0001463,ACC00112,2026-03-02,Fee,ATM Fee,Bank Fees,126.08,ZAR,Mobile App,Completed
+TXN0001600,ACC00127,2026-06-14,Purchase,Gautrain,Transport,1653.22,ZAR,POS,Completed
+TXN0000581,ACC00078,2026-02-08,Purchase,Gautrain,Transport,2773.82,ZAR,Mobile App,Completed
+TXN0001023,ACC00216,2026-09-08,Transfer,Transfer to Savings,Transfer,11956.26,ZAR,atm,Completed
+TXN0000444,ACC00151,2026-02-06,Purchase,Checkers,Groceries,1356.12,ZAR,EFT,Completed
+TXN0001460,ACC00001,2026-01-12,Deposit,Salary,Income,17609.5,ZAR,Online,Completed
+TXN0001062,ACC00191,2026-04-19,Purchase,Shell,Fuel,900.28,ZAR,ATM,Completed
+TXN0000086,ACC00094,2026-09-15,Purchase,Shell,Fuel,2653.86,ZAR,Online,Completed
+TXN0001796,ACC00180,2026-02-07,Purchase,Wimpy,Dining,1215.86,ZAR,EFT,Completed
+TXN0001172,ACC00171,2026-01-26,Purchase,DStv,Entertainment,814.24,ZAR,POS,Completed
+TXN0000655,ACC00028,2026-01-24,Purchase,Wimpy,Dining,3188.7,ZAR,Mobile App,Completed
+TXN0001462,ACC00219,2026-10-08,Purchase,Wimpy,Dining,868.63,ZAR,POS,Completed
+TXN0001721,ACC00165,2026-10-08,Deposit,Salary,Income,6854.06,ZAR,Mobile App,Completed
+TXN0001139,ACC00118,2026-07-29,Purchase,Uber,Transport,201.46,ZAR,EFT,Completed
+TXN0000255,ACC00062,2026-10-04,Purchase,MTN,Utilities,3050.89,ZAR,Online,Completed
+TXN0000596,ACC00057,2026-03-14,Purchase,Pick n Pay,Groceries,2027.88,ZAR,Mobile App,Completed
+TXN0000503,ACC00065,2026-09-09,Purchase,Nando's,Dining,352.65,ZAR,POS,Completed
+TXN0001421,ACC00137,2026-02-21,Transfer,Transfer to Rent,Transfer,1932.95,ZAR,ATM,Completed
+TXN0001476,ACC00026,2026-03-06,Transfer,Transfer to Rent,Transfer,,ZAR,Mobile App,Completed
+TXN0001002,ACC00216,2026-10-09,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,EFT,Failed
+TXN0001209,ACC00132,2026-03-21,Transfer,Transfer to Rent,Transfer,9022.87,ZAR,ATM,Reversed
+TXN0001372,ACC00194,2026-08-12,Fee,Monthly Account Fee,Bank Fees,30.71,ZAR,EFT,Reversed
+TXN0001998,ACC00170,2026-10-01,Deposit,Cash Deposit,Income,23886.4,ZAR,Online,Completed
+TXN0001495,ACC00032,2026-07-20,Deposit,Interest,Income,27309.68,ZAR,mobile app,Completed
+TXN0001696,ACC00010,2026-10-26,Deposit,Interest,Income,27997.0,ZAR,EFT,Completed
+TXN0001742,ACC00207,2026-10-29,Deposit,EFT Credit,Income,1004.99,ZAR,Mobile App,Completed
+TXN0001468,ACC00177,2026-06-16,Fee,Card Fee,Bank Fees,37.97,ZAR,ATM,Completed
+TXN0001907,ACC00181,2026-02-28,Deposit,Cash Deposit,Income,21973.66,ZAR,POS,Completed
+TXN0001826,ACC00143,2026-03-27,Refund,Superbalist Refund,Online Shopping,714.33,ZAR,POS,Completed
+TXN0001215,ACC00049,2026-07-10,Purchase,Woolworths Food,Groceries,230.07,ZAR,Online,Pending
+TXN0000821,ACC00106,2026-03-24,Withdrawal,  ATM WITHDRAWAL  ,Cash,200.0,ZAR,EFT,Completed
+TXN0000516,ACC00110,31/02/2026,Purchase,Bolt,Transport,364.31,ZAR,eft,Completed
+TXN0001684,ACC00114,2026-08-04,Purchase,Steers,Dining,2082.82,ZAR,POS,Reversed
+TXN0000953,ACC00062,2026-07-08,Deposit,EFT Credit,Income,21077.03,ZAR,Mobile App,Completed
+TXN0000038,ACC00002,2026-05-08,Purchase,Vida e Caffe,Dining,464.32,ZAR,Mobile App,Completed
+TXN0000616,ACC00135,2026-05-13,Purchase,Vida e Caffe,Dining,2051.96,ZAR,Mobile App,Completed
+TXN0000004,ACC00078,2026-06-15,Purchase,Sasol,Fuel,2774.57,ZAR,Mobile App,Completed
+TXN0000910,ACC00030,2026-06-16,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,EFT,Failed
+TXN0000619,ACC00126,2026-08-13,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,Online,Completed
+TXN0001307,ACC00184,2026-04-05,Purchase,Wimpy,Dining,214.2,ZAR,Online,Completed
+TXN0001912,ACC00206,2026-06-10,Purchase,Engen,Fuel,3476.14,ZAR,Online,Completed
+TXN0001508,ACC00099,2026-01-26,Purchase,BP,Fuel,919.57,ZAR,Mobile App,Completed
+TXN0001519,ACC00069,2026-04-05,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,Mobile App,Completed
+TXN0000438,ACC00156,2026-07-15,Purchase,Sasol,Fuel,2209.79,ZAR,POS,Completed
+TXN0000489,ACC00158,2026-04-08,Fee,ATM Fee,Bank Fees,6.06,ZAR,Mobile App,Completed
+TXN0000344,ACC00174,2026-09-07,Purchase,Spar,Groceries,81.28,ZAR,EFT,Completed
+TXN0001829,ACC00201,2026-08-07,Fee,ATM Fee,Bank Fees,89.05,ZAR,Mobile App,Completed
+TXN0000397,ACC00061,2026-09-17,Transfer,Transfer to Rent,Transfer,12894.66,ZAR,Mobile App,Completed
+TXN0000241,ACC00047,2026-09-13,Deposit,Salary,Income,,ZAR,ATM,Completed
+TXN0001312,ACC00088,2026-06-18,Purchase,Spar,Groceries,3267.71,ZAR,POS,Completed
+TXN0001287,ACC00129,2026-07-15,Refund,  SHOPRITE REFUND  ,Groceries,-328.76,ZAR,ATM,Completed
+TXN0001638,ACC00186,2026-08-24,Purchase,Uber,Transport,2658.27,ZAR,EFT,Completed
+TXN0001088,ACC00044,2026-04-06,Purchase,Takealot,Online Shopping,2242.13,ZAR,Mobile App,Pending
+TXN0000319,ACC00069,2026-05-28,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,Online,Completed
+TXN0000091,ACC00170,2026-04-28,Purchase,Nando's,Dining,1693.09,ZAR,Mobile App,Completed
+TXN0000825,ACC00205,2026-10-18,Deposit,Salary,Income,43029.17,ZAR,Online,Completed
+TXN0001827,ACC00130,2026-07-19,Purchase,Amazon,Online Shopping,229.25,ZAR,Mobile App,Pending
+TXN0001339,ACC00035,2026-09-24,Refund,Netflix Refund,Entertainment,33.79,ZAR,POS,Completed
+TXN0000201,ACC00047,2026-06-19,Transfer,Transfer to Family,Transfer,6853.92,ZAR,POS,Completed
+TXN0001028,ACC00174,2026-09-29,Fee,ATM Fee,Bank Fees,135.35,ZAR,EFT,Reversed
+TXN0000742,ACC00029,2026-03-28,Purchase,Bolt,Transport,509.7,ZAR,Online,Completed
+TXN0001303,ACC00118,2026-01-24,Purchase,MTN,Utilities,1749.95,ZAR,POS,Completed
+TXN0000618,ACC00010,2026-02-07,Purchase,Nando's,Dining,3233.57,ZAR,ATM,Completed
+TXN0001225,ACC00119,2026-07-04,Purchase,Nando's,Dining,1620.09,ZAR,Mobile App,Completed
+TXN0001879,ACC00087,2026-02-07,Purchase,Eskom Prepaid,Utilities,1098.01,ZAR,POS,Completed
+TXN0001878,ACC00114,2026-07-20,Purchase,Showmax,Entertainment,1492.28,ZAR,Online,Completed
+TXN0000705,ACC00088,2026-09-15,Deposit,EFT Credit,Income,4538.71,ZAR,Online,Completed
+TXN0001675,ACC00136,2026-03-13,Purchase,Nando's,Dining,1648.22,ZAR,ATM,Completed
+TXN0001536,ACC00071,2026-08-31,Purchase,Gautrain,Transport,2209.0,ZAR,Mobile App,Completed
+TXN0001381,ACC00161,2026-01-05,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,Online,Completed
+TXN0001588,ACC00042,2026-07-11,Purchase,Showmax,Entertainment,2055.7,ZAR,Online,Failed
+TXN0000037,ACC00104,2026-08-08,Refund,Eskom Prepaid Refund,Utilities,-75.83,ZAR,Online,Completed
+TXN0001132,ACC00084,2026-03-12,Deposit,Cash Deposit,Income,6314.74,ZAR,POS,Completed
+TXN0000716,ACC00073,2026-06-09,Purchase,Superbalist,Online Shopping,136.37,ZAR,Mobile App,Completed
+TXN0000764,ACC00095,2026-08-13,Fee,Monthly Account Fee,Bank Fees,73.42,ZAR,POS,Completed
+TXN0000752,ACC00054,2026-04-27,Purchase,Amazon,Online Shopping,1678.33,ZAR,POS,Completed
+TXN0001636,ACC00089,2026-09-27,Purchase,Woolworths Food,Groceries,464.39,ZAR,ATM,Completed
+TXN0001937,ACC00088,2026-01-11,Purchase,BP,Fuel,2876.86,ZAR,POS,Completed
+TXN0001972,ACC00021,2026-06-28,Purchase,DStv,Entertainment,2237.37,ZAR,POS,Completed
+TXN0000311,ACC00014,2026-05-03,Purchase,Telkom,Utilities,2241.74,ZAR,ATM,Pending
+TXN0000644,ACC00091,2026-10-04,Withdrawal,ATM Withdrawal,Cash,2000.0,ZAR,Online,Completed
+TXN0001363,ACC00068,2026-10-12,Purchase,Telkom,Utilities,3461.04,ZAR,Online,Completed
+TXN0001269,ACC00016,2026-05-10,Purchase,Wimpy,Dining,3456.1,ZAR,Online,Completed
+TXN0000439,ACC00024,2026-03-30,Deposit,Cash Deposit,Income,11015.8,ZAR,POS,Completed
+TXN0000958,ACC00183,2026-08-27,Purchase,Sasol,Fuel,469.49,ZAR,POS,Completed
+TXN0000767,ACC00066,2026-01-12,Purchase,Bolt,Transport,1504.25,ZAR,Mobile App,Completed
+TXN0001697,ACC00092,2026-08-07,Purchase,Wimpy,Dining,3417.5,ZAR,EFT,Completed
+TXN0000674,ACC00198,2026-05-07,Purchase,Uber,Transport,2848.29,ZAR,Mobile App,Completed
+TXN0001094,ACC00134,2026-03-31,Purchase,Netflix,Entertainment,1155.96,ZAR,Mobile App,Failed
+TXN0000806,ACC00210,2026-06-26,Purchase,BP,Fuel,1569.33,ZAR,POS,Completed
+TXN0000196,ACC00082,2026-08-14,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,Online,Completed
+TXN0000633,ACC00089,2026-07-30,Withdrawal,ATM Withdrawal,Cash,2000.0,ZAR,Mobile App,Completed
+TXN0001000,ACC00136,2026-07-06,Purchase,Vida e Caffe,Dining,1432.95,ZAR,POS,Reversed
+TXN0001299,ACC00043,2026-01-18,Purchase,Sasol,Fuel,2184.18,ZAR,atm,Completed
+TXN0001498,ACC00197,2026-05-13,Fee,Monthly Account Fee,Bank Fees,45.9,ZAR,Online,Completed
+TXN0001328,ACC00150,2026-05-19,Purchase,Engen,Fuel,3386.17,ZAR,EFT,Completed
+TXN0000554,ACC00174,2026-10-23,Refund,Vida e Caffe Refund,Dining,43.96,ZAR,ATM,Completed
+TXN0000702,ACC00165,2026-04-08,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,ATM,Completed
+TXN0000458,ACC00037,2026-09-24,Transfer,Transfer to Rent,Transfer,7619.09,ZAR,Online,Completed
+TXN0000213,ACC00149,2026-09-04,Refund,Pick n Pay Refund,Groceries,1100.67,ZAR,EFT,Reversed
+TXN0000522,ACC00176,2026-06-04,Deposit,EFT Credit,Income,16003.16,ZAR,POS,Completed
+TXN0000822,ACC00085,2026-02-15,Purchase,MTN,Utilities,2457.74,ZAR,Mobile App,Completed
+TXN0000690,ACC00001,2026-06-15,Purchase,Pick n Pay,Groceries,1798.29,ZAR,Mobile App,Completed
+TXN0001025,ACC00012,2026-04-02,Purchase,  SHELL  ,Fuel,477.21,ZAR,Mobile App,Completed
+TXN0000960,ACC00130,2026-03-26,Purchase,Pick n Pay,Groceries,2609.02,ZAR,eft,Completed
+TXN0000749,ACC00202,2026-09-26,Fee,ATM Fee,Bank Fees,34.37,ZAR,POS,Completed
+TXN0000722,ACC00102,2026-05-08,Purchase,Showmax,Entertainment,454.3,ZAR,Online,Completed
+TXN0000355,ACC00112,2026-02-01,Purchase,Pick n Pay,Groceries,3160.25,ZAR,POS,Reversed
+TXN0000274,ACC00149,2026-01-30,Purchase,City of Joburg,Utilities,1260.49,ZAR,POS,Completed
+TXN0000991,ACC00074,2026-06-08,Refund,  GAUTRAIN REFUND  ,Transport,965.75,ZAR,POS,Reversed
+TXN0001099,ACC00116,2026-05-21,Purchase,Spar,Groceries,236.23,ZAR,Mobile App,Completed
+TXN0001668,ACC00137,2026-08-07,Purchase,Takealot,Online Shopping,2930.19,ZAR,Mobile App,Completed
+TXN0000538,ACC00098,2026-09-02,Deposit,Salary,Income,13410.31,ZAR,Online,Completed
+TXN0001351,ACC00127,2026-07-18,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,Online,Completed
+TXN0000147,ACC00083,2026-05-04,Deposit,Cash Deposit,Income,17190.31,ZAR,EFT,Pending
+TXN0001359,ACC00186,2026-06-01,Deposit,  CASH DEPOSIT  ,Income,2402.17,ZAR,Mobile App,Completed
+TXN0000493,ACC00185,2026-04-06,Purchase,Checkers,Groceries,1516.35,ZAR,Online,Completed
+TXN0000539,ACC00175,2026-03-14,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,EFT,Completed
+TXN0001259,ACC00063,2026-01-08,Purchase,Checkers,Groceries,1353.33,ZAR,Mobile App,Completed
+TXN0000590,ACC00058,2026-07-27,Purchase,Pick n Pay,Groceries,2572.73,ZAR,ATM,Completed
+TXN0001915,ACC00127,2026-06-28,Purchase,Gautrain,Transport,613.52,ZAR,Mobile App,Completed
+TXN0000469,ACC00014,2026-06-05,Purchase,Shell,Fuel,1554.96,ZAR,Mobile App,Completed
+TXN0000932,ACC00202,2026-10-21,Purchase,Nando's,Dining,2424.61,ZAR,ATM,Completed
+TXN0000947,ACC00186,2026-08-17,Fee,Monthly Account Fee,Bank Fees,68.42,ZAR,ATM,Completed
+TXN0000517,ACC00196,2026-01-23,Purchase,Takealot,Online Shopping,947.78,ZAR,EFT,Completed
+TXN0001318,ACC00085,2026-06-08,Purchase,DStv,Entertainment,648.19,ZAR,pos,Completed
+TXN0000683,ACC00010,2026-08-06,Purchase,Gautrain,Transport,,ZAR,EFT,Completed
+TXN0000253,ACC00070,2026-10-05,Deposit,Cash Deposit,Income,35552.29,ZAR,POS,Completed
+TXN0000225,ACC00032,2026-03-03,Purchase,Netflix,Entertainment,1325.22,ZAR,EFT,Completed
+TXN0000098,ACC00140,2026-07-29,Purchase,Checkers,Groceries,2029.29,ZAR,POS,Completed
+TXN0001360,ACC00050,2026-04-15,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,EFT,Completed
+TXN0000105,ACC00102,2026-07-27,Deposit,Salary,Income,33293.19,ZAR,POS,Pending
+TXN0000256,ACC00014,2026-02-02,Purchase,Vodacom,Utilities,1762.55,ZAR,POS,Completed
+TXN0000956,ACC00154,2026-07-08,Transfer,Transfer to Savings,Transfer,9105.5,ZAR,Mobile App,Completed
+TXN0000950,ACC00060,2026-02-17,Deposit,Cash Deposit,Income,13326.81,ZAR,Mobile App,Failed
+TXN0001216,ACC00194,2026-01-25,Transfer,Transfer to Family,Transfer,6374.99,ZAR,EFT,Completed
+TXN0000738,ACC00034,2026-05-31,Purchase,Pick n Pay,Groceries,2027.94,ZAR,Mobile App,Completed
+TXN0000432,ACC00167,2026-07-08,Purchase,Sasol,Fuel,1065.85,ZAR,EFT,Completed
+TXN0001876,ACC00028,2026-08-01,Purchase,Sasol,Fuel,886.88,ZAR,POS,Reversed
+TXN0000231,ACC00086,2026-06-05,Purchase,Gautrain,Transport,330.97,ZAR,EFT,Completed
+TXN0000612,ACC00099,n/a,Purchase,  SUPERBALIST  ,Online Shopping,531.36,ZAR,ATM,Completed
+TXN0000494,ACC00169,2026-05-09,Purchase,Telkom,Utilities,1058.01,ZAR,Mobile App,Pending
+TXN0001911,ACC00105,2026-06-21,Refund,  NANDO'S REFUND  ,Dining,838.28,ZAR,EFT,Completed
+TXN0000830,ACC00170,2026-06-14,Fee,ATM Fee,Bank Fees,88.39,ZAR,EFT,Completed
+TXN0000998,ACC00127,2026-10-11,Refund,Bolt Refund,Transport,197.23,ZAR,POS,Completed
+TXN0000111,ACC00021,2026-09-10,Deposit,Salary,Income,38236.47,ZAR,ATM,Completed
+TXN0001699,ACC00150,2026-09-13,Purchase,Uber,Transport,2110.95,ZAR,Online,Completed
+TXN0001573,ACC00016,2026-02-05,Purchase,Engen,Fuel,1668.86,ZAR,EFT,Completed
+TXN0000545,ACC00041,2026-10-19,Purchase,Pick n Pay,Groceries,1367.96,ZAR,Mobile App,Completed
+TXN0001707,ACC00099,2026-04-06,Purchase,Sasol,Fuel,1329.23,ZAR,Mobile App,Completed
+TXN0001774,ACC00146,2026-01-26,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,Online,Completed
+TXN0001487,ACC00077,2026-09-01,Transfer,Transfer to Savings,Transfer,1693.37,ZAR,Mobile App,Completed
+TXN0000289,ACC00072,2026-10-25,Deposit,Interest,Income,16346.33,ZAR,EFT,Failed
+TXN0000358,ACC00033,2026-09-24,Refund,  STEERS REFUND  ,Dining,157.37,ZAR,EFT,Completed
+TXN0001155,ACC00103,2026-03-31,Purchase,Engen,Fuel,75.74,ZAR,Mobile App,Completed
+TXN0001640,ACC00002,2026-07-11,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,Online,Reversed
+TXN0001921,ACC00025,2026-06-10,Purchase,Takealot,Online Shopping,2116.83,ZAR,POS,Pending
+TXN0000979,ACC00151,2026-06-04,Fee,Monthly Account Fee,Bank Fees,134.86,ZAR,POS,Completed
+TXN0000209,ACC00098,2026-08-11,Purchase,Uber,Transport,1669.93,ZAR,Online,Completed
+TXN0001009,ACC00188,31/02/2026,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,Online,Completed
+TXN0001347,ACC00201,2026-06-25,Purchase,Amazon,Online Shopping,996.89,ZAR,ATM,Pending
+TXN0000965,ACC00030,2026-02-10,Deposit,EFT Credit,Income,27947.53,ZAR,ATM,Completed
+TXN0001100,ACC00130,2026-09-12,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,Online,Completed
+TXN0000885,ACC00037,2026-06-01,Purchase,Gautrain,Transport,2671.87,ZAR,POS,Completed
+TXN0001569,ACC00148,2026-05-24,Transfer,Transfer to Rent,Transfer,340.56,ZAR,EFT,Completed
+TXN0000456,ACC00159,2026-09-01,Purchase,Uber,Transport,25.9,ZAR,ATM,Completed
+TXN0000627,ACC00058,2026-06-29,Purchase,Steers,Dining,89.73,ZAR,POS,Completed
+TXN0001308,ACC00063,2026-09-03,Transfer,Transfer to Savings,Transfer,1093.37,ZAR,POS,Completed
+TXN0000431,ACC00102,31/02/2026,Purchase,Engen,Fuel,1257.67,ZAR,Online,Completed
+TXN0001451,ACC00070,2026-06-26,Transfer,Transfer to Family,Transfer,8806.76,ZAR,ATM,Completed
+TXN0001809,ACC00211,2026-01-26,Fee,ATM Fee,Bank Fees,103.0,ZAR,ATM,Completed
+TXN0001329,ACC00078,2026-09-23,Purchase,  WIMPY  ,Dining,1306.35,ZAR,mobile app,Completed
+TXN0000540,ACC00087,2026-05-29,Purchase,Superbalist,Online Shopping,154.44,ZAR,Mobile App,Completed
+TXN0001255,ACC00218,2026-05-28,Purchase,Bolt,Transport,3018.68,ZAR,POS,Completed
+TXN0001486,ACC00179,2026-04-14,Purchase,MTN,Utilities,2900.83,ZAR,EFT,Completed
+TXN0000621,ACC00187,2026-09-28,Purchase,Takealot,Online Shopping,2002.74,ZAR,Mobile App,Completed
+TXN0000668,ACC00170,2026-02-28,Purchase,City of Joburg,Utilities,2711.28,ZAR,mobile app,Completed
+TXN0000741,ACC00102,2026-01-21,Purchase,Gautrain,Transport,2208.0,ZAR,Mobile App,Completed
+TXN0000039,ACC00134,2026-09-26,Purchase,Uber,Transport,1209.42,ZAR,Mobile App,Completed
+TXN0000986,ACC00119,2026-10-20,Purchase,Steers,Dining,1580.71,ZAR,ATM,Pending
+TXN0000076,ACC00194,2026-10-27,Purchase,Takealot,Online Shopping,1261.58,ZAR,EFT,Completed
+TXN0001193,ACC00220,2026-04-06,Purchase,BP,Fuel,645.94,ZAR,Mobile App,Completed
+TXN0000654,ACC00136,2026-07-18,Fee,Card Fee,Bank Fees,23.48,ZAR,EFT,Completed
+TXN0001598,ACC00196,2026-02-13,Purchase,Sasol,Fuel,49.3,ZAR,POS,Pending
+TXN0000777,ACC00123,2026-05-11,Purchase,Eskom Prepaid,Utilities,40.29,ZAR,Mobile App,Completed
+TXN0000718,ACC00172,2026-07-25,Purchase,Woolworths Food,Groceries,1496.06,ZAR,POS,Completed
+TXN0000890,ACC00211,2026-02-15,Transfer,  TRANSFER TO FAMILY  ,Transfer,2470.0,ZAR,ATM,Completed
+TXN0000912,ACC00178,2026-06-06,Purchase,  TELKOM  ,Utilities,2890.93,ZAR,EFT,Completed
+TXN0000902,ACC00180,2026-10-16,Purchase,Gautrain,Transport,549.23,ZAR,POS,Completed
+TXN0000558,ACC00090,2026-08-26,Purchase,Amazon,Online Shopping,2467.86,ZAR,Mobile App,Completed
+TXN0000975,ACC00219,2026-05-14,Purchase,Amazon,Online Shopping,1809.4,ZAR,Mobile App,Completed
+TXN0001169,ACC00130,2026-07-11,Purchase,Spar,Groceries,616.42,ZAR,POS,Completed
+TXN0001926,ACC00215,2026-04-28,Transfer,Transfer to Savings,Transfer,6235.74,ZAR,Online,Completed
+TXN0000689,ACC00148,2026-10-31,Deposit,Interest,Income,9814.15,ZAR,POS,Completed
+TXN0001320,ACC00140,2026-08-11,Purchase,Wimpy,Dining,2081.9,ZAR,ATM,Pending
+TXN0001738,ACC00051,2026-08-25,Purchase,Engen,Fuel,1747.4,ZAR,Online,Completed
+TXN0001060,ACC00087,2026-05-02,Purchase,Vodacom,Utilities,1532.27,ZAR,POS,Completed
+TXN0000501,ACC00014,2026-07-14,Purchase,Steers,Dining,787.89,ZAR,Mobile App,Completed
+TXN0001557,ACC00141,2026-08-14,Purchase,Shoprite,Groceries,2174.73,ZAR,EFT,Completed
+TXN0001379,ACC00184,2026-03-19,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,ATM,Completed
+TXN0001933,ACC00138,2026-07-16,Purchase,Nando's,Dining,2924.15,ZAR,EFT,Completed
+TXN0001971,ACC00053,2026-07-07,Purchase,Uber,Transport,45.19,ZAR,ATM,Completed
+TXN0000365,ACC00095,2026-03-02,Deposit,Interest,Income,5409.96,ZAR,ATM,Completed
+TXN0001932,ACC00123,2026-07-15,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,EFT,Completed
+TXN0001270,ACC00093,2026-10-23,Deposit,Cash Deposit,Income,31698.98,ZAR,Online,Completed
+TXN0000565,ACC00027,2026-02-26,Purchase,Showmax,Entertainment,388.16,ZAR,ATM,Completed
+TXN0000880,ACC00072,2026-10-12,Purchase,Superbalist,Online Shopping,2448.68,ZAR,Online,Failed
+TXN0000206,ACC00039,2026-08-20,Purchase,MTN,Utilities,2029.09,ZAR,Online,Completed
+TXN0001377,ACC00043,2026-01-04,Deposit,Salary,Income,38605.38,ZAR,ATM,Completed
+TXN0000422,ACC00077,2026-07-20,Deposit,Cash Deposit,Income,18969.85,ZAR,Online,Pending
+TXN0000695,ACC00166,2026-05-21,Deposit,  INTEREST  ,Income,2454.32,ZAR,ATM,Completed
+TXN0000339,ACC00005,2026-01-03,Purchase,Pick n Pay,Groceries,2300.47,ZAR,Mobile App,Completed
+TXN0001599,ACC00038,2026-02-04,Refund,Steers Refund,Dining,1282.3,ZAR,ATM,Completed
+TXN0001238,ACC00012,2026-03-20,Purchase,Ster-Kinekor,Entertainment,787.9,ZAR,Online,Completed
+TXN0000629,ACC00091,2026-04-10,Purchase,Pick n Pay,Groceries,823.64,ZAR,EFT,Completed
+TXN0001901,ACC00113,2026-10-06,Purchase,Woolworths Food,Groceries,1281.65,ZAR,Online,Completed
+TXN0000197,ACC00141,2026-06-13,Purchase,Bolt,Transport,2015.68,ZAR,Online,Completed
+TXN0001839,ACC00078,2026-07-13,Transfer,Transfer to Family,Transfer,1381.65,ZAR,POS,Completed
+TXN0000568,ACC00002,2026-03-23,Purchase,Nando's,Dining,687.07,ZAR,POS,Completed
+TXN0001410,ACC00022,2026-10-04,Deposit,EFT Credit,Income,40754.79,ZAR,Online,Completed
+TXN0001388,ACC00139,2026-10-10,Purchase,  STER-KINEKOR  ,Entertainment,927.76,ZAR,POS,Completed
+TXN0001173,ACC00142,2026-05-08,Purchase,Steers,Dining,1176.57,ZAR,Mobile App,Completed
+TXN0001832,ACC00020,2026-05-13,Purchase,Showmax,Entertainment,1613.41,ZAR,ATM,Completed
+TXN0000141,ACC00214,2026-03-08,Purchase,Pick n Pay,Groceries,388.09,ZAR,Online,Completed
+TXN0000759,ACC00059,2026-05-15,Purchase,Superbalist,Online Shopping,1307.21,ZAR,ATM,Completed
+TXN0001885,ACC00038,2026-10-27,Purchase,Bolt,Transport,2123.27,ZAR,Mobile App,Pending
+TXN0000990,ACC00006,2026-02-20,Purchase,Gautrain,Transport,914.8,ZAR,ATM,Completed
+TXN0000935,ACC00134,2026-03-30,Purchase,Bolt,Transport,2240.5,ZAR,Online,Completed
+TXN0000133,ACC00025,2026-09-24,Deposit,Cash Deposit,Income,21540.74,ZAR,ATM,Failed
+TXN0001034,ACC00021,2026-06-14,Purchase,Bolt,Transport,3474.74,ZAR,ATM,Completed
+TXN0001784,ACC00104,2026-07-15,Deposit,Interest,Income,38700.49,ZAR,POS,Completed
+TXN0000205,ACC00176,2026-07-14,Purchase,Gautrain,Transport,229.27,ZAR,online,Completed
+TXN0001167,ACC00029,2026-02-12,Refund,Spar Refund,Groceries,765.4,ZAR,EFT,Failed
+TXN0001428,ACC00077,2026-07-29,Transfer,Transfer to Savings,Transfer,14632.16,ZAR,POS,Completed
+TXN0001153,ACC00208,2026-07-07,Purchase,Engen,Fuel,3041.49,ZAR,POS,Reversed
+TXN0001601,ACC00202,2026-03-11,Purchase,Woolworths Food,Groceries,2179.48,ZAR,Online,Completed
+TXN0001365,ACC00192,2026-06-09,Transfer,Transfer to Savings,Transfer,8977.32,ZAR,Online,Completed
+TXN0000169,ACC00176,2026-01-14,Purchase,Bolt,Transport,482.29,ZAR,EFT,Completed
+TXN0000704,ACC00116,2026-03-29,Purchase,Amazon,Online Shopping,1359.1,ZAR,EFT,Completed
+TXN0001701,ACC00024,2026-07-12,Transfer,Transfer to Rent,Transfer,5655.44,ZAR,EFT,Completed
+TXN0000985,ACC00152,2026-10-08,Purchase,Superbalist,Online Shopping,170.13,ZAR,ATM,Completed
+TXN0001703,ACC00022,2026-09-07,Purchase,Showmax,Entertainment,,ZAR,Mobile App,Completed
+TXN0000046,ACC00219,2026-05-29,Purchase,Bolt,Transport,1499.59,ZAR,POS,Completed
+TXN0001705,ACC00181,2026-10-30,Purchase,Netflix,Entertainment,2433.57,ZAR,Mobile App,Completed
+TXN0001591,ACC00180,2026-05-20,Transfer,Transfer to Rent,Transfer,8247.09,ZAR,POS,Completed
+TXN0001249,ACC00091,2026-10-30,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,Online,Completed
+TXN0001150,ACC00202,2026-06-07,Deposit,EFT Credit,Income,20205.15,ZAR,ATM,Completed
+TXN0000914,ACC00159,2026-10-29,Fee,ATM Fee,Bank Fees,94.15,ZAR,POS,Completed
+TXN0000006,ACC00146,2026-01-17,Purchase,Steers,Dining,2244.17,ZAR,POS,Failed
+TXN0001843,ACC00154,2026-04-03,Deposit,Salary,Income,28162.87,ZAR,Online,Completed
+TXN0001921,ACC00025,2026-06-10,Purchase,Takealot,Online Shopping,2116.83,ZAR,POS,Pending
+TXN0000591,ACC00001,2026-02-18,Purchase,Gautrain,Transport,1676.5,ZAR,ATM,Completed
+TXN0000547,ACC00030,2026-05-23,Purchase,Netflix,Entertainment,3320.64,ZAR,Online,Completed
+TXN0001049,ACC00095,2026-05-04,Deposit,Cash Deposit,Income,37453.5,ZAR,ATM,Completed
+TXN0001983,ACC00065,2026-03-10,Transfer,Transfer to Savings,Transfer,6127.02,ZAR,Online,Completed
+TXN0000979,ACC00151,2026-06-04,Fee,Monthly Account Fee,Bank Fees,134.86,ZAR,POS,Completed
+TXN0000815,ACC00068,2026-08-09,Purchase,BP,Fuel,1898.19,ZAR,POS,Failed
+TXN0000760,ACC00107,2026-01-03,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,POS,Failed
+TXN0001244,ACC00022,2026-02-21,Purchase,Ster-Kinekor,Entertainment,345.22,ZAR,POS,Completed
+TXN0001968,ACC00079,2026-09-06,Purchase,Takealot,Online Shopping,758.05,ZAR,EFT,Completed
+TXN0000533,ACC00057,2026-07-20,Purchase,Gautrain,Transport,2123.72,ZAR,POS,Completed
+TXN0001872,ACC00185,2026-02-21,Purchase,BP,Fuel,2022.72,ZAR,ATM,Reversed
+TXN0000374,ACC00067,2026-07-12,Fee,Monthly Account Fee,Bank Fees,12.52,ZAR,Online,Completed
+TXN0000792,ACC00199,2026-01-09,Purchase,Bolt,Transport,1846.63,ZAR,Online,Completed
+TXN0000326,ACC00047,2026-01-19,Purchase,Sasol,Fuel,1535.96,ZAR,Mobile App,Completed
+TXN0000183,ACC00035,2026-03-04,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,ATM,Completed
+TXN0000285,ACC00132,2026-04-27,Purchase,Superbalist,Online Shopping,445.8,ZAR,POS,Completed
+TXN0001125,ACC00131,2026-08-21,Purchase,Gautrain,Transport,855.19,ZAR,POS,Completed
+TXN0000656,ACC00151,2026-09-18,Purchase,Spar,Groceries,2081.77,ZAR,Mobile App,Completed
+TXN0001792,ACC00123,2026-10-08,Purchase,Uber,Transport,2793.08,ZAR,EFT,Completed
+TXN0000697,ACC00022,2026-08-03,Transfer,Transfer to Savings,Transfer,935.12,ZAR,POS,Completed
+TXN0000930,ACC00144,2026-02-13,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,POS,Completed
+TXN0001019,ACC00220,2026-06-22,Purchase,Takealot,Online Shopping,1870.71,ZAR,Mobile App,Completed
+TXN0001380,ACC00213,2026-02-18,Purchase,City of Joburg,Utilities,1088.55,ZAR,EFT,Completed
+TXN0000041,ACC00013,2026-01-25,Deposit,Salary,Income,2646.46,ZAR,POS,Completed
+TXN0001764,ACC00203,2026-03-24,Purchase,Shell,Fuel,,ZAR,EFT,Completed
+TXN0000504,ACC00151,2026-09-28,Deposit,Cash Deposit,Income,29436.05,ZAR,Online,Completed
+TXN0001141,ACC00187,2026-04-20,Purchase,Netflix,Entertainment,,ZAR,ATM,Completed
+TXN0000446,ACC00174,2026-01-15,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,ATM,Completed
+TXN0001345,ACC00122,2026-09-11,Purchase,Wimpy,Dining,383.96,ZAR,EFT,Failed
+TXN0001893,ACC00080,2026-03-23,Purchase,Pick n Pay,Groceries,1880.93,ZAR,EFT,Completed
+TXN0001330,ACC00146,2026-08-10,Transfer,  TRANSFER TO FAMILY  ,Transfer,13940.62,ZAR,Online,Completed
+TXN0001953,ACC00013,2026-08-18,Transfer,Transfer to Savings,Transfer,13300.04,ZAR,ATM,Completed
+TXN0001741,ACC00043,2026-07-18,Transfer,Transfer to Family,Transfer,5232.64,ZAR,Mobile App,Completed
+TXN0001970,ACC00166,2026-04-26,Transfer,Transfer to Savings,Transfer,8105.33,ZAR,Mobile App,Completed
+TXN0000658,ACC00054,2026-08-09,Purchase,DStv,Entertainment,361.64,ZAR,ATM,Completed
+TXN0000732,ACC00097,2026-03-05,Purchase,Shell,Fuel,3472.58,ZAR,EFT,Completed
+TXN0001883,ACC00029,2026-06-19,Purchase,Woolworths Food,Groceries,2206.06,ZAR,Online,Pending
+TXN0001802,ACC00108,2026-06-17,Purchase,Nando's,Dining,513.34,ZAR,POS,Completed
+TXN0001949,ACC00172,2026-07-17,Purchase,DStv,Entertainment,784.26,ZAR,POS,Completed
+TXN0000350,ACC00113,2026-08-23,Refund,Takealot Refund,Online Shopping,1462.5,ZAR,EFT,Completed
+TXN0000088,ACC00117,2026-01-24,Purchase,Bolt,Transport,374.74,ZAR,EFT,Completed
+TXN0001512,ACC00086,2026-07-09,Transfer,Transfer to Family,Transfer,189.79,ZAR,POS,Completed
+TXN0000747,ACC00081,2026-09-25,Purchase,Superbalist,Online Shopping,2274.59,ZAR,EFT,Completed
+TXN0001027,ACC00216,2026-08-04,Purchase,Takealot,Online Shopping,753.07,ZAR,Online,Completed
+TXN0001645,ACC00158,2026-04-07,Purchase,Takealot,Online Shopping,1814.19,ZAR,ATM,Completed
+TXN0000315,ACC00022,2026-02-26,Purchase,Netflix,Entertainment,2966.66,ZAR,Mobile App,Completed
+TXN0001399,ACC00143,2026-06-14,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,EFT,Completed
+TXN0001284,ACC00020,2026-02-10,Withdrawal,ATM Withdrawal,Cash,500.0,ZAR,EFT,Completed
+TXN0001514,ACC00122,2026-09-14,Deposit,Interest,Income,22741.61,ZAR,ATM,Completed
+TXN0000911,ACC00193,2026-02-24,Purchase,Bolt,Transport,557.62,ZAR,Online,Completed
+TXN0000838,ACC00125,2026-05-10,Deposit,Interest,Income,2360.07,ZAR,Mobile App,Completed
+TXN0000715,ACC00001,2026-07-23,Fee,ATM Fee,Bank Fees,38.36,ZAR,Mobile App,Completed
+TXN0001682,ACC00149,2026-01-14,Refund,Shell Refund,Fuel,717.86,ZAR,EFT,Completed
+TXN0001087,ACC00073,2026-01-28,Purchase,BP,Fuel,2914.52,ZAR,Mobile App,Completed
+TXN0001456,ACC00033,2026-04-12,Transfer,  TRANSFER TO SAVINGS  ,Transfer,4251.18,ZAR,ATM,Completed
+TXN0000314,ACC00189,2026-06-17,Purchase,Checkers,Groceries,2250.18,ZAR,Online,Completed
+TXN0001415,ACC00134,2026-02-23,Purchase,Uber,Transport,2239.11,ZAR,Online,Completed
+TXN0001228,ACC00096,2026-09-06,Transfer,Transfer to Savings,Transfer,4852.51,ZAR,EFT,Completed
+TXN0000220,ACC00068,2026-03-01,Purchase,Vodacom,Utilities,1674.67,ZAR,Mobile App,Completed
+TXN0000129,ACC00219,2026-02-05,Purchase,Nando's,Dining,2234.57,ZAR,EFT,Completed
+TXN0001175,ACC00069,2026-08-20,Purchase,Engen,Fuel,1562.15,ZAR,Online,Completed
+TXN0001279,ACC00003,2026-06-04,Deposit,Interest,Income,7943.73,ZAR,Online,Completed
+TXN0000613,ACC00114,31/02/2026,Fee,Card Fee,Bank Fees,144.61,ZAR,Mobile App,Pending
+TXN0001625,ACC00137,2026-06-04,Purchase,Wimpy,Dining,2848.15,ZAR,Mobile App,Completed
+TXN0001747,ACC00154,2026-04-21,Purchase,Nando's,Dining,376.5,ZAR,POS,Reversed
+TXN0001427,ACC00181,2026-07-31,Purchase,Spar,Groceries,3497.13,ZAR,Mobile App,Failed
+TXN0000810,ACC00144,2026-06-01,Withdrawal,ATM Withdrawal,Cash,2000.0,ZAR,Online,Completed
+TXN0000423,ACC00101,2026-01-23,Purchase,Takealot,Online Shopping,969.11,ZAR,EFT,Completed
+TXN0001535,ACC00160,2026-02-20,Deposit,Cash Deposit,Income,18100.78,ZAR,POS,Completed
+TXN0000682,ACC00027,2026-08-06,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,Online,Completed
+TXN0001289,ACC00047,2026-02-27,Transfer,Transfer to Savings,Transfer,301.84,ZAR,ATM,Completed
+TXN0000099,ACC00110,2026-10-27,Purchase,Amazon,Online Shopping,1491.11,ZAR,ATM,Completed
+TXN0000279,ACC00196,2026-06-25,Purchase,Nando's,Dining,2609.44,ZAR,POS,Completed
+TXN0001016,ACC00073,2026-05-10,Transfer,Transfer to Rent,Transfer,13977.44,ZAR,EFT,Completed
+TXN0000283,ACC00026,2026-10-24,Withdrawal,ATM Withdrawal,Cash,2000.0,ZAR,online,Completed
+TXN0001435,ACC00213,2026-05-09,Purchase,Uber,Transport,2123.57,ZAR,EFT,Pending
+TXN0001297,ACC00169,2026-01-24,Purchase,Sasol,Fuel,2999.33,ZAR,Online,Completed
+TXN0001977,ACC00027,2026-03-30,Purchase,Steers,Dining,1660.55,ZAR,Online,Completed
+TXN0001689,ACC00100,2026-01-19,Transfer,Transfer to Savings,Transfer,6874.76,ZAR,Online,Completed
+TXN0001887,ACC00020,2026-06-14,Purchase,Bolt,Transport,1531.5,ZAR,Mobile App,Completed
+TXN0000548,ACC00093,2026-08-09,Refund,Engen Refund,Fuel,333.01,ZAR,POS,Failed
+TXN0001753,ACC00143,2026-02-15,Purchase,Pick n Pay,Groceries,2943.73,ZAR,Mobile App,Completed
+TXN0000993,ACC00022,2026-07-02,Transfer,Transfer to Family,Transfer,2728.34,ZAR,Online,Completed
+TXN0000896,ACC00077,2026-04-20,Transfer,Transfer to Family,Transfer,5477.98,ZAR,POS,Completed
+TXN0001824,ACC00144,2026-04-24,Purchase,Woolworths Food,Groceries,2841.36,ZAR,POS,Completed
+TXN0001260,ACC00117,2026-06-21,Withdrawal,ATM Withdrawal,Cash,2000.0,ZAR,EFT,Completed
+TXN0000084,ACC00020,2026-02-08,Fee,  ATM FEE  ,Bank Fees,96.59,ZAR,EFT,Completed
+TXN0000805,ACC00007,2026-04-21,Deposit,Salary,Income,28558.2,ZAR,ATM,Completed
+TXN0001828,ACC00076,2026-05-29,Purchase,Uber,Transport,1230.56,ZAR,Mobile App,Completed
+TXN0000316,ACC00212,2026-06-17,Transfer,Transfer to Savings,Transfer,1357.54,ZAR,ATM,Completed
+TXN0001200,ACC00174,2026-08-08,Purchase,Bolt,Transport,1008.95,ZAR,Mobile App,Completed
+TXN0000502,ACC00090,2026-08-03,Purchase,Pick n Pay,Groceries,157.5,ZAR,POS,Completed
+TXN0000707,ACC00122,2026-06-21,Purchase,Pick n Pay,Groceries,3197.32,ZAR,ATM,Completed
+TXN0000033,ACC00047,2026-06-21,Deposit,Cash Deposit,Income,16310.11,ZAR,ATM,Completed
+TXN0001804,ACC00029,2026-06-04,Purchase,Amazon,Online Shopping,1308.8,ZAR,POS,Completed
+TXN0000854,ACC00010,2026-02-19,Transfer,Transfer to Savings,Transfer,419.84,ZAR,POS,Completed
+TXN0000559,ACC00215,2026-08-01,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,Mobile App,Completed
+TXN0000535,ACC00017,2026-04-19,Deposit,EFT Credit,Income,8854.6,ZAR,Online,Completed
+TXN0000669,ACC00056,2026-07-29,Purchase,Superbalist,Online Shopping,926.69,ZAR,ATM,Completed
+TXN0000709,ACC00060,2026-09-17,Purchase,Telkom,Utilities,3339.63,ZAR,Mobile App,Completed
+TXN0000214,ACC00023,2026-05-06,Purchase,Gautrain,Transport,3362.03,ZAR,POS,Completed
+TXN0000996,ACC00214,2026-09-11,Deposit,  INTEREST  ,Income,17733.76,ZAR,ATM,Completed
+TXN0001530,ACC00187,2026-04-26,Refund,Vida e Caffe Refund,Dining,1198.4,ZAR,POS,Completed
+TXN0000820,ACC00131,2026-07-28,Purchase,DStv,Entertainment,3021.63,ZAR,EFT,Completed
+TXN0000818,ACC00015,2026-06-27,Purchase,Uber,Transport,237.26,ZAR,ATM,Completed
+TXN0001080,ACC00161,2026-03-15,Purchase,Steers,Dining,2236.7,ZAR,ATM,Completed
+TXN0001805,ACC00219,2026-01-04,Purchase,Wimpy,Dining,2534.79,ZAR,Mobile App,Completed
+TXN0001628,ACC00094,2026-03-11,Purchase,Vida e Caffe,Dining,565.91,ZAR,Online,Completed
+TXN0000768,ACC00009,2026-09-16,Transfer,Transfer to Family,Transfer,11873.05,ZAR,Mobile App,Completed
+TXN0000496,ACC00085,2026-01-17,Purchase,Sasol,Fuel,3359.55,ZAR,ATM,Completed
+TXN0001532,ACC00208,2026-10-03,Purchase,Netflix,Entertainment,441.73,ZAR,ATM,Completed
+TXN0000899,ACC00001,2026-06-05,Purchase,Gautrain,Transport,3364.81,ZAR,POS,Completed
+TXN0000449,ACC00209,31/02/2026,Purchase,Sasol,Fuel,2451.05,ZAR,POS,Reversed
+TXN0001783,ACC00041,2026-03-13,Transfer,Transfer to Savings,Transfer,4600.33,ZAR,Mobile App,Completed
+TXN0000684,ACC00070,2026-09-25,Purchase,Steers,Dining,508.19,ZAR,EFT,Completed
+TXN0001750,ACC00191,2026-06-18,Purchase,Steers,Dining,3487.5,ZAR,Online,Completed
+TXN0001718,ACC00113,2026-09-11,Deposit,Interest,Income,4716.76,ZAR,Online,Completed
+TXN0001987,ACC00217,2026-05-17,Deposit,Interest,Income,33208.21,ZAR,ATM,Completed
+TXN0000011,ACC00142,2026-10-04,Purchase,Vida e Caffe,Dining,842.86,ZAR,pos,Completed
+TXN0001920,ACC00208,2026-01-20,Purchase,Ster-Kinekor,Entertainment,827.95,ZAR,EFT,Completed
+TXN0000615,ACC00169,2026-06-05,Fee,Monthly Account Fee,Bank Fees,137.84,ZAR,Mobile App,Completed
+TXN0001864,ACC00076,2026-10-15,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,ATM,Completed
+TXN0000403,ACC00135,2026-08-11,Transfer,Transfer to Savings,Transfer,1865.55,ZAR,Online,Completed
+TXN0000418,ACC00169,2026-09-26,Purchase,Woolworths Food,Groceries,1822.08,ZAR,Online,Completed
+TXN0001626,ACC00061,2026-01-22,Purchase,Sasol,Fuel,2904.88,ZAR,ATM,Completed
+TXN0001969,ACC00078,2026-03-07,Purchase,Vida e Caffe,Dining,997.86,ZAR,POS,Failed
+TXN0000563,ACC00021,2026-10-20,Purchase,Gautrain,Transport,469.96,ZAR,Mobile App,Completed
+TXN0000069,ACC00135,2026-04-23,Refund,Showmax Refund,Entertainment,1183.66,ZAR,Online,Completed
+TXN0001037,ACC00022,2026-10-07,Transfer,Transfer to Rent,Transfer,10055.34,ZAR,EFT,Completed
+TXN0001791,ACC00183,2026-08-08,Purchase,Steers,Dining,2311.03,ZAR,Mobile App,Completed
+TXN0001298,ACC00109,2026-01-14,Deposit,Cash Deposit,Income,43560.85,ZAR,POS,Completed
+TXN0001648,ACC00063,2026-04-20,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,Mobile App,Reversed
+TXN0000170,ACC00058,2026-01-17,Purchase,Woolworths Food,Groceries,3326.44,ZAR,Online,Completed
+TXN0000101,ACC00059,2026-08-17,Transfer,Transfer to Savings,Transfer,1594.15,ZAR,EFT,Completed
+TXN0001422,ACC00088,2026-09-29,Purchase,Vodacom,Utilities,502.42,ZAR,Mobile App,Completed
+TXN0001342,ACC00045,2026-04-29,Withdrawal,ATM Withdrawal,Cash,2000.0,ZAR,ATM,Completed
+TXN0001982,ACC00192,2026-07-15,Refund,MTN Refund,Utilities,158.06,ZAR,POS,Pending
+TXN0000521,ACC00031,2026-07-04,Fee,Monthly Account Fee,Bank Fees,134.86,ZAR,EFT,Completed
+TXN0001570,ACC00207,2026-01-24,Purchase,Takealot,Online Shopping,2010.65,ZAR,Online,Completed
+TXN0001065,ACC00060,2026-07-11,Deposit,Salary,Income,2876.32,ZAR,ATM,Completed
+TXN0001288,ACC00086,2026-06-06,Purchase,Superbalist,Online Shopping,661.0,ZAR,Mobile App,Completed
+TXN0001163,ACC00064,2026-04-30,Transfer,Transfer to Family,Transfer,6609.72,ZAR,Online,Completed
+TXN0000100,ACC00046,2026-07-09,Deposit,Interest,Income,11793.11,ZAR,ATM,Completed
+TXN0001134,ACC00146,2026-08-13,Purchase,BP,Fuel,2340.71,ZAR,ATM,Completed
+TXN0000841,ACC00196,2026-02-04,Purchase,DStv,Entertainment,1541.81,ZAR,Online,Completed
+TXN0000782,ACC00037,2026-07-28,Purchase,MTN,Utilities,,ZAR,Online,Completed
+TXN0000983,ACC00183,2026-06-25,Transfer,Transfer to Family,Transfer,5123.98,ZAR,POS,Completed
+TXN0000343,ACC00217,2026-08-10,Refund,Superbalist Refund,Online Shopping,1110.88,ZAR,EFT,Completed
+TXN0001230,ACC00212,2026-03-11,Purchase,Superbalist,Online Shopping,3471.7,ZAR,EFT,Completed
+TXN0001358,ACC00152,2026-06-12,Purchase,Gautrain,Transport,2041.76,ZAR,Online,Completed
+TXN0001582,ACC00008,2026-09-20,Deposit,Salary,Income,23532.37,ZAR,POS,Completed
+TXN0000626,ACC00010,2026-06-27,Refund,MTN Refund,Utilities,1114.15,ZAR,POS,Pending
+TXN0000441,ACC00189,2026-08-10,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,POS,Completed
+TXN0001526,ACC00151,2026-07-11,Purchase,Uber,Transport,1777.24,ZAR,EFT,Completed
+TXN0001622,ACC00094,2026-05-23,Purchase,Gautrain,Transport,3355.65,ZAR,POS,Completed
+TXN0001109,ACC00148,2026-02-08,Fee,Monthly Account Fee,Bank Fees,137.51,ZAR,EFT,Completed
+TXN0001556,ACC00054,2026-05-09,Deposit,Cash Deposit,Income,28253.57,ZAR,POS,Completed
+TXN0001938,ACC00207,2026-07-11,Deposit,Interest,Income,38037.0,ZAR,POS,Completed
+TXN0001074,ACC00038,2026-08-11,Deposit,Salary,Income,35370.24,ZAR,Mobile App,Completed
+TXN0000259,ACC00006,2026-04-29,Transfer,Transfer to Rent,Transfer,9705.61,ZAR,Mobile App,Completed
+TXN0000297,ACC00084,2026-01-20,Purchase,Superbalist,Online Shopping,1994.65,ZAR,Mobile App,Completed
+TXN0000576,ACC00012,2026-05-21,Purchase,  SHOPRITE  ,Groceries,611.42,ZAR,ATM,Completed
+TXN0001889,ACC00166,2026-07-13,Withdrawal,ATM Withdrawal,Cash,2000.0,ZAR,Online,Completed
+TXN0000354,ACC00175,2026-07-05,Fee,Card Fee,Bank Fees,26.11,ZAR,POS,Completed
+TXN0000318,ACC00146,2026-03-02,Purchase,Ster-Kinekor,Entertainment,2710.16,ZAR,Mobile App,Completed
+TXN0001310,ACC00015,2026-09-18,Transfer,Transfer to Rent,Transfer,6049.52,ZAR,EFT,Completed
+TXN0000167,ACC00048,2026-06-12,Transfer,Transfer to Savings,Transfer,10933.49,ZAR,ATM,Pending
+TXN0000974,ACC00050,2026-03-29,Fee,Card Fee,Bank Fees,20.59,ZAR,EFT,Completed
+TXN0001179,ACC00122,2026-07-28,Fee,Card Fee,Bank Fees,32.05,ZAR,Online,Completed
+TXN0000671,ACC00157,2026-06-18,Purchase,Showmax,Entertainment,3326.72,ZAR,POS,Completed
+TXN0001961,ACC00006,2026-01-19,Purchase,Spar,Groceries,2582.97,ZAR,POS,Completed
+TXN0001554,ACC00067,2026-05-25,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,ATM,Completed
+TXN0000176,ACC00167,2026-03-25,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,POS,Completed
+TXN0000078,ACC00204,2026-07-11,Refund,Spar Refund,Groceries,,ZAR,Online,Completed
+TXN0001715,ACC00175,2026-05-11,Transfer,Transfer to Family,Transfer,7268.56,ZAR,Online,Completed
+TXN0000393,ACC00025,2026-07-30,Purchase,Showmax,Entertainment,1595.14,ZAR,Mobile App,Completed
+TXN0001607,ACC00170,2026-04-02,Refund,BP Refund,Fuel,1253.32,ZAR,EFT,Completed
+TXN0000812,ACC00022,2026-06-15,Refund,Eskom Prepaid Refund,Utilities,383.94,ZAR,Online,Completed
+TXN0000226,ACC00020,2026-08-21,Fee,Card Fee,Bank Fees,116.56,ZAR,ATM,Completed
+TXN0001711,ACC00118,2026-06-05,Transfer,Transfer to Family,Transfer,6570.79,ZAR,ATM,Completed
+TXN0000125,ACC00117,2026-10-16,Purchase,Gautrain,Transport,1875.24,ZAR,ATM,Completed
+TXN0000377,ACC00044,2026-05-06,Purchase,MTN,Utilities,1589.32,ZAR,POS,Completed
+TXN0001676,ACC00112,2026-08-24,Purchase,Nando's,Dining,2302.23,ZAR,POS,Completed
+TXN0001033,ACC00110,2026-09-09,Transfer,Transfer to Savings,Transfer,2181.72,ZAR,Online,Completed
+TXN0001509,ACC00012,2026-08-18,Purchase,Steers,Dining,50.85,ZAR,Mobile App,Completed
+TXN0000719,ACC00137,2026-13-45,Purchase,Sasol,Fuel,1868.02,ZAR,Mobile App,Completed
+TXN0000424,ACC00196,2026-10-11,Purchase,Nando's,Dining,2647.56,ZAR,EFT,Completed
+TXN0001957,ACC00068,2026-03-18,Purchase,Superbalist,Online Shopping,1483.06,ZAR,ATM,Completed
+TXN0001159,ACC00125,2026-08-28,Purchase,Nando's,Dining,83.47,ZAR,ATM,Completed
+TXN0000103,ACC00103,2026-09-24,Purchase,Showmax,Entertainment,3310.82,ZAR,Online,Completed
+TXN0001657,ACC00184,2026-10-08,Deposit,Salary,Income,29893.71,ZAR,pos,Completed
+TXN0001871,ACC00017,2026-03-13,Fee,ATM Fee,Bank Fees,43.4,ZAR,Online,Completed
+TXN0000017,ACC00033,2026-01-22,Purchase,Bolt,Transport,718.69,ZAR,Online,Completed
+TXN0001480,ACC00190,2026-07-13,Purchase,Pick n Pay,Groceries,317.78,ZAR,Mobile App,Completed
+TXN0001916,ACC00121,2026-09-27,Purchase,Showmax,Entertainment,2643.78,ZAR,POS,Completed
+TXN0000487,ACC00023,2026-06-06,Purchase,Nando's,Dining,2226.85,ZAR,POS,Completed
+TXN0000875,ACC00162,2026-03-18,Purchase,  SHOPRITE  ,Groceries,2772.94,ZAR,Online,Completed
+TXN0001227,ACC00155,2026-09-02,Purchase,Showmax,Entertainment,1580.74,ZAR,ATM,Completed
+TXN0001085,ACC00212,2026-09-20,Refund,Steers Refund,Dining,712.24,ZAR,EFT,Completed
+TXN0000903,ACC00004,2026-10-23,Fee,ATM Fee,Bank Fees,14.14,ZAR,ATM,Completed
+TXN0000826,ACC00040,2026-07-11,Deposit,Interest,Income,31933.36,ZAR,Online,Completed
+TXN0001253,ACC00125,2026-10-19,Fee,Monthly Account Fee,Bank Fees,98.4,ZAR,Mobile App,Completed
+TXN0000229,ACC00164,2026-01-01,Fee,ATM Fee,Bank Fees,61.62,ZAR,Online,Completed
+TXN0001817,ACC00116,2026-10-09,Purchase,Spar,Groceries,144.65,ZAR,Mobile App,Completed
+TXN0000637,ACC00193,2026-10-30,Purchase,Woolworths Food,Groceries,2544.37,ZAR,EFT,Completed
+TXN0000893,ACC00095,2026-09-18,Fee,Monthly Account Fee,Bank Fees,62.59,ZAR,Online,Completed
+TXN0001314,ACC00025,2026-03-11,Withdrawal,ATM Withdrawal,Cash,100.0,ZAR,Online,Completed
+TXN0001595,ACC00097,2026-10-30,Fee,ATM Fee,Bank Fees,100.31,ZAR,Online,Completed
+TXN0000734,ACC00137,2026-07-20,Purchase,Vodacom,Utilities,2652.55,ZAR,ATM,Completed
+TXN0001572,ACC00117,2026-01-31,Purchase,  AMAZON  ,Online Shopping,1487.72,ZAR,POS,Completed
+TXN0000148,ACC00073,2026-01-09,Purchase,Nando's,Dining,1061.66,ZAR,Online,Completed
+TXN0000652,ACC00081,2026-03-02,Purchase,MTN,Utilities,3441.62,ZAR,EFT,Completed
+TXN0001613,ACC00155,2026-03-01,Fee,Monthly Account Fee,Bank Fees,98.76,ZAR,Mobile App,Completed
+TXN0000729,ACC00191,2026-09-13,Purchase,Uber,Transport,2360.36,ZAR,ATM,Completed
+TXN0000833,ACC00008,2026-01-25,Refund,City of Joburg Refund,Utilities,540.61,ZAR,EFT,Completed
+TXN0001256,ACC00056,2026-03-24,Deposit,Salary,Income,3743.09,ZAR,Online,Reversed
+TXN0000550,ACC00193,2026-06-02,Purchase,Wimpy,Dining,1693.46,ZAR,EFT,Completed
+TXN0000459,ACC00115,2026-03-01,Purchase,Netflix,Entertainment,863.1,ZAR,Online,Completed
+TXN0000686,ACC00002,2026-06-09,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,POS,Completed
+TXN0000527,ACC00029,2026-01-31,Fee,Card Fee,Bank Fees,128.07,ZAR,Online,Completed
+TXN0000870,ACC00154,2026-07-31,Purchase,Steers,Dining,1501.43,ZAR,ATM,Completed
+TXN0001010,ACC00028,2026-06-24,Purchase,Shell,Fuel,2539.24,ZAR,POS,Completed
+TXN0001268,ACC00044,2026-09-02,Purchase,Pick n Pay,Groceries,1935.93,ZAR,EFT,Completed
+TXN0001264,ACC00170,2026-03-29,Purchase,Showmax,Entertainment,1835.06,ZAR,Mobile App,Completed
+TXN0001618,ACC00129,2026-09-17,Fee,Card Fee,Bank Fees,75.67,ZAR,EFT,Completed
+TXN0000242,ACC00093,2026-10-04,Purchase,City of Joburg,Utilities,978.35,ZAR,Online,Completed
+TXN0001336,ACC00081,2026-03-14,Deposit,EFT Credit,Income,17473.59,ZAR,EFT,Failed
+TXN0001533,ACC00101,2026-06-10,Fee,ATM Fee,Bank Fees,92.17,ZAR,Online,Failed
+TXN0001719,ACC00123,2026-05-05,Purchase,Engen,Fuel,1146.14,ZAR,POS,Completed
+TXN0000247,ACC00178,2026-10-19,Purchase,Engen,Fuel,2983.01,ZAR,Mobile App,Completed
+TXN0001558,ACC00079,2026-05-17,Transfer,Transfer to Savings,Transfer,11551.88,ZAR,Online,Completed
+TXN0000662,ACC00030,2026-07-01,Transfer,Transfer to Rent,Transfer,11920.47,ZAR,POS,Completed
+TXN0000909,ACC00029,2026-09-14,Purchase,Showmax,Entertainment,2020.49,ZAR,ATM,Failed
+TXN0000878,ACC00079,2026-03-23,Purchase,Wimpy,Dining,2146.52,ZAR,EFT,Completed
+TXN0000321,ACC00121,2026-03-10,Transfer,Transfer to Rent,Transfer,6023.57,ZAR,Online,Completed
+TXN0001902,ACC00012,2026-03-26,Withdrawal,ATM Withdrawal,Cash,200.0,ZAR,ATM,Completed
+TXN0001818,ACC00053,2026-09-05,Withdrawal,ATM Withdrawal,Cash,1000.0,ZAR,POS,Completed
+TXN0001401,ACC00093,2026-06-07,Deposit,EFT Credit,Income,20446.54,ZAR,ATM,Completed
+TXN0000791,ACC00116,2026-08-12,Deposit,Salary,Income,43500.02,ZAR,EFT,Completed
+TXN0001079,ACC00156,2026-02-07,Transfer,Transfer to Family,Transfer,909.42,ZAR,Mobile App,Completed
+TXN0001989,ACC00045,2026-04-04,Purchase,Telkom,Utilities,2967.49,ZAR,Mobile App,Completed
+TXN0000597,ACC00161,2026-10-06,Fee,Card Fee,Bank Fees,148.16,ZAR,EFT,Completed
+TXN0001303,ACC00118,2026-01-24,Purchase,MTN,Utilities,1749.95,ZAR,POS,Completed
+TXN0001446,ACC00031,2026-01-13,Transfer,Transfer to Family,Transfer,4811.58,ZAR,ATM,Completed
+TXN0000132,ACC00210,2026-07-15,Transfer,Transfer to Savings,Transfer,14621.52,ZAR,Online,Completed
+TXN0001405,ACC00045,2026-09-03,Purchase,Engen,Fuel,1009.06,ZAR,EFT,Completed
+TXN0001981,ACC00158,2026-05-17,Purchase,  SHOPRITE  ,Groceries,1084.15,ZAR,POS,Failed
+TXN0000179,ACC00219,2026-09-13,Purchase,Spar,Groceries,3091.22,ZAR,Online,Completed
+TXN0000567,ACC00077,2026-01-06,Fee,ATM Fee,Bank Fees,87.26,ZAR,EFT,Completed
